@@ -1,0 +1,2149 @@
+"State","State Code","ICD Sub-Chapter","ICD Sub-Chapter Code","Year","Year Code","Deaths","Population","Crude Rate"
+"Alabama","01","Other external causes of accidental injury","W00-X59","1999","1999",51,4430141,1.2
+"Alabama","01","Other external causes of accidental injury","W00-X59","2000","2000",34,4447100,0.8
+"Alabama","01","Other external causes of accidental injury","W00-X59","2001","2001",41,4467634,0.9
+"Alabama","01","Other external causes of accidental injury","W00-X59","2002","2002",45,4480089,1
+"Alabama","01","Other external causes of accidental injury","W00-X59","2003","2003",38,4503491,0.8
+"Alabama","01","Other external causes of accidental injury","W00-X59","2004","2004",31,4530729,0.7
+"Alabama","01","Other external causes of accidental injury","W00-X59","2005","2005",37,4569805,0.8
+"Alabama","01","Other external causes of accidental injury","W00-X59","2006","2006",37,4628981,0.8
+"Alabama","01","Other external causes of accidental injury","W00-X59","2007","2007",24,4672840,0.5
+"Alabama","01","Other external causes of accidental injury","W00-X59","2008","2008",32,4718206,0.7
+"Alabama","01","Other external causes of accidental injury","W00-X59","2009","2009",28,4757938,0.6
+"Alabama","01","Other external causes of accidental injury","W00-X59","2010","2010",35,4779736,0.7
+"Alabama","01","Other external causes of accidental injury","W00-X59","2011","2011",25,4802740,0.5
+"Alabama","01","Other external causes of accidental injury","W00-X59","2012","2012",14,4822023,"Unreliable"
+"Alabama","01","Other external causes of accidental injury","W00-X59","2013","2013",25,4833722,0.5
+"Alabama","01","Other external causes of accidental injury","W00-X59","2014","2014",29,4849377,0.6
+"Alabama","01","Other external causes of accidental injury","W00-X59","2015","2015",20,4858979,0.4
+"Alabama","01","Other external causes of accidental injury","W00-X59","2016","2016",21,4863300,0.4
+"Alabama","01","Intentional self-harm","X60-X84","1999","1999",435,4430141,9.8
+"Alabama","01","Intentional self-harm","X60-X84","2000","2000",427,4447100,9.6
+"Alabama","01","Intentional self-harm","X60-X84","2001","2001",387,4467634,8.7
+"Alabama","01","Intentional self-harm","X60-X84","2002","2002",381,4480089,8.5
+"Alabama","01","Intentional self-harm","X60-X84","2003","2003",399,4503491,8.9
+"Alabama","01","Intentional self-harm","X60-X84","2004","2004",375,4530729,8.3
+"Alabama","01","Intentional self-harm","X60-X84","2005","2005",369,4569805,8.1
+"Alabama","01","Intentional self-harm","X60-X84","2006","2006",400,4628981,8.6
+"Alabama","01","Intentional self-harm","X60-X84","2007","2007",396,4672840,8.5
+"Alabama","01","Intentional self-harm","X60-X84","2008","2008",424,4718206,9
+"Alabama","01","Intentional self-harm","X60-X84","2009","2009",479,4757938,10.1
+"Alabama","01","Intentional self-harm","X60-X84","2010","2010",454,4779736,9.5
+"Alabama","01","Intentional self-harm","X60-X84","2011","2011",452,4802740,9.4
+"Alabama","01","Intentional self-harm","X60-X84","2012","2012",500,4822023,10.4
+"Alabama","01","Intentional self-harm","X60-X84","2013","2013",504,4833722,10.4
+"Alabama","01","Intentional self-harm","X60-X84","2014","2014",479,4849377,9.9
+"Alabama","01","Intentional self-harm","X60-X84","2015","2015",528,4858979,10.9
+"Alabama","01","Intentional self-harm","X60-X84","2016","2016",550,4863300,11.3
+"Alabama","01","Assault","X85-Y09","1999","1999",293,4430141,6.6
+"Alabama","01","Assault","X85-Y09","2000","2000",294,4447100,6.6
+"Alabama","01","Assault","X85-Y09","2001","2001",302,4467634,6.8
+"Alabama","01","Assault","X85-Y09","2002","2002",292,4480089,6.5
+"Alabama","01","Assault","X85-Y09","2003","2003",322,4503491,7.2
+"Alabama","01","Assault","X85-Y09","2004","2004",262,4530729,5.8
+"Alabama","01","Assault","X85-Y09","2005","2005",319,4569805,7
+"Alabama","01","Assault","X85-Y09","2006","2006",333,4628981,7.2
+"Alabama","01","Assault","X85-Y09","2007","2007",378,4672840,8.1
+"Alabama","01","Assault","X85-Y09","2008","2008",349,4718206,7.4
+"Alabama","01","Assault","X85-Y09","2009","2009",317,4757938,6.7
+"Alabama","01","Assault","X85-Y09","2010","2010",283,4779736,5.9
+"Alabama","01","Assault","X85-Y09","2011","2011",292,4802740,6.1
+"Alabama","01","Assault","X85-Y09","2012","2012",306,4822023,6.3
+"Alabama","01","Assault","X85-Y09","2013","2013",317,4833722,6.6
+"Alabama","01","Assault","X85-Y09","2014","2014",292,4849377,6
+"Alabama","01","Assault","X85-Y09","2015","2015",391,4858979,8
+"Alabama","01","Assault","X85-Y09","2016","2016",454,4863300,9.3
+"Alaska","02","Intentional self-harm","X60-X84","1999","1999",55,624779,8.8
+"Alaska","02","Intentional self-harm","X60-X84","2000","2000",96,626932,15.3
+"Alaska","02","Intentional self-harm","X60-X84","2001","2001",65,633714,10.3
+"Alaska","02","Intentional self-harm","X60-X84","2002","2002",92,642337,14.3
+"Alaska","02","Intentional self-harm","X60-X84","2003","2003",79,648414,12.2
+"Alaska","02","Intentional self-harm","X60-X84","2004","2004",94,659286,14.3
+"Alaska","02","Intentional self-harm","X60-X84","2005","2005",87,666946,13
+"Alaska","02","Intentional self-harm","X60-X84","2006","2006",79,675302,11.7
+"Alaska","02","Intentional self-harm","X60-X84","2007","2007",94,680300,13.8
+"Alaska","02","Intentional self-harm","X60-X84","2008","2008",116,687455,16.9
+"Alaska","02","Intentional self-harm","X60-X84","2009","2009",79,698895,11.3
+"Alaska","02","Intentional self-harm","X60-X84","2010","2010",107,710231,15.1
+"Alaska","02","Intentional self-harm","X60-X84","2011","2011",99,722718,13.7
+"Alaska","02","Intentional self-harm","X60-X84","2012","2012",98,731449,13.4
+"Alaska","02","Intentional self-harm","X60-X84","2013","2013",120,735132,16.3
+"Alaska","02","Intentional self-harm","X60-X84","2014","2014",115,736732,15.6
+"Alaska","02","Intentional self-harm","X60-X84","2015","2015",123,738432,16.7
+"Alaska","02","Intentional self-harm","X60-X84","2016","2016",113,741894,15.2
+"Alaska","02","Assault","X85-Y09","1999","1999",27,624779,4.3
+"Alaska","02","Assault","X85-Y09","2000","2000",16,626932,"Unreliable"
+"Alaska","02","Assault","X85-Y09","2001","2001",25,633714,3.9
+"Alaska","02","Assault","X85-Y09","2002","2002",26,642337,4
+"Alaska","02","Assault","X85-Y09","2003","2003",32,648414,4.9
+"Alaska","02","Assault","X85-Y09","2004","2004",20,659286,3
+"Alaska","02","Assault","X85-Y09","2005","2005",24,666946,3.6
+"Alaska","02","Assault","X85-Y09","2006","2006",28,675302,4.1
+"Alaska","02","Assault","X85-Y09","2007","2007",25,680300,3.7
+"Alaska","02","Assault","X85-Y09","2008","2008",15,687455,"Unreliable"
+"Alaska","02","Assault","X85-Y09","2009","2009",17,698895,"Unreliable"
+"Alaska","02","Assault","X85-Y09","2010","2010",30,710231,4.2
+"Alaska","02","Assault","X85-Y09","2011","2011",19,722718,"Unreliable"
+"Alaska","02","Assault","X85-Y09","2012","2012",17,731449,"Unreliable"
+"Alaska","02","Assault","X85-Y09","2013","2013",19,735132,"Unreliable"
+"Alaska","02","Assault","X85-Y09","2014","2014",21,736732,2.9
+"Alaska","02","Assault","X85-Y09","2015","2015",42,738432,5.7
+"Alaska","02","Assault","X85-Y09","2016","2016",45,741894,6.1
+"Arizona","04","Other external causes of accidental injury","W00-X59","1999","1999",17,5023823,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2000","2000",14,5130632,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2001","2001",16,5273477,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2002","2002",25,5396255,0.5
+"Arizona","04","Other external causes of accidental injury","W00-X59","2003","2003",12,5510364,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2004","2004",14,5652404,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2005","2005",15,5839077,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2007","2007",14,6167681,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2008","2008",11,6280362,"Unreliable"
+"Arizona","04","Other external causes of accidental injury","W00-X59","2010","2010",12,6392017,"Unreliable"
+"Arizona","04","Intentional self-harm","X60-X84","1999","1999",476,5023823,9.5
+"Arizona","04","Intentional self-harm","X60-X84","2000","2000",489,5130632,9.5
+"Arizona","04","Intentional self-harm","X60-X84","2001","2001",468,5273477,8.9
+"Arizona","04","Intentional self-harm","X60-X84","2002","2002",559,5396255,10.4
+"Arizona","04","Intentional self-harm","X60-X84","2003","2003",486,5510364,8.8
+"Arizona","04","Intentional self-harm","X60-X84","2004","2004",509,5652404,9
+"Arizona","04","Intentional self-harm","X60-X84","2005","2005",514,5839077,8.8
+"Arizona","04","Intentional self-harm","X60-X84","2006","2006",563,6029141,9.3
+"Arizona","04","Intentional self-harm","X60-X84","2007","2007",552,6167681,8.9
+"Arizona","04","Intentional self-harm","X60-X84","2008","2008",540,6280362,8.6
+"Arizona","04","Intentional self-harm","X60-X84","2009","2009",605,6343154,9.5
+"Arizona","04","Intentional self-harm","X60-X84","2010","2010",620,6392017,9.7
+"Arizona","04","Intentional self-harm","X60-X84","2011","2011",674,6482505,10.4
+"Arizona","04","Intentional self-harm","X60-X84","2012","2012",663,6553255,10.1
+"Arizona","04","Intentional self-harm","X60-X84","2013","2013",655,6626624,9.9
+"Arizona","04","Intentional self-harm","X60-X84","2014","2014",683,6731484,10.1
+"Arizona","04","Intentional self-harm","X60-X84","2015","2015",707,6828065,10.4
+"Arizona","04","Intentional self-harm","X60-X84","2016","2016",755,6931071,10.9
+"Arizona","04","Assault","X85-Y09","1999","1999",303,5023823,6
+"Arizona","04","Assault","X85-Y09","2000","2000",274,5130632,5.3
+"Arizona","04","Assault","X85-Y09","2001","2001",332,5273477,6.3
+"Arizona","04","Assault","X85-Y09","2002","2002",355,5396255,6.6
+"Arizona","04","Assault","X85-Y09","2003","2003",324,5510364,5.9
+"Arizona","04","Assault","X85-Y09","2004","2004",342,5652404,6.1
+"Arizona","04","Assault","X85-Y09","2005","2005",377,5839077,6.5
+"Arizona","04","Assault","X85-Y09","2006","2006",387,6029141,6.4
+"Arizona","04","Assault","X85-Y09","2007","2007",354,6167681,5.7
+"Arizona","04","Assault","X85-Y09","2008","2008",333,6280362,5.3
+"Arizona","04","Assault","X85-Y09","2009","2009",228,6343154,3.6
+"Arizona","04","Assault","X85-Y09","2010","2010",271,6392017,4.2
+"Arizona","04","Assault","X85-Y09","2011","2011",259,6482505,4
+"Arizona","04","Assault","X85-Y09","2012","2012",254,6553255,3.9
+"Arizona","04","Assault","X85-Y09","2013","2013",251,6626624,3.8
+"Arizona","04","Assault","X85-Y09","2014","2014",212,6731484,3.1
+"Arizona","04","Assault","X85-Y09","2015","2015",236,6828065,3.5
+"Arizona","04","Assault","X85-Y09","2016","2016",303,6931071,4.4
+"Arkansas","05","Other external causes of accidental injury","W00-X59","1999","1999",24,2651860,0.9
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2000","2000",19,2673400,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2001","2001",19,2691571,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2002","2002",22,2705927,0.8
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2003","2003",18,2724816,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2004","2004",16,2749686,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2005","2005",14,2781097,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2006","2006",12,2821761,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2007","2007",21,2848650,0.7
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2008","2008",17,2874554,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2009","2009",14,2896843,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2010","2010",14,2915918,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2011","2011",11,2937979,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2012","2012",10,2949131,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2013","2013",15,2959373,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2015","2015",17,2978204,"Unreliable"
+"Arkansas","05","Other external causes of accidental injury","W00-X59","2016","2016",11,2988248,"Unreliable"
+"Arkansas","05","Intentional self-harm","X60-X84","1999","1999",234,2651860,8.8
+"Arkansas","05","Intentional self-harm","X60-X84","2000","2000",244,2673400,9.1
+"Arkansas","05","Intentional self-harm","X60-X84","2001","2001",274,2691571,10.2
+"Arkansas","05","Intentional self-harm","X60-X84","2002","2002",257,2705927,9.5
+"Arkansas","05","Intentional self-harm","X60-X84","2003","2003",258,2724816,9.5
+"Arkansas","05","Intentional self-harm","X60-X84","2004","2004",232,2749686,8.4
+"Arkansas","05","Intentional self-harm","X60-X84","2005","2005",262,2781097,9.4
+"Arkansas","05","Intentional self-harm","X60-X84","2006","2006",247,2821761,8.8
+"Arkansas","05","Intentional self-harm","X60-X84","2007","2007",244,2848650,8.6
+"Arkansas","05","Intentional self-harm","X60-X84","2008","2008",275,2874554,9.6
+"Arkansas","05","Intentional self-harm","X60-X84","2009","2009",285,2896843,9.8
+"Arkansas","05","Intentional self-harm","X60-X84","2010","2010",266,2915918,9.1
+"Arkansas","05","Intentional self-harm","X60-X84","2011","2011",299,2937979,10.2
+"Arkansas","05","Intentional self-harm","X60-X84","2012","2012",307,2949131,10.4
+"Arkansas","05","Intentional self-harm","X60-X84","2013","2013",322,2959373,10.9
+"Arkansas","05","Intentional self-harm","X60-X84","2014","2014",323,2966369,10.9
+"Arkansas","05","Intentional self-harm","X60-X84","2015","2015",342,2978204,11.5
+"Arkansas","05","Intentional self-harm","X60-X84","2016","2016",331,2988248,11.1
+"Arkansas","05","Assault","X85-Y09","1999","1999",118,2651860,4.4
+"Arkansas","05","Assault","X85-Y09","2000","2000",140,2673400,5.2
+"Arkansas","05","Assault","X85-Y09","2001","2001",110,2691571,4.1
+"Arkansas","05","Assault","X85-Y09","2002","2002",146,2705927,5.4
+"Arkansas","05","Assault","X85-Y09","2003","2003",123,2724816,4.5
+"Arkansas","05","Assault","X85-Y09","2004","2004",141,2749686,5.1
+"Arkansas","05","Assault","X85-Y09","2005","2005",154,2781097,5.5
+"Arkansas","05","Assault","X85-Y09","2006","2006",155,2821761,5.5
+"Arkansas","05","Assault","X85-Y09","2007","2007",153,2848650,5.4
+"Arkansas","05","Assault","X85-Y09","2008","2008",145,2874554,5
+"Arkansas","05","Assault","X85-Y09","2009","2009",157,2896843,5.4
+"Arkansas","05","Assault","X85-Y09","2010","2010",132,2915918,4.5
+"Arkansas","05","Assault","X85-Y09","2011","2011",145,2937979,4.9
+"Arkansas","05","Assault","X85-Y09","2012","2012",166,2949131,5.6
+"Arkansas","05","Assault","X85-Y09","2013","2013",152,2959373,5.1
+"Arkansas","05","Assault","X85-Y09","2014","2014",161,2966369,5.4
+"Arkansas","05","Assault","X85-Y09","2015","2015",155,2978204,5.2
+"Arkansas","05","Assault","X85-Y09","2016","2016",182,2988248,6.1
+"California","06","Other external causes of accidental injury","W00-X59","1999","1999",47,33499204,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2000","2000",66,33871648,0.2
+"California","06","Other external causes of accidental injury","W00-X59","2001","2001",97,34479458,0.3
+"California","06","Other external causes of accidental injury","W00-X59","2002","2002",44,34871843,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2003","2003",68,35253159,0.2
+"California","06","Other external causes of accidental injury","W00-X59","2004","2004",50,35574576,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2005","2005",146,35827943,0.4
+"California","06","Other external causes of accidental injury","W00-X59","2006","2006",68,36021202,0.2
+"California","06","Other external causes of accidental injury","W00-X59","2007","2007",43,36250311,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2008","2008",37,36604337,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2009","2009",31,36961229,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2010","2010",24,37253956,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2011","2011",26,37691912,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2012","2012",30,38041430,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2013","2013",35,38332521,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2014","2014",23,38802500,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2015","2015",29,39144818,0.1
+"California","06","Other external causes of accidental injury","W00-X59","2016","2016",36,39250017,0.1
+"California","06","Intentional self-harm","X60-X84","1999","1999",1532,33499204,4.6
+"California","06","Intentional self-harm","X60-X84","2000","2000",1487,33871648,4.4
+"California","06","Intentional self-harm","X60-X84","2001","2001",1450,34479458,4.2
+"California","06","Intentional self-harm","X60-X84","2002","2002",1490,34871843,4.3
+"California","06","Intentional self-harm","X60-X84","2003","2003",1505,35253159,4.3
+"California","06","Intentional self-harm","X60-X84","2004","2004",1366,35574576,3.8
+"California","06","Intentional self-harm","X60-X84","2005","2005",1329,35827943,3.7
+"California","06","Intentional self-harm","X60-X84","2006","2006",1319,36021202,3.7
+"California","06","Intentional self-harm","X60-X84","2007","2007",1422,36250311,3.9
+"California","06","Intentional self-harm","X60-X84","2008","2008",1478,36604337,4
+"California","06","Intentional self-harm","X60-X84","2009","2009",1519,36961229,4.1
+"California","06","Intentional self-harm","X60-X84","2010","2010",1492,37253956,4
+"California","06","Intentional self-harm","X60-X84","2011","2011",1564,37691912,4.1
+"California","06","Intentional self-harm","X60-X84","2012","2012",1549,38041430,4.1
+"California","06","Intentional self-harm","X60-X84","2013","2013",1571,38332521,4.1
+"California","06","Intentional self-harm","X60-X84","2014","2014",1582,38802500,4.1
+"California","06","Intentional self-harm","X60-X84","2015","2015",1559,39144818,4
+"California","06","Intentional self-harm","X60-X84","2016","2016",1595,39250017,4.1
+"California","06","Assault","X85-Y09","1999","1999",1380,33499204,4.1
+"California","06","Assault","X85-Y09","2000","2000",1483,33871648,4.4
+"California","06","Assault","X85-Y09","2001","2001",1589,34479458,4.6
+"California","06","Assault","X85-Y09","2002","2002",1810,34871843,5.2
+"California","06","Assault","X85-Y09","2003","2003",1782,35253159,5.1
+"California","06","Assault","X85-Y09","2004","2004",1808,35574576,5.1
+"California","06","Assault","X85-Y09","2005","2005",1878,35827943,5.2
+"California","06","Assault","X85-Y09","2006","2006",1883,36021202,5.2
+"California","06","Assault","X85-Y09","2007","2007",1701,36250311,4.7
+"California","06","Assault","X85-Y09","2008","2008",1569,36604337,4.3
+"California","06","Assault","X85-Y09","2009","2009",1460,36961229,4
+"California","06","Assault","X85-Y09","2010","2010",1342,37253956,3.6
+"California","06","Assault","X85-Y09","2011","2011",1314,37691912,3.5
+"California","06","Assault","X85-Y09","2012","2012",1362,38041430,3.6
+"California","06","Assault","X85-Y09","2013","2013",1312,38332521,3.4
+"California","06","Assault","X85-Y09","2014","2014",1233,38802500,3.2
+"California","06","Assault","X85-Y09","2015","2015",1396,39144818,3.6
+"California","06","Assault","X85-Y09","2016","2016",1467,39250017,3.7
+"Colorado","08","Other external causes of accidental injury","W00-X59","2001","2001",10,4425687,"Unreliable"
+"Colorado","08","Other external causes of accidental injury","W00-X59","2011","2011",12,5116796,"Unreliable"
+"Colorado","08","Other external causes of accidental injury","W00-X59","2012","2012",11,5187582,"Unreliable"
+"Colorado","08","Other external causes of accidental injury","W00-X59","2016","2016",11,5540545,"Unreliable"
+"Colorado","08","Intentional self-harm","X60-X84","1999","1999",309,4226018,7.3
+"Colorado","08","Intentional self-harm","X60-X84","2000","2000",350,4301261,8.1
+"Colorado","08","Intentional self-harm","X60-X84","2001","2001",390,4425687,8.8
+"Colorado","08","Intentional self-harm","X60-X84","2002","2002",380,4490406,8.5
+"Colorado","08","Intentional self-harm","X60-X84","2003","2003",363,4528732,8
+"Colorado","08","Intentional self-harm","X60-X84","2004","2004",402,4575013,8.8
+"Colorado","08","Intentional self-harm","X60-X84","2005","2005",396,4631888,8.5
+"Colorado","08","Intentional self-harm","X60-X84","2006","2006",371,4720423,7.9
+"Colorado","08","Intentional self-harm","X60-X84","2007","2007",396,4803868,8.2
+"Colorado","08","Intentional self-harm","X60-X84","2008","2008",387,4889730,7.9
+"Colorado","08","Intentional self-harm","X60-X84","2009","2009",454,4972195,9.1
+"Colorado","08","Intentional self-harm","X60-X84","2010","2010",427,5029196,8.5
+"Colorado","08","Intentional self-harm","X60-X84","2011","2011",443,5116796,8.7
+"Colorado","08","Intentional self-harm","X60-X84","2012","2012",533,5187582,10.3
+"Colorado","08","Intentional self-harm","X60-X84","2013","2013",489,5268367,9.3
+"Colorado","08","Intentional self-harm","X60-X84","2014","2014",539,5355866,10.1
+"Colorado","08","Intentional self-harm","X60-X84","2015","2015",541,5456574,9.9
+"Colorado","08","Intentional self-harm","X60-X84","2016","2016",613,5540545,11.1
+"Colorado","08","Assault","X85-Y09","1999","1999",121,4226018,2.9
+"Colorado","08","Assault","X85-Y09","2000","2000",84,4301261,2
+"Colorado","08","Assault","X85-Y09","2001","2001",98,4425687,2.2
+"Colorado","08","Assault","X85-Y09","2002","2002",116,4490406,2.6
+"Colorado","08","Assault","X85-Y09","2003","2003",117,4528732,2.6
+"Colorado","08","Assault","X85-Y09","2004","2004",131,4575013,2.9
+"Colorado","08","Assault","X85-Y09","2005","2005",115,4631888,2.5
+"Colorado","08","Assault","X85-Y09","2006","2006",104,4720423,2.2
+"Colorado","08","Assault","X85-Y09","2007","2007",91,4803868,1.9
+"Colorado","08","Assault","X85-Y09","2008","2008",109,4889730,2.2
+"Colorado","08","Assault","X85-Y09","2009","2009",108,4972195,2.2
+"Colorado","08","Assault","X85-Y09","2010","2010",97,5029196,1.9
+"Colorado","08","Assault","X85-Y09","2011","2011",101,5116796,2
+"Colorado","08","Assault","X85-Y09","2012","2012",115,5187582,2.2
+"Colorado","08","Assault","X85-Y09","2013","2013",106,5268367,2
+"Colorado","08","Assault","X85-Y09","2014","2014",102,5355866,1.9
+"Colorado","08","Assault","X85-Y09","2015","2015",137,5456574,2.5
+"Colorado","08","Assault","X85-Y09","2016","2016",161,5540545,2.9
+"Connecticut","09","Intentional self-harm","X60-X84","1999","1999",111,3386401,3.3
+"Connecticut","09","Intentional self-harm","X60-X84","2000","2000",113,3405565,3.3
+"Connecticut","09","Intentional self-harm","X60-X84","2001","2001",115,3432835,3.4
+"Connecticut","09","Intentional self-harm","X60-X84","2002","2002",85,3458749,2.5
+"Connecticut","09","Intentional self-harm","X60-X84","2003","2003",89,3484336,2.6
+"Connecticut","09","Intentional self-harm","X60-X84","2004","2004",105,3496094,3
+"Connecticut","09","Intentional self-harm","X60-X84","2005","2005",112,3506956,3.2
+"Connecticut","09","Intentional self-harm","X60-X84","2006","2006",79,3517460,2.2
+"Connecticut","09","Intentional self-harm","X60-X84","2007","2007",78,3527270,2.2
+"Connecticut","09","Intentional self-harm","X60-X84","2008","2008",109,3545579,3.1
+"Connecticut","09","Intentional self-harm","X60-X84","2009","2009",93,3561807,2.6
+"Connecticut","09","Intentional self-harm","X60-X84","2010","2010",110,3574097,3.1
+"Connecticut","09","Intentional self-harm","X60-X84","2011","2011",111,3580709,3.1
+"Connecticut","09","Intentional self-harm","X60-X84","2012","2012",111,3590347,3.1
+"Connecticut","09","Intentional self-harm","X60-X84","2013","2013",92,3596080,2.6
+"Connecticut","09","Intentional self-harm","X60-X84","2014","2014",125,3596677,3.5
+"Connecticut","09","Intentional self-harm","X60-X84","2015","2015",104,3590886,2.9
+"Connecticut","09","Intentional self-harm","X60-X84","2016","2016",110,3576452,3.1
+"Connecticut","09","Assault","X85-Y09","1999","1999",84,3386401,2.5
+"Connecticut","09","Assault","X85-Y09","2000","2000",61,3405565,1.8
+"Connecticut","09","Assault","X85-Y09","2001","2001",72,3432835,2.1
+"Connecticut","09","Assault","X85-Y09","2002","2002",57,3458749,1.6
+"Connecticut","09","Assault","X85-Y09","2003","2003",56,3484336,1.6
+"Connecticut","09","Assault","X85-Y09","2004","2004",64,3496094,1.8
+"Connecticut","09","Assault","X85-Y09","2005","2005",66,3506956,1.9
+"Connecticut","09","Assault","X85-Y09","2006","2006",92,3517460,2.6
+"Connecticut","09","Assault","X85-Y09","2007","2007",67,3527270,1.9
+"Connecticut","09","Assault","X85-Y09","2008","2008",87,3545579,2.5
+"Connecticut","09","Assault","X85-Y09","2009","2009",78,3561807,2.2
+"Connecticut","09","Assault","X85-Y09","2010","2010",98,3574097,2.7
+"Connecticut","09","Assault","X85-Y09","2011","2011",96,3580709,2.7
+"Connecticut","09","Assault","X85-Y09","2012","2012",114,3590347,3.2
+"Connecticut","09","Assault","X85-Y09","2013","2013",66,3596080,1.8
+"Connecticut","09","Assault","X85-Y09","2014","2014",58,3596677,1.6
+"Connecticut","09","Assault","X85-Y09","2015","2015",80,3590886,2.2
+"Connecticut","09","Assault","X85-Y09","2016","2016",55,3576452,1.5
+"Delaware","10","Intentional self-harm","X60-X84","1999","1999",44,774990,5.7
+"Delaware","10","Intentional self-harm","X60-X84","2000","2000",40,783600,5.1
+"Delaware","10","Intentional self-harm","X60-X84","2001","2001",53,795699,6.7
+"Delaware","10","Intentional self-harm","X60-X84","2002","2002",38,806169,4.7
+"Delaware","10","Intentional self-harm","X60-X84","2003","2003",42,818003,5.1
+"Delaware","10","Intentional self-harm","X60-X84","2004","2004",45,830803,5.4
+"Delaware","10","Intentional self-harm","X60-X84","2005","2005",42,845150,5
+"Delaware","10","Intentional self-harm","X60-X84","2006","2006",42,859268,4.9
+"Delaware","10","Intentional self-harm","X60-X84","2007","2007",46,871749,5.3
+"Delaware","10","Intentional self-harm","X60-X84","2008","2008",41,883874,4.6
+"Delaware","10","Intentional self-harm","X60-X84","2009","2009",38,891730,4.3
+"Delaware","10","Intentional self-harm","X60-X84","2010","2010",43,897934,4.8
+"Delaware","10","Intentional self-harm","X60-X84","2011","2011",46,907135,5.1
+"Delaware","10","Intentional self-harm","X60-X84","2012","2012",46,917092,5
+"Delaware","10","Intentional self-harm","X60-X84","2013","2013",60,925749,6.5
+"Delaware","10","Intentional self-harm","X60-X84","2014","2014",59,935614,6.3
+"Delaware","10","Intentional self-harm","X60-X84","2015","2015",55,945934,5.8
+"Delaware","10","Intentional self-harm","X60-X84","2016","2016",65,952065,6.8
+"Delaware","10","Assault","X85-Y09","1999","1999",18,774990,"Unreliable"
+"Delaware","10","Assault","X85-Y09","2001","2001",19,795699,"Unreliable"
+"Delaware","10","Assault","X85-Y09","2002","2002",28,806169,3.5
+"Delaware","10","Assault","X85-Y09","2003","2003",18,818003,"Unreliable"
+"Delaware","10","Assault","X85-Y09","2004","2004",27,830803,3.2
+"Delaware","10","Assault","X85-Y09","2005","2005",33,845150,3.9
+"Delaware","10","Assault","X85-Y09","2006","2006",34,859268,4
+"Delaware","10","Assault","X85-Y09","2007","2007",30,871749,3.4
+"Delaware","10","Assault","X85-Y09","2008","2008",54,883874,6.1
+"Delaware","10","Assault","X85-Y09","2009","2009",36,891730,4
+"Delaware","10","Assault","X85-Y09","2010","2010",45,897934,5
+"Delaware","10","Assault","X85-Y09","2011","2011",31,907135,3.4
+"Delaware","10","Assault","X85-Y09","2012","2012",46,917092,5
+"Delaware","10","Assault","X85-Y09","2013","2013",38,925749,4.1
+"Delaware","10","Assault","X85-Y09","2014","2014",38,935614,4.1
+"Delaware","10","Assault","X85-Y09","2015","2015",53,945934,5.6
+"Delaware","10","Assault","X85-Y09","2016","2016",44,952065,4.6
+"District of Columbia","11","Intentional self-harm","X60-X84","1999","1999",13,570213,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2001","2001",21,574504,3.7
+"District of Columbia","11","Intentional self-harm","X60-X84","2002","2002",13,573158,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2003","2003",10,568502,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2005","2005",10,567136,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2006","2006",10,570681,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2007","2007",10,574404,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2008","2008",12,580236,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2010","2010",13,601723,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2012","2012",10,632323,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2014","2014",14,658893,"Unreliable"
+"District of Columbia","11","Intentional self-harm","X60-X84","2015","2015",11,672228,"Unreliable"
+"District of Columbia","11","Assault","X85-Y09","1999","1999",145,570213,25.4
+"District of Columbia","11","Assault","X85-Y09","2000","2000",138,572059,24.1
+"District of Columbia","11","Assault","X85-Y09","2001","2001",141,574504,24.5
+"District of Columbia","11","Assault","X85-Y09","2002","2002",176,573158,30.7
+"District of Columbia","11","Assault","X85-Y09","2003","2003",156,568502,27.4
+"District of Columbia","11","Assault","X85-Y09","2004","2004",137,567754,24.1
+"District of Columbia","11","Assault","X85-Y09","2005","2005",142,567136,25
+"District of Columbia","11","Assault","X85-Y09","2006","2006",120,570681,21
+"District of Columbia","11","Assault","X85-Y09","2007","2007",129,574404,22.5
+"District of Columbia","11","Assault","X85-Y09","2008","2008",122,580236,21
+"District of Columbia","11","Assault","X85-Y09","2009","2009",104,592228,17.6
+"District of Columbia","11","Assault","X85-Y09","2010","2010",84,601723,14
+"District of Columbia","11","Assault","X85-Y09","2011","2011",77,617996,12.5
+"District of Columbia","11","Assault","X85-Y09","2012","2012",55,632323,8.7
+"District of Columbia","11","Assault","X85-Y09","2013","2013",61,646449,9.4
+"District of Columbia","11","Assault","X85-Y09","2014","2014",67,658893,10.2
+"District of Columbia","11","Assault","X85-Y09","2015","2015",105,672228,15.6
+"District of Columbia","11","Assault","X85-Y09","2016","2016",98,681170,14.4
+"Florida","12","Other external causes of accidental injury","W00-X59","1999","1999",14,15759421,"Unreliable"
+"Florida","12","Other external causes of accidental injury","W00-X59","2000","2000",13,15982378,"Unreliable"
+"Florida","12","Other external causes of accidental injury","W00-X59","2001","2001",23,16356966,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2002","2002",26,16689370,0.2
+"Florida","12","Other external causes of accidental injury","W00-X59","2003","2003",27,17004085,0.2
+"Florida","12","Other external causes of accidental injury","W00-X59","2004","2004",21,17415318,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2005","2005",23,17842038,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2006","2006",25,18166990,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2007","2007",16,18367842,"Unreliable"
+"Florida","12","Other external causes of accidental injury","W00-X59","2008","2008",21,18527305,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2009","2009",23,18652644,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2010","2010",15,18801310,"Unreliable"
+"Florida","12","Other external causes of accidental injury","W00-X59","2011","2011",30,19057542,0.2
+"Florida","12","Other external causes of accidental injury","W00-X59","2012","2012",22,19317568,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2013","2013",22,19552860,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2014","2014",29,19893297,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2015","2015",30,20271272,0.1
+"Florida","12","Other external causes of accidental injury","W00-X59","2016","2016",13,20612439,"Unreliable"
+"Florida","12","Intentional self-harm","X60-X84","1999","1999",1136,15759421,7.2
+"Florida","12","Intentional self-harm","X60-X84","2000","2000",1186,15982378,7.4
+"Florida","12","Intentional self-harm","X60-X84","2001","2001",1197,16356966,7.3
+"Florida","12","Intentional self-harm","X60-X84","2002","2002",1205,16689370,7.2
+"Florida","12","Intentional self-harm","X60-X84","2003","2003",1242,17004085,7.3
+"Florida","12","Intentional self-harm","X60-X84","2004","2004",1197,17415318,6.9
+"Florida","12","Intentional self-harm","X60-X84","2005","2005",1163,17842038,6.5
+"Florida","12","Intentional self-harm","X60-X84","2006","2006",1227,18166990,6.8
+"Florida","12","Intentional self-harm","X60-X84","2007","2007",1284,18367842,7
+"Florida","12","Intentional self-harm","X60-X84","2008","2008",1397,18527305,7.5
+"Florida","12","Intentional self-harm","X60-X84","2009","2009",1472,18652644,7.9
+"Florida","12","Intentional self-harm","X60-X84","2010","2010",1454,18801310,7.7
+"Florida","12","Intentional self-harm","X60-X84","2011","2011",1490,19057542,7.8
+"Florida","12","Intentional self-harm","X60-X84","2012","2012",1550,19317568,8
+"Florida","12","Intentional self-harm","X60-X84","2013","2013",1566,19552860,8
+"Florida","12","Intentional self-harm","X60-X84","2014","2014",1538,19893297,7.7
+"Florida","12","Intentional self-harm","X60-X84","2015","2015",1630,20271272,8
+"Florida","12","Intentional self-harm","X60-X84","2016","2016",1672,20612439,8.1
+"Florida","12","Assault","X85-Y09","1999","1999",545,15759421,3.5
+"Florida","12","Assault","X85-Y09","2000","2000",467,15982378,2.9
+"Florida","12","Assault","X85-Y09","2001","2001",573,16356966,3.5
+"Florida","12","Assault","X85-Y09","2002","2002",635,16689370,3.8
+"Florida","12","Assault","X85-Y09","2003","2003",660,17004085,3.9
+"Florida","12","Assault","X85-Y09","2004","2004",647,17415318,3.7
+"Florida","12","Assault","X85-Y09","2005","2005",631,17842038,3.5
+"Florida","12","Assault","X85-Y09","2006","2006",803,18166990,4.4
+"Florida","12","Assault","X85-Y09","2007","2007",935,18367842,5.1
+"Florida","12","Assault","X85-Y09","2008","2008",886,18527305,4.8
+"Florida","12","Assault","X85-Y09","2009","2009",804,18652644,4.3
+"Florida","12","Assault","X85-Y09","2010","2010",767,18801310,4.1
+"Florida","12","Assault","X85-Y09","2011","2011",817,19057542,4.3
+"Florida","12","Assault","X85-Y09","2012","2012",862,19317568,4.5
+"Florida","12","Assault","X85-Y09","2013","2013",816,19552860,4.2
+"Florida","12","Assault","X85-Y09","2014","2014",818,19893297,4.1
+"Florida","12","Assault","X85-Y09","2015","2015",880,20271272,4.3
+"Florida","12","Assault","X85-Y09","2016","2016",992,20612439,4.8
+"Georgia","13","Other external causes of accidental injury","W00-X59","1999","1999",18,8045965,"Unreliable"
+"Georgia","13","Other external causes of accidental injury","W00-X59","2000","2000",39,8186453,0.5
+"Georgia","13","Other external causes of accidental injury","W00-X59","2001","2001",23,8377038,0.3
+"Georgia","13","Other external causes of accidental injury","W00-X59","2002","2002",19,8508256,"Unreliable"
+"Georgia","13","Other external causes of accidental injury","W00-X59","2003","2003",12,8622793,"Unreliable"
+"Georgia","13","Other external causes of accidental injury","W00-X59","2004","2004",24,8769252,0.3
+"Georgia","13","Other external causes of accidental injury","W00-X59","2005","2005",16,8925922,"Unreliable"
+"Georgia","13","Other external causes of accidental injury","W00-X59","2006","2006",20,9155813,0.2
+"Georgia","13","Other external causes of accidental injury","W00-X59","2007","2007",25,9349988,0.3
+"Georgia","13","Other external causes of accidental injury","W00-X59","2008","2008",31,9504843,0.3
+"Georgia","13","Other external causes of accidental injury","W00-X59","2009","2009",27,9620846,0.3
+"Georgia","13","Other external causes of accidental injury","W00-X59","2010","2010",42,9687653,0.4
+"Georgia","13","Other external causes of accidental injury","W00-X59","2011","2011",27,9815210,0.3
+"Georgia","13","Other external causes of accidental injury","W00-X59","2012","2012",36,9919945,0.4
+"Georgia","13","Other external causes of accidental injury","W00-X59","2013","2013",24,9992167,0.2
+"Georgia","13","Other external causes of accidental injury","W00-X59","2014","2014",29,10097343,0.3
+"Georgia","13","Other external causes of accidental injury","W00-X59","2015","2015",21,10214860,0.2
+"Georgia","13","Other external causes of accidental injury","W00-X59","2016","2016",21,10310371,0.2
+"Georgia","13","Intentional self-harm","X60-X84","1999","1999",628,8045965,7.8
+"Georgia","13","Intentional self-harm","X60-X84","2000","2000",588,8186453,7.2
+"Georgia","13","Intentional self-harm","X60-X84","2001","2001",626,8377038,7.5
+"Georgia","13","Intentional self-harm","X60-X84","2002","2002",614,8508256,7.2
+"Georgia","13","Intentional self-harm","X60-X84","2003","2003",656,8622793,7.6
+"Georgia","13","Intentional self-harm","X60-X84","2004","2004",605,8769252,6.9
+"Georgia","13","Intentional self-harm","X60-X84","2005","2005",590,8925922,6.6
+"Georgia","13","Intentional self-harm","X60-X84","2006","2006",600,9155813,6.6
+"Georgia","13","Intentional self-harm","X60-X84","2007","2007",641,9349988,6.9
+"Georgia","13","Intentional self-harm","X60-X84","2008","2008",616,9504843,6.5
+"Georgia","13","Intentional self-harm","X60-X84","2009","2009",743,9620846,7.7
+"Georgia","13","Intentional self-harm","X60-X84","2010","2010",718,9687653,7.4
+"Georgia","13","Intentional self-harm","X60-X84","2011","2011",742,9815210,7.6
+"Georgia","13","Intentional self-harm","X60-X84","2012","2012",750,9919945,7.6
+"Georgia","13","Intentional self-harm","X60-X84","2013","2013",747,9992167,7.5
+"Georgia","13","Intentional self-harm","X60-X84","2014","2014",841,10097343,8.3
+"Georgia","13","Intentional self-harm","X60-X84","2015","2015",823,10214860,8.1
+"Georgia","13","Intentional self-harm","X60-X84","2016","2016",871,10310371,8.4
+"Georgia","13","Assault","X85-Y09","1999","1999",438,8045965,5.4
+"Georgia","13","Assault","X85-Y09","2000","2000",442,8186453,5.4
+"Georgia","13","Assault","X85-Y09","2001","2001",454,8377038,5.4
+"Georgia","13","Assault","X85-Y09","2002","2002",477,8508256,5.6
+"Georgia","13","Assault","X85-Y09","2003","2003",493,8622793,5.7
+"Georgia","13","Assault","X85-Y09","2004","2004",419,8769252,4.8
+"Georgia","13","Assault","X85-Y09","2005","2005",439,8925922,4.9
+"Georgia","13","Assault","X85-Y09","2006","2006",495,9155813,5.4
+"Georgia","13","Assault","X85-Y09","2007","2007",557,9349988,6
+"Georgia","13","Assault","X85-Y09","2008","2008",515,9504843,5.4
+"Georgia","13","Assault","X85-Y09","2009","2009",456,9620846,4.7
+"Georgia","13","Assault","X85-Y09","2010","2010",443,9687653,4.6
+"Georgia","13","Assault","X85-Y09","2011","2011",439,9815210,4.5
+"Georgia","13","Assault","X85-Y09","2012","2012",481,9919945,4.8
+"Georgia","13","Assault","X85-Y09","2013","2013",472,9992167,4.7
+"Georgia","13","Assault","X85-Y09","2014","2014",506,10097343,5
+"Georgia","13","Assault","X85-Y09","2015","2015",581,10214860,5.7
+"Georgia","13","Assault","X85-Y09","2016","2016",653,10310371,6.3
+"Hawaii","15","Intentional self-harm","X60-X84","1999","1999",23,1210300,1.9
+"Hawaii","15","Intentional self-harm","X60-X84","2000","2000",37,1211537,3.1
+"Hawaii","15","Intentional self-harm","X60-X84","2001","2001",31,1225948,2.5
+"Hawaii","15","Intentional self-harm","X60-X84","2002","2002",21,1239613,1.7
+"Hawaii","15","Intentional self-harm","X60-X84","2003","2003",24,1251154,1.9
+"Hawaii","15","Intentional self-harm","X60-X84","2004","2004",31,1273569,2.4
+"Hawaii","15","Intentional self-harm","X60-X84","2005","2005",22,1292729,1.7
+"Hawaii","15","Intentional self-harm","X60-X84","2006","2006",21,1309731,1.6
+"Hawaii","15","Intentional self-harm","X60-X84","2007","2007",27,1315675,2.1
+"Hawaii","15","Intentional self-harm","X60-X84","2008","2008",28,1332213,2.1
+"Hawaii","15","Intentional self-harm","X60-X84","2009","2009",36,1346717,2.7
+"Hawaii","15","Intentional self-harm","X60-X84","2010","2010",37,1360301,2.7
+"Hawaii","15","Intentional self-harm","X60-X84","2011","2011",42,1374810,3.1
+"Hawaii","15","Intentional self-harm","X60-X84","2012","2012",43,1392313,3.1
+"Hawaii","15","Intentional self-harm","X60-X84","2013","2013",28,1404054,2
+"Hawaii","15","Intentional self-harm","X60-X84","2014","2014",33,1419561,2.3
+"Hawaii","15","Intentional self-harm","X60-X84","2015","2015",44,1431603,3.1
+"Hawaii","15","Intentional self-harm","X60-X84","2016","2016",37,1428557,2.6
+"Hawaii","15","Assault","X85-Y09","1999","1999",19,1210300,"Unreliable"
+"Hawaii","15","Assault","X85-Y09","2002","2002",15,1239613,"Unreliable"
+"Hawaii","15","Assault","X85-Y09","2003","2003",10,1251154,"Unreliable"
+"Hawaii","15","Assault","X85-Y09","2008","2008",11,1332213,"Unreliable"
+"Hawaii","15","Assault","X85-Y09","2009","2009",10,1346717,"Unreliable"
+"Hawaii","15","Assault","X85-Y09","2016","2016",22,1428557,1.5
+"Idaho","16","Intentional self-harm","X60-X84","1999","1999",125,1275674,9.8
+"Idaho","16","Intentional self-harm","X60-X84","2000","2000",107,1293953,8.3
+"Idaho","16","Intentional self-harm","X60-X84","2001","2001",136,1319962,10.3
+"Idaho","16","Intentional self-harm","X60-X84","2002","2002",137,1340372,10.2
+"Idaho","16","Intentional self-harm","X60-X84","2003","2003",137,1363380,10
+"Idaho","16","Intentional self-harm","X60-X84","2004","2004",151,1391802,10.8
+"Idaho","16","Intentional self-harm","X60-X84","2005","2005",160,1428241,11.2
+"Idaho","16","Intentional self-harm","X60-X84","2006","2006",145,1468669,9.9
+"Idaho","16","Intentional self-harm","X60-X84","2007","2007",147,1505105,9.8
+"Idaho","16","Intentional self-harm","X60-X84","2008","2008",149,1534320,9.7
+"Idaho","16","Intentional self-harm","X60-X84","2009","2009",176,1554439,11.3
+"Idaho","16","Intentional self-harm","X60-X84","2010","2010",182,1567582,11.6
+"Idaho","16","Intentional self-harm","X60-X84","2011","2011",167,1584985,10.5
+"Idaho","16","Intentional self-harm","X60-X84","2012","2012",176,1595728,11
+"Idaho","16","Intentional self-harm","X60-X84","2013","2013",200,1612136,12.4
+"Idaho","16","Intentional self-harm","X60-X84","2014","2014",182,1634464,11.1
+"Idaho","16","Intentional self-harm","X60-X84","2015","2015",215,1654930,13
+"Idaho","16","Intentional self-harm","X60-X84","2016","2016",215,1683140,12.8
+"Idaho","16","Assault","X85-Y09","1999","1999",16,1275674,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2000","2000",14,1293953,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2001","2001",25,1319962,1.9
+"Idaho","16","Assault","X85-Y09","2002","2002",15,1340372,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2003","2003",19,1363380,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2004","2004",16,1391802,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2005","2005",28,1428241,2
+"Idaho","16","Assault","X85-Y09","2006","2006",24,1468669,1.6
+"Idaho","16","Assault","X85-Y09","2007","2007",29,1505105,1.9
+"Idaho","16","Assault","X85-Y09","2008","2008",13,1534320,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2009","2009",10,1554439,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2010","2010",12,1567582,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2011","2011",16,1584985,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2012","2012",18,1595728,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2013","2013",14,1612136,"Unreliable"
+"Idaho","16","Assault","X85-Y09","2014","2014",21,1634464,1.3
+"Idaho","16","Assault","X85-Y09","2015","2015",22,1654930,1.3
+"Idaho","16","Assault","X85-Y09","2016","2016",15,1683140,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","1999","1999",22,12359020,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2000","2000",12,12419293,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2001","2001",20,12488445,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2002","2002",17,12525556,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2003","2003",23,12556006,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2004","2004",18,12589773,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2005","2005",21,12609903,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2006","2006",24,12643955,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2007","2007",21,12695866,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2008","2008",18,12747038,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2009","2009",14,12796778,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2010","2010",22,12830632,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2011","2011",20,12869257,0.2
+"Illinois","17","Other external causes of accidental injury","W00-X59","2012","2012",17,12875255,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2013","2013",18,12882135,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2015","2015",15,12859995,"Unreliable"
+"Illinois","17","Other external causes of accidental injury","W00-X59","2016","2016",11,12801539,"Unreliable"
+"Illinois","17","Intentional self-harm","X60-X84","1999","1999",481,12359020,3.9
+"Illinois","17","Intentional self-harm","X60-X84","2000","2000",431,12419293,3.5
+"Illinois","17","Intentional self-harm","X60-X84","2001","2001",505,12488445,4
+"Illinois","17","Intentional self-harm","X60-X84","2002","2002",466,12525556,3.7
+"Illinois","17","Intentional self-harm","X60-X84","2003","2003",404,12556006,3.2
+"Illinois","17","Intentional self-harm","X60-X84","2004","2004",387,12589773,3.1
+"Illinois","17","Intentional self-harm","X60-X84","2005","2005",424,12609903,3.4
+"Illinois","17","Intentional self-harm","X60-X84","2006","2006",372,12643955,2.9
+"Illinois","17","Intentional self-harm","X60-X84","2007","2007",423,12695866,3.3
+"Illinois","17","Intentional self-harm","X60-X84","2008","2008",438,12747038,3.4
+"Illinois","17","Intentional self-harm","X60-X84","2009","2009",402,12796778,3.1
+"Illinois","17","Intentional self-harm","X60-X84","2010","2010",442,12830632,3.4
+"Illinois","17","Intentional self-harm","X60-X84","2011","2011",461,12869257,3.6
+"Illinois","17","Intentional self-harm","X60-X84","2012","2012",490,12875255,3.8
+"Illinois","17","Intentional self-harm","X60-X84","2013","2013",496,12882135,3.9
+"Illinois","17","Intentional self-harm","X60-X84","2014","2014",533,12880580,4.1
+"Illinois","17","Intentional self-harm","X60-X84","2015","2015",495,12859995,3.8
+"Illinois","17","Intentional self-harm","X60-X84","2016","2016",506,12801539,4
+"Illinois","17","Assault","X85-Y09","1999","1999",689,12359020,5.6
+"Illinois","17","Assault","X85-Y09","2000","2000",674,12419293,5.4
+"Illinois","17","Assault","X85-Y09","2001","2001",747,12488445,6
+"Illinois","17","Assault","X85-Y09","2002","2002",728,12525556,5.8
+"Illinois","17","Assault","X85-Y09","2003","2003",696,12556006,5.5
+"Illinois","17","Assault","X85-Y09","2004","2004",573,12589773,4.6
+"Illinois","17","Assault","X85-Y09","2005","2005",569,12609903,4.5
+"Illinois","17","Assault","X85-Y09","2006","2006",625,12643955,4.9
+"Illinois","17","Assault","X85-Y09","2007","2007",575,12695866,4.5
+"Illinois","17","Assault","X85-Y09","2008","2008",631,12747038,5
+"Illinois","17","Assault","X85-Y09","2009","2009",628,12796778,4.9
+"Illinois","17","Assault","X85-Y09","2010","2010",577,12830632,4.5
+"Illinois","17","Assault","X85-Y09","2011","2011",610,12869257,4.7
+"Illinois","17","Assault","X85-Y09","2012","2012",645,12875255,5
+"Illinois","17","Assault","X85-Y09","2013","2013",576,12882135,4.5
+"Illinois","17","Assault","X85-Y09","2014","2014",614,12880580,4.8
+"Illinois","17","Assault","X85-Y09","2015","2015",692,12859995,5.4
+"Illinois","17","Assault","X85-Y09","2016","2016",944,12801539,7.4
+"Indiana","18","Other external causes of accidental injury","W00-X59","1999","1999",23,6044969,0.4
+"Indiana","18","Other external causes of accidental injury","W00-X59","2000","2000",23,6080485,0.4
+"Indiana","18","Other external causes of accidental injury","W00-X59","2001","2001",21,6127760,0.3
+"Indiana","18","Other external causes of accidental injury","W00-X59","2002","2002",24,6155967,0.4
+"Indiana","18","Other external causes of accidental injury","W00-X59","2003","2003",16,6196638,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2004","2004",14,6233007,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2005","2005",13,6278616,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2006","2006",20,6332669,0.3
+"Indiana","18","Other external causes of accidental injury","W00-X59","2007","2007",15,6379599,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2008","2008",21,6424806,0.3
+"Indiana","18","Other external causes of accidental injury","W00-X59","2009","2009",22,6459325,0.3
+"Indiana","18","Other external causes of accidental injury","W00-X59","2010","2010",18,6483802,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2011","2011",14,6516922,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2012","2012",14,6537334,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2013","2013",15,6570902,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2014","2014",15,6596855,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2015","2015",14,6619680,"Unreliable"
+"Indiana","18","Other external causes of accidental injury","W00-X59","2016","2016",20,6633053,0.3
+"Indiana","18","Intentional self-harm","X60-X84","1999","1999",368,6044969,6.1
+"Indiana","18","Intentional self-harm","X60-X84","2000","2000",411,6080485,6.8
+"Indiana","18","Intentional self-harm","X60-X84","2001","2001",411,6127760,6.7
+"Indiana","18","Intentional self-harm","X60-X84","2002","2002",448,6155967,7.3
+"Indiana","18","Intentional self-harm","X60-X84","2003","2003",418,6196638,6.7
+"Indiana","18","Intentional self-harm","X60-X84","2004","2004",385,6233007,6.2
+"Indiana","18","Intentional self-harm","X60-X84","2005","2005",416,6278616,6.6
+"Indiana","18","Intentional self-harm","X60-X84","2006","2006",442,6332669,7
+"Indiana","18","Intentional self-harm","X60-X84","2007","2007",392,6379599,6.1
+"Indiana","18","Intentional self-harm","X60-X84","2008","2008",450,6424806,7
+"Indiana","18","Intentional self-harm","X60-X84","2009","2009",458,6459325,7.1
+"Indiana","18","Intentional self-harm","X60-X84","2010","2010",455,6483802,7
+"Indiana","18","Intentional self-harm","X60-X84","2011","2011",411,6516922,6.3
+"Indiana","18","Intentional self-harm","X60-X84","2012","2012",513,6537334,7.8
+"Indiana","18","Intentional self-harm","X60-X84","2013","2013",523,6570902,8
+"Indiana","18","Intentional self-harm","X60-X84","2014","2014",528,6596855,8
+"Indiana","18","Intentional self-harm","X60-X84","2015","2015",517,6619680,7.8
+"Indiana","18","Intentional self-harm","X60-X84","2016","2016",591,6633053,8.9
+"Indiana","18","Assault","X85-Y09","1999","1999",271,6044969,4.5
+"Indiana","18","Assault","X85-Y09","2000","2000",218,6080485,3.6
+"Indiana","18","Assault","X85-Y09","2001","2001",290,6127760,4.7
+"Indiana","18","Assault","X85-Y09","2002","2002",242,6155967,3.9
+"Indiana","18","Assault","X85-Y09","2003","2003",247,6196638,4
+"Indiana","18","Assault","X85-Y09","2004","2004",224,6233007,3.6
+"Indiana","18","Assault","X85-Y09","2005","2005",257,6278616,4.1
+"Indiana","18","Assault","X85-Y09","2006","2006",264,6332669,4.2
+"Indiana","18","Assault","X85-Y09","2007","2007",251,6379599,3.9
+"Indiana","18","Assault","X85-Y09","2008","2008",235,6424806,3.7
+"Indiana","18","Assault","X85-Y09","2009","2009",245,6459325,3.8
+"Indiana","18","Assault","X85-Y09","2010","2010",223,6483802,3.4
+"Indiana","18","Assault","X85-Y09","2011","2011",202,6516922,3.1
+"Indiana","18","Assault","X85-Y09","2012","2012",251,6537334,3.8
+"Indiana","18","Assault","X85-Y09","2013","2013",298,6570902,4.5
+"Indiana","18","Assault","X85-Y09","2014","2014",259,6596855,3.9
+"Indiana","18","Assault","X85-Y09","2015","2015",294,6619680,4.4
+"Indiana","18","Assault","X85-Y09","2016","2016",368,6633053,5.5
+"Iowa","19","Intentional self-harm","X60-X84","1999","1999",160,2917634,5.5
+"Iowa","19","Intentional self-harm","X60-X84","2000","2000",157,2926324,5.4
+"Iowa","19","Intentional self-harm","X60-X84","2001","2001",157,2931997,5.4
+"Iowa","19","Intentional self-harm","X60-X84","2002","2002",157,2934234,5.4
+"Iowa","19","Intentional self-harm","X60-X84","2003","2003",178,2941999,6.1
+"Iowa","19","Intentional self-harm","X60-X84","2004","2004",155,2953635,5.2
+"Iowa","19","Intentional self-harm","X60-X84","2005","2005",170,2964454,5.7
+"Iowa","19","Intentional self-harm","X60-X84","2006","2006",149,2982644,5
+"Iowa","19","Intentional self-harm","X60-X84","2007","2007",133,2999212,4.4
+"Iowa","19","Intentional self-harm","X60-X84","2008","2008",180,3016734,6
+"Iowa","19","Intentional self-harm","X60-X84","2009","2009",160,3032870,5.3
+"Iowa","19","Intentional self-harm","X60-X84","2010","2010",177,3046355,5.8
+"Iowa","19","Intentional self-harm","X60-X84","2011","2011",185,3062309,6
+"Iowa","19","Intentional self-harm","X60-X84","2012","2012",175,3074186,5.7
+"Iowa","19","Intentional self-harm","X60-X84","2013","2013",221,3090416,7.2
+"Iowa","19","Intentional self-harm","X60-X84","2014","2014",194,3107126,6.2
+"Iowa","19","Intentional self-harm","X60-X84","2015","2015",193,3123899,6.2
+"Iowa","19","Intentional self-harm","X60-X84","2016","2016",228,3134693,7.3
+"Iowa","19","Assault","X85-Y09","1999","1999",28,2917634,1
+"Iowa","19","Assault","X85-Y09","2000","2000",25,2926324,0.9
+"Iowa","19","Assault","X85-Y09","2001","2001",24,2931997,0.8
+"Iowa","19","Assault","X85-Y09","2002","2002",30,2934234,1
+"Iowa","19","Assault","X85-Y09","2003","2003",24,2941999,0.8
+"Iowa","19","Assault","X85-Y09","2004","2004",30,2953635,1
+"Iowa","19","Assault","X85-Y09","2005","2005",23,2964454,0.8
+"Iowa","19","Assault","X85-Y09","2006","2006",38,2982644,1.3
+"Iowa","19","Assault","X85-Y09","2007","2007",18,2999212,"Unreliable"
+"Iowa","19","Assault","X85-Y09","2008","2008",34,3016734,1.1
+"Iowa","19","Assault","X85-Y09","2009","2009",19,3032870,"Unreliable"
+"Iowa","19","Assault","X85-Y09","2010","2010",34,3046355,1.1
+"Iowa","19","Assault","X85-Y09","2011","2011",31,3062309,1
+"Iowa","19","Assault","X85-Y09","2012","2012",33,3074186,1.1
+"Iowa","19","Assault","X85-Y09","2013","2013",24,3090416,0.8
+"Iowa","19","Assault","X85-Y09","2014","2014",36,3107126,1.2
+"Iowa","19","Assault","X85-Y09","2015","2015",47,3123899,1.5
+"Iowa","19","Assault","X85-Y09","2016","2016",49,3134693,1.6
+"Kansas","20","Other external causes of accidental injury","W00-X59","1999","1999",10,2678338,"Unreliable"
+"Kansas","20","Other external causes of accidental injury","W00-X59","2001","2001",11,2702162,"Unreliable"
+"Kansas","20","Other external causes of accidental injury","W00-X59","2008","2008",11,2808076,"Unreliable"
+"Kansas","20","Other external causes of accidental injury","W00-X59","2010","2010",12,2853118,"Unreliable"
+"Kansas","20","Intentional self-harm","X60-X84","1999","1999",166,2678338,6.2
+"Kansas","20","Intentional self-harm","X60-X84","2000","2000",186,2688418,6.9
+"Kansas","20","Intentional self-harm","X60-X84","2001","2001",160,2702162,5.9
+"Kansas","20","Intentional self-harm","X60-X84","2002","2002",184,2713535,6.8
+"Kansas","20","Intentional self-harm","X60-X84","2003","2003",211,2723004,7.7
+"Kansas","20","Intentional self-harm","X60-X84","2004","2004",204,2734373,7.5
+"Kansas","20","Intentional self-harm","X60-X84","2005","2005",188,2745299,6.8
+"Kansas","20","Intentional self-harm","X60-X84","2006","2006",211,2762931,7.6
+"Kansas","20","Intentional self-harm","X60-X84","2007","2007",213,2783785,7.7
+"Kansas","20","Intentional self-harm","X60-X84","2008","2008",185,2808076,6.6
+"Kansas","20","Intentional self-harm","X60-X84","2009","2009",200,2832704,7.1
+"Kansas","20","Intentional self-harm","X60-X84","2010","2010",210,2853118,7.4
+"Kansas","20","Intentional self-harm","X60-X84","2011","2011",233,2871238,8.1
+"Kansas","20","Intentional self-harm","X60-X84","2012","2012",297,2885905,10.3
+"Kansas","20","Intentional self-harm","X60-X84","2013","2013",241,2893957,8.3
+"Kansas","20","Intentional self-harm","X60-X84","2014","2014",238,2904021,8.2
+"Kansas","20","Intentional self-harm","X60-X84","2015","2015",224,2911641,7.7
+"Kansas","20","Intentional self-harm","X60-X84","2016","2016",257,2907289,8.8
+"Kansas","20","Assault","X85-Y09","1999","1999",88,2678338,3.3
+"Kansas","20","Assault","X85-Y09","2000","2000",101,2688418,3.8
+"Kansas","20","Assault","X85-Y09","2001","2001",91,2702162,3.4
+"Kansas","20","Assault","X85-Y09","2002","2002",74,2713535,2.7
+"Kansas","20","Assault","X85-Y09","2003","2003",78,2723004,2.9
+"Kansas","20","Assault","X85-Y09","2004","2004",85,2734373,3.1
+"Kansas","20","Assault","X85-Y09","2005","2005",61,2745299,2.2
+"Kansas","20","Assault","X85-Y09","2006","2006",73,2762931,2.6
+"Kansas","20","Assault","X85-Y09","2007","2007",71,2783785,2.6
+"Kansas","20","Assault","X85-Y09","2008","2008",77,2808076,2.7
+"Kansas","20","Assault","X85-Y09","2009","2009",92,2832704,3.2
+"Kansas","20","Assault","X85-Y09","2010","2010",68,2853118,2.4
+"Kansas","20","Assault","X85-Y09","2011","2011",81,2871238,2.8
+"Kansas","20","Assault","X85-Y09","2012","2012",67,2885905,2.3
+"Kansas","20","Assault","X85-Y09","2013","2013",79,2893957,2.7
+"Kansas","20","Assault","X85-Y09","2014","2014",73,2904021,2.5
+"Kansas","20","Assault","X85-Y09","2015","2015",95,2911641,3.3
+"Kansas","20","Assault","X85-Y09","2016","2016",113,2907289,3.9
+"Kentucky","21","Other external causes of accidental injury","W00-X59","1999","1999",35,4018053,0.9
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2000","2000",31,4041769,0.8
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2001","2001",45,4068132,1.1
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2002","2002",39,4089875,1
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2003","2003",34,4117170,0.8
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2004","2004",16,4146101,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2005","2005",16,4182742,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2006","2006",23,4219239,0.5
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2007","2007",30,4256672,0.7
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2008","2008",17,4289878,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2009","2009",15,4317074,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2010","2010",16,4339367,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2011","2011",15,4369356,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2012","2012",17,4380415,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2013","2013",21,4395295,0.5
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2014","2014",13,4413457,"Unreliable"
+"Kentucky","21","Other external causes of accidental injury","W00-X59","2016","2016",21,4436974,0.5
+"Kentucky","21","Intentional self-harm","X60-X84","1999","1999",334,4018053,8.3
+"Kentucky","21","Intentional self-harm","X60-X84","2000","2000",373,4041769,9.2
+"Kentucky","21","Intentional self-harm","X60-X84","2001","2001",331,4068132,8.1
+"Kentucky","21","Intentional self-harm","X60-X84","2002","2002",364,4089875,8.9
+"Kentucky","21","Intentional self-harm","X60-X84","2003","2003",400,4117170,9.7
+"Kentucky","21","Intentional self-harm","X60-X84","2004","2004",377,4146101,9.1
+"Kentucky","21","Intentional self-harm","X60-X84","2005","2005",373,4182742,8.9
+"Kentucky","21","Intentional self-harm","X60-X84","2006","2006",383,4219239,9.1
+"Kentucky","21","Intentional self-harm","X60-X84","2007","2007",422,4256672,9.9
+"Kentucky","21","Intentional self-harm","X60-X84","2008","2008",394,4289878,9.2
+"Kentucky","21","Intentional self-harm","X60-X84","2009","2009",403,4317074,9.3
+"Kentucky","21","Intentional self-harm","X60-X84","2010","2010",404,4339367,9.3
+"Kentucky","21","Intentional self-harm","X60-X84","2011","2011",453,4369356,10.4
+"Kentucky","21","Intentional self-harm","X60-X84","2012","2012",469,4380415,10.7
+"Kentucky","21","Intentional self-harm","X60-X84","2013","2013",453,4395295,10.3
+"Kentucky","21","Intentional self-harm","X60-X84","2014","2014",470,4413457,10.6
+"Kentucky","21","Intentional self-harm","X60-X84","2015","2015",499,4425092,11.3
+"Kentucky","21","Intentional self-harm","X60-X84","2016","2016",495,4436974,11.2
+"Kentucky","21","Assault","X85-Y09","1999","1999",142,4018053,3.5
+"Kentucky","21","Assault","X85-Y09","2000","2000",133,4041769,3.3
+"Kentucky","21","Assault","X85-Y09","2001","2001",138,4068132,3.4
+"Kentucky","21","Assault","X85-Y09","2002","2002",127,4089875,3.1
+"Kentucky","21","Assault","X85-Y09","2003","2003",115,4117170,2.8
+"Kentucky","21","Assault","X85-Y09","2004","2004",152,4146101,3.7
+"Kentucky","21","Assault","X85-Y09","2005","2005",152,4182742,3.6
+"Kentucky","21","Assault","X85-Y09","2006","2006",111,4219239,2.6
+"Kentucky","21","Assault","X85-Y09","2007","2007",152,4256672,3.6
+"Kentucky","21","Assault","X85-Y09","2008","2008",160,4289878,3.7
+"Kentucky","21","Assault","X85-Y09","2009","2009",133,4317074,3.1
+"Kentucky","21","Assault","X85-Y09","2010","2010",125,4339367,2.9
+"Kentucky","21","Assault","X85-Y09","2011","2011",133,4369356,3
+"Kentucky","21","Assault","X85-Y09","2012","2012",159,4380415,3.6
+"Kentucky","21","Assault","X85-Y09","2013","2013",138,4395295,3.1
+"Kentucky","21","Assault","X85-Y09","2014","2014",138,4413457,3.1
+"Kentucky","21","Assault","X85-Y09","2015","2015",174,4425092,3.9
+"Kentucky","21","Assault","X85-Y09","2016","2016",234,4436974,5.3
+"Louisiana","22","Other external causes of accidental injury","W00-X59","1999","1999",28,4460811,0.6
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2000","2000",30,4468976,0.7
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2001","2001",24,4477875,0.5
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2002","2002",47,4497267,1
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2003","2003",50,4521042,1.1
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2004","2004",41,4552238,0.9
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2005","2005",38,4576628,0.8
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2006","2006",47,4302665,1.1
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2007","2007",36,4375581,0.8
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2008","2008",33,4435586,0.7
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2009","2009",23,4491648,0.5
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2010","2010",43,4533372,0.9
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2011","2011",51,4574836,1.1
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2012","2012",33,4601893,0.7
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2013","2013",19,4625470,"Unreliable"
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2014","2014",19,4649676,"Unreliable"
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2015","2015",17,4670724,"Unreliable"
+"Louisiana","22","Other external causes of accidental injury","W00-X59","2016","2016",13,4681666,"Unreliable"
+"Louisiana","22","Intentional self-harm","X60-X84","1999","1999",389,4460811,8.7
+"Louisiana","22","Intentional self-harm","X60-X84","2000","2000",326,4468976,7.3
+"Louisiana","22","Intentional self-harm","X60-X84","2001","2001",352,4477875,7.9
+"Louisiana","22","Intentional self-harm","X60-X84","2002","2002",349,4497267,7.8
+"Louisiana","22","Intentional self-harm","X60-X84","2003","2003",316,4521042,7
+"Louisiana","22","Intentional self-harm","X60-X84","2004","2004",371,4552238,8.1
+"Louisiana","22","Intentional self-harm","X60-X84","2005","2005",348,4576628,7.6
+"Louisiana","22","Intentional self-harm","X60-X84","2006","2006",331,4302665,7.7
+"Louisiana","22","Intentional self-harm","X60-X84","2007","2007",335,4375581,7.7
+"Louisiana","22","Intentional self-harm","X60-X84","2008","2008",351,4435586,7.9
+"Louisiana","22","Intentional self-harm","X60-X84","2009","2009",328,4491648,7.3
+"Louisiana","22","Intentional self-harm","X60-X84","2010","2010",385,4533372,8.5
+"Louisiana","22","Intentional self-harm","X60-X84","2011","2011",377,4574836,8.2
+"Louisiana","22","Intentional self-harm","X60-X84","2012","2012",375,4601893,8.1
+"Louisiana","22","Intentional self-harm","X60-X84","2013","2013",408,4625470,8.8
+"Louisiana","22","Intentional self-harm","X60-X84","2014","2014",444,4649676,9.5
+"Louisiana","22","Intentional self-harm","X60-X84","2015","2015",468,4670724,10
+"Louisiana","22","Intentional self-harm","X60-X84","2016","2016",440,4681666,9.4
+"Louisiana","22","Assault","X85-Y09","1999","1999",342,4460811,7.7
+"Louisiana","22","Assault","X85-Y09","2000","2000",427,4468976,9.6
+"Louisiana","22","Assault","X85-Y09","2001","2001",400,4477875,8.9
+"Louisiana","22","Assault","X85-Y09","2002","2002",467,4497267,10.4
+"Louisiana","22","Assault","X85-Y09","2003","2003",473,4521042,10.5
+"Louisiana","22","Assault","X85-Y09","2004","2004",480,4552238,10.5
+"Louisiana","22","Assault","X85-Y09","2005","2005",457,4576628,10
+"Louisiana","22","Assault","X85-Y09","2006","2006",443,4302665,10.3
+"Louisiana","22","Assault","X85-Y09","2007","2007",488,4375581,11.2
+"Louisiana","22","Assault","X85-Y09","2008","2008",430,4435586,9.7
+"Louisiana","22","Assault","X85-Y09","2009","2009",449,4491648,10
+"Louisiana","22","Assault","X85-Y09","2010","2010",432,4533372,9.5
+"Louisiana","22","Assault","X85-Y09","2011","2011",431,4574836,9.4
+"Louisiana","22","Assault","X85-Y09","2012","2012",428,4601893,9.3
+"Louisiana","22","Assault","X85-Y09","2013","2013",446,4625470,9.6
+"Louisiana","22","Assault","X85-Y09","2014","2014",421,4649676,9.1
+"Louisiana","22","Assault","X85-Y09","2015","2015",456,4670724,9.8
+"Louisiana","22","Assault","X85-Y09","2016","2016",526,4681666,11.2
+"Maine","23","Intentional self-harm","X60-X84","1999","1999",91,1266808,7.2
+"Maine","23","Intentional self-harm","X60-X84","2000","2000",98,1274923,7.7
+"Maine","23","Intentional self-harm","X60-X84","2001","2001",86,1285692,6.7
+"Maine","23","Intentional self-harm","X60-X84","2002","2002",79,1295960,6.1
+"Maine","23","Intentional self-harm","X60-X84","2003","2003",71,1306513,5.4
+"Maine","23","Intentional self-harm","X60-X84","2004","2004",97,1313688,7.4
+"Maine","23","Intentional self-harm","X60-X84","2005","2005",100,1318787,7.6
+"Maine","23","Intentional self-harm","X60-X84","2006","2006",87,1323619,6.6
+"Maine","23","Intentional self-harm","X60-X84","2007","2007",90,1327040,6.8
+"Maine","23","Intentional self-harm","X60-X84","2008","2008",103,1330509,7.7
+"Maine","23","Intentional self-harm","X60-X84","2009","2009",106,1329590,8
+"Maine","23","Intentional self-harm","X60-X84","2010","2010",95,1328361,7.2
+"Maine","23","Intentional self-harm","X60-X84","2011","2011",113,1328188,8.5
+"Maine","23","Intentional self-harm","X60-X84","2012","2012",112,1329192,8.4
+"Maine","23","Intentional self-harm","X60-X84","2013","2013",137,1328302,10.3
+"Maine","23","Intentional self-harm","X60-X84","2014","2014",116,1330089,8.7
+"Maine","23","Intentional self-harm","X60-X84","2015","2015",128,1329328,9.6
+"Maine","23","Intentional self-harm","X60-X84","2016","2016",112,1331479,8.4
+"Maine","23","Assault","X85-Y09","1999","1999",15,1266808,"Unreliable"
+"Maine","23","Assault","X85-Y09","2000","2000",11,1274923,"Unreliable"
+"Maine","23","Assault","X85-Y09","2004","2004",11,1313688,"Unreliable"
+"Maine","23","Assault","X85-Y09","2006","2006",15,1323619,"Unreliable"
+"Maine","23","Assault","X85-Y09","2007","2007",15,1327040,"Unreliable"
+"Maine","23","Assault","X85-Y09","2008","2008",12,1330509,"Unreliable"
+"Maine","23","Assault","X85-Y09","2009","2009",15,1329590,"Unreliable"
+"Maine","23","Assault","X85-Y09","2010","2010",13,1328361,"Unreliable"
+"Maine","23","Assault","X85-Y09","2011","2011",15,1328188,"Unreliable"
+"Maine","23","Assault","X85-Y09","2012","2012",15,1329192,"Unreliable"
+"Maine","23","Assault","X85-Y09","2013","2013",13,1328302,"Unreliable"
+"Maine","23","Assault","X85-Y09","2014","2014",10,1330089,"Unreliable"
+"Maine","23","Assault","X85-Y09","2015","2015",14,1329328,"Unreliable"
+"Maryland","24","Other external causes of accidental injury","W00-X59","2001","2001",10,5374691,"Unreliable"
+"Maryland","24","Other external causes of accidental injury","W00-X59","2004","2004",11,5546935,"Unreliable"
+"Maryland","24","Intentional self-harm","X60-X84","1999","1999",241,5254509,4.6
+"Maryland","24","Intentional self-harm","X60-X84","2000","2000",245,5296486,4.6
+"Maryland","24","Intentional self-harm","X60-X84","2001","2001",220,5374691,4.1
+"Maryland","24","Intentional self-harm","X60-X84","2002","2002",233,5440389,4.3
+"Maryland","24","Intentional self-harm","X60-X84","2003","2003",239,5496269,4.3
+"Maryland","24","Intentional self-harm","X60-X84","2004","2004",250,5546935,4.5
+"Maryland","24","Intentional self-harm","X60-X84","2005","2005",220,5592379,3.9
+"Maryland","24","Intentional self-harm","X60-X84","2006","2006",238,5627367,4.2
+"Maryland","24","Intentional self-harm","X60-X84","2007","2007",233,5653408,4.1
+"Maryland","24","Intentional self-harm","X60-X84","2008","2008",263,5684965,4.6
+"Maryland","24","Intentional self-harm","X60-X84","2009","2009",252,5730388,4.4
+"Maryland","24","Intentional self-harm","X60-X84","2010","2010",222,5773552,3.8
+"Maryland","24","Intentional self-harm","X60-X84","2011","2011",242,5828289,4.2
+"Maryland","24","Intentional self-harm","X60-X84","2012","2012",272,5884563,4.6
+"Maryland","24","Intentional self-harm","X60-X84","2013","2013",257,5928814,4.3
+"Maryland","24","Intentional self-harm","X60-X84","2014","2014",277,5976407,4.6
+"Maryland","24","Intentional self-harm","X60-X84","2015","2015",244,6006401,4.1
+"Maryland","24","Intentional self-harm","X60-X84","2016","2016",251,6016447,4.2
+"Maryland","24","Assault","X85-Y09","1999","1999",396,5254509,7.5
+"Maryland","24","Assault","X85-Y09","2000","2000",353,5296486,6.7
+"Maryland","24","Assault","X85-Y09","2001","2001",363,5374691,6.8
+"Maryland","24","Assault","X85-Y09","2002","2002",365,5440389,6.7
+"Maryland","24","Assault","X85-Y09","2003","2003",394,5496269,7.2
+"Maryland","24","Assault","X85-Y09","2004","2004",386,5546935,7
+"Maryland","24","Assault","X85-Y09","2005","2005",422,5592379,7.5
+"Maryland","24","Assault","X85-Y09","2006","2006",416,5627367,7.4
+"Maryland","24","Assault","X85-Y09","2007","2007",424,5653408,7.5
+"Maryland","24","Assault","X85-Y09","2008","2008",379,5684965,6.7
+"Maryland","24","Assault","X85-Y09","2009","2009",316,5730388,5.5
+"Maryland","24","Assault","X85-Y09","2010","2010",306,5773552,5.3
+"Maryland","24","Assault","X85-Y09","2011","2011",276,5828289,4.7
+"Maryland","24","Assault","X85-Y09","2012","2012",294,5884563,5
+"Maryland","24","Assault","X85-Y09","2013","2013",299,5928814,5
+"Maryland","24","Assault","X85-Y09","2014","2014",249,5976407,4.2
+"Maryland","24","Assault","X85-Y09","2015","2015",445,6006401,7.4
+"Maryland","24","Assault","X85-Y09","2016","2016",436,6016447,7.2
+"Massachusetts","25","Intentional self-harm","X60-X84","1999","1999",118,6317345,1.9
+"Massachusetts","25","Intentional self-harm","X60-X84","2000","2000",105,6349097,1.7
+"Massachusetts","25","Intentional self-harm","X60-X84","2001","2001",107,6397634,1.7
+"Massachusetts","25","Intentional self-harm","X60-X84","2002","2002",99,6417206,1.5
+"Massachusetts","25","Intentional self-harm","X60-X84","2003","2003",122,6422565,1.9
+"Massachusetts","25","Intentional self-harm","X60-X84","2004","2004",95,6412281,1.5
+"Massachusetts","25","Intentional self-harm","X60-X84","2005","2005",111,6403290,1.7
+"Massachusetts","25","Intentional self-harm","X60-X84","2006","2006",101,6410084,1.6
+"Massachusetts","25","Intentional self-harm","X60-X84","2007","2007",114,6431559,1.8
+"Massachusetts","25","Intentional self-harm","X60-X84","2008","2008",118,6468967,1.8
+"Massachusetts","25","Intentional self-harm","X60-X84","2009","2009",89,6517613,1.4
+"Massachusetts","25","Intentional self-harm","X60-X84","2010","2010",138,6547629,2.1
+"Massachusetts","25","Intentional self-harm","X60-X84","2011","2011",116,6587536,1.8
+"Massachusetts","25","Intentional self-harm","X60-X84","2012","2012",151,6646144,2.3
+"Massachusetts","25","Intentional self-harm","X60-X84","2013","2013",112,6692824,1.7
+"Massachusetts","25","Intentional self-harm","X60-X84","2014","2014",130,6745408,1.9
+"Massachusetts","25","Intentional self-harm","X60-X84","2015","2015",118,6794422,1.7
+"Massachusetts","25","Intentional self-harm","X60-X84","2016","2016",140,6811779,2.1
+"Massachusetts","25","Assault","X85-Y09","1999","1999",71,6317345,1.1
+"Massachusetts","25","Assault","X85-Y09","2000","2000",67,6349097,1.1
+"Massachusetts","25","Assault","X85-Y09","2001","2001",80,6397634,1.3
+"Massachusetts","25","Assault","X85-Y09","2002","2002",94,6417206,1.5
+"Massachusetts","25","Assault","X85-Y09","2003","2003",78,6422565,1.2
+"Massachusetts","25","Assault","X85-Y09","2004","2004",106,6412281,1.7
+"Massachusetts","25","Assault","X85-Y09","2005","2005",108,6403290,1.7
+"Massachusetts","25","Assault","X85-Y09","2006","2006",105,6410084,1.6
+"Massachusetts","25","Assault","X85-Y09","2007","2007",115,6431559,1.8
+"Massachusetts","25","Assault","X85-Y09","2008","2008",98,6468967,1.5
+"Massachusetts","25","Assault","X85-Y09","2009","2009",110,6517613,1.7
+"Massachusetts","25","Assault","X85-Y09","2010","2010",126,6547629,1.9
+"Massachusetts","25","Assault","X85-Y09","2011","2011",128,6587536,1.9
+"Massachusetts","25","Assault","X85-Y09","2012","2012",73,6646144,1.1
+"Massachusetts","25","Assault","X85-Y09","2013","2013",83,6692824,1.2
+"Massachusetts","25","Assault","X85-Y09","2014","2014",90,6745408,1.3
+"Massachusetts","25","Assault","X85-Y09","2015","2015",86,6794422,1.3
+"Massachusetts","25","Assault","X85-Y09","2016","2016",89,6811779,1.3
+"Michigan","26","Other external causes of accidental injury","W00-X59","1999","1999",14,9897116,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2000","2000",16,9938444,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2001","2001",14,9991120,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2002","2002",11,10015710,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2004","2004",14,10055315,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2005","2005",15,10051137,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2006","2006",11,10036081,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2007","2007",12,10001284,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2008","2008",11,9946889,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2009","2009",12,9901591,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2010","2010",16,9883640,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2011","2011",12,9876187,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2013","2013",10,9895622,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2015","2015",14,9922576,"Unreliable"
+"Michigan","26","Other external causes of accidental injury","W00-X59","2016","2016",14,9928300,"Unreliable"
+"Michigan","26","Intentional self-harm","X60-X84","1999","1999",542,9897116,5.5
+"Michigan","26","Intentional self-harm","X60-X84","2000","2000",531,9938444,5.3
+"Michigan","26","Intentional self-harm","X60-X84","2001","2001",542,9991120,5.4
+"Michigan","26","Intentional self-harm","X60-X84","2002","2002",578,10015710,5.8
+"Michigan","26","Intentional self-harm","X60-X84","2003","2003",523,10041152,5.2
+"Michigan","26","Intentional self-harm","X60-X84","2004","2004",532,10055315,5.3
+"Michigan","26","Intentional self-harm","X60-X84","2005","2005",554,10051137,5.5
+"Michigan","26","Intentional self-harm","X60-X84","2006","2006",598,10036081,6
+"Michigan","26","Intentional self-harm","X60-X84","2007","2007",558,10001284,5.6
+"Michigan","26","Intentional self-harm","X60-X84","2008","2008",570,9946889,5.7
+"Michigan","26","Intentional self-harm","X60-X84","2009","2009",575,9901591,5.8
+"Michigan","26","Intentional self-harm","X60-X84","2010","2010",601,9883640,6.1
+"Michigan","26","Intentional self-harm","X60-X84","2011","2011",619,9876187,6.3
+"Michigan","26","Intentional self-harm","X60-X84","2012","2012",623,9883360,6.3
+"Michigan","26","Intentional self-harm","X60-X84","2013","2013",674,9895622,6.8
+"Michigan","26","Intentional self-harm","X60-X84","2014","2014",671,9909877,6.8
+"Michigan","26","Intentional self-harm","X60-X84","2015","2015",692,9922576,7
+"Michigan","26","Intentional self-harm","X60-X84","2016","2016",717,9928300,7.2
+"Michigan","26","Assault","X85-Y09","1999","1999",516,9897116,5.2
+"Michigan","26","Assault","X85-Y09","2000","2000",504,9938444,5.1
+"Michigan","26","Assault","X85-Y09","2001","2001",499,9991120,5
+"Michigan","26","Assault","X85-Y09","2002","2002",489,10015710,4.9
+"Michigan","26","Assault","X85-Y09","2003","2003",477,10041152,4.8
+"Michigan","26","Assault","X85-Y09","2004","2004",488,10055315,4.9
+"Michigan","26","Assault","X85-Y09","2005","2005",491,10051137,4.9
+"Michigan","26","Assault","X85-Y09","2006","2006",536,10036081,5.3
+"Michigan","26","Assault","X85-Y09","2007","2007",506,10001284,5.1
+"Michigan","26","Assault","X85-Y09","2008","2008",489,9946889,4.9
+"Michigan","26","Assault","X85-Y09","2009","2009",495,9901591,5
+"Michigan","26","Assault","X85-Y09","2010","2010",440,9883640,4.5
+"Michigan","26","Assault","X85-Y09","2011","2011",511,9876187,5.2
+"Michigan","26","Assault","X85-Y09","2012","2012",579,9883360,5.9
+"Michigan","26","Assault","X85-Y09","2013","2013",493,9895622,5
+"Michigan","26","Assault","X85-Y09","2014","2014",411,9909877,4.1
+"Michigan","26","Assault","X85-Y09","2015","2015",436,9922576,4.4
+"Michigan","26","Assault","X85-Y09","2016","2016",482,9928300,4.9
+"Minnesota","27","Intentional self-harm","X60-X84","1999","1999",228,4873481,4.7
+"Minnesota","27","Intentional self-harm","X60-X84","2000","2000",223,4919479,4.5
+"Minnesota","27","Intentional self-harm","X60-X84","2001","2001",242,4982796,4.9
+"Minnesota","27","Intentional self-harm","X60-X84","2002","2002",238,5018935,4.7
+"Minnesota","27","Intentional self-harm","X60-X84","2003","2003",244,5053572,4.8
+"Minnesota","27","Intentional self-harm","X60-X84","2004","2004",268,5087713,5.3
+"Minnesota","27","Intentional self-harm","X60-X84","2005","2005",255,5119598,5
+"Minnesota","27","Intentional self-harm","X60-X84","2006","2006",243,5163555,4.7
+"Minnesota","27","Intentional self-harm","X60-X84","2007","2007",265,5207203,5.1
+"Minnesota","27","Intentional self-harm","X60-X84","2008","2008",289,5247018,5.5
+"Minnesota","27","Intentional self-harm","X60-X84","2009","2009",281,5281203,5.3
+"Minnesota","27","Intentional self-harm","X60-X84","2010","2010",280,5303925,5.3
+"Minnesota","27","Intentional self-harm","X60-X84","2011","2011",322,5344861,6
+"Minnesota","27","Intentional self-harm","X60-X84","2012","2012",310,5379139,5.8
+"Minnesota","27","Intentional self-harm","X60-X84","2013","2013",339,5420380,6.3
+"Minnesota","27","Intentional self-harm","X60-X84","2014","2014",308,5457173,5.6
+"Minnesota","27","Intentional self-harm","X60-X84","2015","2015",304,5489594,5.5
+"Minnesota","27","Intentional self-harm","X60-X84","2016","2016",332,5519952,6
+"Minnesota","27","Assault","X85-Y09","1999","1999",54,4873481,1.1
+"Minnesota","27","Assault","X85-Y09","2000","2000",77,4919479,1.6
+"Minnesota","27","Assault","X85-Y09","2001","2001",68,4982796,1.4
+"Minnesota","27","Assault","X85-Y09","2002","2002",55,5018935,1.1
+"Minnesota","27","Assault","X85-Y09","2003","2003",75,5053572,1.5
+"Minnesota","27","Assault","X85-Y09","2004","2004",85,5087713,1.7
+"Minnesota","27","Assault","X85-Y09","2005","2005",88,5119598,1.7
+"Minnesota","27","Assault","X85-Y09","2006","2006",78,5163555,1.5
+"Minnesota","27","Assault","X85-Y09","2007","2007",70,5207203,1.3
+"Minnesota","27","Assault","X85-Y09","2008","2008",71,5247018,1.4
+"Minnesota","27","Assault","X85-Y09","2009","2009",46,5281203,0.9
+"Minnesota","27","Assault","X85-Y09","2010","2010",65,5303925,1.2
+"Minnesota","27","Assault","X85-Y09","2011","2011",59,5344861,1.1
+"Minnesota","27","Assault","X85-Y09","2012","2012",61,5379139,1.1
+"Minnesota","27","Assault","X85-Y09","2013","2013",76,5420380,1.4
+"Minnesota","27","Assault","X85-Y09","2014","2014",59,5457173,1.1
+"Minnesota","27","Assault","X85-Y09","2015","2015",92,5489594,1.7
+"Minnesota","27","Assault","X85-Y09","2016","2016",83,5519952,1.5
+"Mississippi","28","Other external causes of accidental injury","W00-X59","1999","1999",41,2828408,1.4
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2000","2000",26,2844658,0.9
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2001","2001",22,2852994,0.8
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2002","2002",21,2858681,0.7
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2003","2003",23,2868312,0.8
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2004","2004",18,2889010,"Unreliable"
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2005","2005",20,2905943,0.7
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2006","2006",20,2904978,0.7
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2007","2007",28,2928350,1
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2008","2008",22,2947806,0.7
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2009","2009",16,2958774,"Unreliable"
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2011","2011",29,2978512,1
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2012","2012",12,2984926,"Unreliable"
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2013","2013",17,2991207,"Unreliable"
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2014","2014",17,2994079,"Unreliable"
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2015","2015",18,2992333,"Unreliable"
+"Mississippi","28","Other external causes of accidental injury","W00-X59","2016","2016",21,2988726,0.7
+"Mississippi","28","Intentional self-harm","X60-X84","1999","1999",244,2828408,8.6
+"Mississippi","28","Intentional self-harm","X60-X84","2000","2000",220,2844658,7.7
+"Mississippi","28","Intentional self-harm","X60-X84","2001","2001",239,2852994,8.4
+"Mississippi","28","Intentional self-harm","X60-X84","2002","2002",254,2858681,8.9
+"Mississippi","28","Intentional self-harm","X60-X84","2003","2003",247,2868312,8.6
+"Mississippi","28","Intentional self-harm","X60-X84","2004","2004",245,2889010,8.5
+"Mississippi","28","Intentional self-harm","X60-X84","2005","2005",251,2905943,8.6
+"Mississippi","28","Intentional self-harm","X60-X84","2006","2006",219,2904978,7.5
+"Mississippi","28","Intentional self-harm","X60-X84","2007","2007",279,2928350,9.5
+"Mississippi","28","Intentional self-harm","X60-X84","2008","2008",286,2947806,9.7
+"Mississippi","28","Intentional self-harm","X60-X84","2009","2009",269,2958774,9.1
+"Mississippi","28","Intentional self-harm","X60-X84","2010","2010",256,2967297,8.6
+"Mississippi","28","Intentional self-harm","X60-X84","2011","2011",268,2978512,9
+"Mississippi","28","Intentional self-harm","X60-X84","2012","2012",296,2984926,9.9
+"Mississippi","28","Intentional self-harm","X60-X84","2013","2013",279,2991207,9.3
+"Mississippi","28","Intentional self-harm","X60-X84","2014","2014",251,2994079,8.4
+"Mississippi","28","Intentional self-harm","X60-X84","2015","2015",292,2992333,9.8
+"Mississippi","28","Intentional self-harm","X60-X84","2016","2016",268,2988726,9
+"Mississippi","28","Assault","X85-Y09","1999","1999",214,2828408,7.6
+"Mississippi","28","Assault","X85-Y09","2000","2000",214,2844658,7.5
+"Mississippi","28","Assault","X85-Y09","2001","2001",224,2852994,7.9
+"Mississippi","28","Assault","X85-Y09","2002","2002",208,2858681,7.3
+"Mississippi","28","Assault","X85-Y09","2003","2003",201,2868312,7
+"Mississippi","28","Assault","X85-Y09","2004","2004",202,2889010,7
+"Mississippi","28","Assault","X85-Y09","2005","2005",175,2905943,6
+"Mississippi","28","Assault","X85-Y09","2006","2006",222,2904978,7.6
+"Mississippi","28","Assault","X85-Y09","2007","2007",219,2928350,7.5
+"Mississippi","28","Assault","X85-Y09","2008","2008",245,2947806,8.3
+"Mississippi","28","Assault","X85-Y09","2009","2009",197,2958774,6.7
+"Mississippi","28","Assault","X85-Y09","2010","2010",205,2967297,6.9
+"Mississippi","28","Assault","X85-Y09","2011","2011",221,2978512,7.4
+"Mississippi","28","Assault","X85-Y09","2012","2012",216,2984926,7.2
+"Mississippi","28","Assault","X85-Y09","2013","2013",215,2991207,7.2
+"Mississippi","28","Assault","X85-Y09","2014","2014",259,2994079,8.7
+"Mississippi","28","Assault","X85-Y09","2015","2015",264,2992333,8.8
+"Mississippi","28","Assault","X85-Y09","2016","2016",282,2988726,9.4
+"Missouri","29","Other external causes of accidental injury","W00-X59","1999","1999",25,5561948,0.4
+"Missouri","29","Other external causes of accidental injury","W00-X59","2000","2000",29,5595211,0.5
+"Missouri","29","Other external causes of accidental injury","W00-X59","2001","2001",26,5641142,0.5
+"Missouri","29","Other external causes of accidental injury","W00-X59","2002","2002",12,5674825,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2003","2003",17,5709403,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2004","2004",16,5747741,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2005","2005",23,5790300,0.4
+"Missouri","29","Other external causes of accidental injury","W00-X59","2006","2006",20,5842704,0.3
+"Missouri","29","Other external causes of accidental injury","W00-X59","2007","2007",20,5887612,0.3
+"Missouri","29","Other external causes of accidental injury","W00-X59","2008","2008",26,5923916,0.4
+"Missouri","29","Other external causes of accidental injury","W00-X59","2009","2009",20,5961088,0.3
+"Missouri","29","Other external causes of accidental injury","W00-X59","2010","2010",13,5988927,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2011","2011",23,6010688,0.4
+"Missouri","29","Other external causes of accidental injury","W00-X59","2012","2012",17,6021988,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2013","2013",19,6044171,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2014","2014",14,6063589,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2015","2015",18,6083672,"Unreliable"
+"Missouri","29","Other external causes of accidental injury","W00-X59","2016","2016",13,6093000,"Unreliable"
+"Missouri","29","Intentional self-harm","X60-X84","1999","1999",426,5561948,7.7
+"Missouri","29","Intentional self-harm","X60-X84","2000","2000",434,5595211,7.8
+"Missouri","29","Intentional self-harm","X60-X84","2001","2001",427,5641142,7.6
+"Missouri","29","Intentional self-harm","X60-X84","2002","2002",423,5674825,7.5
+"Missouri","29","Intentional self-harm","X60-X84","2003","2003",411,5709403,7.2
+"Missouri","29","Intentional self-harm","X60-X84","2004","2004",389,5747741,6.8
+"Missouri","29","Intentional self-harm","X60-X84","2005","2005",427,5790300,7.4
+"Missouri","29","Intentional self-harm","X60-X84","2006","2006",444,5842704,7.6
+"Missouri","29","Intentional self-harm","X60-X84","2007","2007",452,5887612,7.7
+"Missouri","29","Intentional self-harm","X60-X84","2008","2008",421,5923916,7.1
+"Missouri","29","Intentional self-harm","X60-X84","2009","2009",471,5961088,7.9
+"Missouri","29","Intentional self-harm","X60-X84","2010","2010",489,5988927,8.2
+"Missouri","29","Intentional self-harm","X60-X84","2011","2011",513,6010688,8.5
+"Missouri","29","Intentional self-harm","X60-X84","2012","2012",546,6021988,9.1
+"Missouri","29","Intentional self-harm","X60-X84","2013","2013",556,6044171,9.2
+"Missouri","29","Intentional self-harm","X60-X84","2014","2014",588,6063589,9.7
+"Missouri","29","Intentional self-harm","X60-X84","2015","2015",605,6083672,9.9
+"Missouri","29","Intentional self-harm","X60-X84","2016","2016",650,6093000,10.7
+"Missouri","29","Assault","X85-Y09","1999","1999",244,5561948,4.4
+"Missouri","29","Assault","X85-Y09","2000","2000",273,5595211,4.9
+"Missouri","29","Assault","X85-Y09","2001","2001",275,5641142,4.9
+"Missouri","29","Assault","X85-Y09","2002","2002",253,5674825,4.5
+"Missouri","29","Assault","X85-Y09","2003","2003",219,5709403,3.8
+"Missouri","29","Assault","X85-Y09","2004","2004",257,5747741,4.5
+"Missouri","29","Assault","X85-Y09","2005","2005",293,5790300,5.1
+"Missouri","29","Assault","X85-Y09","2006","2006",295,5842704,5
+"Missouri","29","Assault","X85-Y09","2007","2007",265,5887612,4.5
+"Missouri","29","Assault","X85-Y09","2008","2008",360,5923916,6.1
+"Missouri","29","Assault","X85-Y09","2009","2009",319,5961088,5.4
+"Missouri","29","Assault","X85-Y09","2010","2010",335,5988927,5.6
+"Missouri","29","Assault","X85-Y09","2011","2011",303,6010688,5
+"Missouri","29","Assault","X85-Y09","2012","2012",311,6021988,5.2
+"Missouri","29","Assault","X85-Y09","2013","2013",293,6044171,4.8
+"Missouri","29","Assault","X85-Y09","2014","2014",327,6063589,5.4
+"Missouri","29","Assault","X85-Y09","2015","2015",459,6083672,7.5
+"Missouri","29","Assault","X85-Y09","2016","2016",464,6093000,7.6
+"Montana","30","Intentional self-harm","X60-X84","1999","1999",96,897507,10.7
+"Montana","30","Intentional self-harm","X60-X84","2000","2000",107,902195,11.9
+"Montana","30","Intentional self-harm","X60-X84","2001","2001",133,906961,14.7
+"Montana","30","Intentional self-harm","X60-X84","2002","2002",115,911667,12.6
+"Montana","30","Intentional self-harm","X60-X84","2003","2003",120,919630,13
+"Montana","30","Intentional self-harm","X60-X84","2004","2004",105,930009,11.3
+"Montana","30","Intentional self-harm","X60-X84","2005","2005",135,940102,14.4
+"Montana","30","Intentional self-harm","X60-X84","2006","2006",102,952692,10.7
+"Montana","30","Intentional self-harm","X60-X84","2007","2007",120,964706,12.4
+"Montana","30","Intentional self-harm","X60-X84","2008","2008",132,976415,13.5
+"Montana","30","Intentional self-harm","X60-X84","2009","2009",136,983982,13.8
+"Montana","30","Intentional self-harm","X60-X84","2010","2010",141,989415,14.3
+"Montana","30","Intentional self-harm","X60-X84","2011","2011",152,998199,15.2
+"Montana","30","Intentional self-harm","X60-X84","2012","2012",153,1005141,15.2
+"Montana","30","Intentional self-harm","X60-X84","2013","2013",147,1015165,14.5
+"Montana","30","Intentional self-harm","X60-X84","2014","2014",149,1023579,14.6
+"Montana","30","Intentional self-harm","X60-X84","2015","2015",174,1032949,16.8
+"Montana","30","Intentional self-harm","X60-X84","2016","2016",162,1042520,15.5
+"Montana","30","Assault","X85-Y09","1999","1999",17,897507,"Unreliable"
+"Montana","30","Assault","X85-Y09","2000","2000",17,902195,"Unreliable"
+"Montana","30","Assault","X85-Y09","2001","2001",20,906961,2.2
+"Montana","30","Assault","X85-Y09","2003","2003",20,919630,2.2
+"Montana","30","Assault","X85-Y09","2004","2004",12,930009,"Unreliable"
+"Montana","30","Assault","X85-Y09","2005","2005",17,940102,"Unreliable"
+"Montana","30","Assault","X85-Y09","2006","2006",11,952692,"Unreliable"
+"Montana","30","Assault","X85-Y09","2007","2007",15,964706,"Unreliable"
+"Montana","30","Assault","X85-Y09","2008","2008",16,976415,"Unreliable"
+"Montana","30","Assault","X85-Y09","2009","2009",21,983982,2.1
+"Montana","30","Assault","X85-Y09","2010","2010",17,989415,"Unreliable"
+"Montana","30","Assault","X85-Y09","2011","2011",11,998199,"Unreliable"
+"Montana","30","Assault","X85-Y09","2012","2012",10,1005141,"Unreliable"
+"Montana","30","Assault","X85-Y09","2013","2013",14,1015165,"Unreliable"
+"Montana","30","Assault","X85-Y09","2014","2014",14,1023579,"Unreliable"
+"Montana","30","Assault","X85-Y09","2015","2015",20,1032949,1.9
+"Montana","30","Assault","X85-Y09","2016","2016",18,1042520,"Unreliable"
+"Nebraska","31","Intentional self-harm","X60-X84","1999","1999",108,1704764,6.3
+"Nebraska","31","Intentional self-harm","X60-X84","2000","2000",115,1711263,6.7
+"Nebraska","31","Intentional self-harm","X60-X84","2001","2001",107,1719836,6.2
+"Nebraska","31","Intentional self-harm","X60-X84","2002","2002",105,1728292,6.1
+"Nebraska","31","Intentional self-harm","X60-X84","2003","2003",91,1738643,5.2
+"Nebraska","31","Intentional self-harm","X60-X84","2004","2004",87,1749370,5
+"Nebraska","31","Intentional self-harm","X60-X84","2005","2005",100,1761497,5.7
+"Nebraska","31","Intentional self-harm","X60-X84","2006","2006",105,1772693,5.9
+"Nebraska","31","Intentional self-harm","X60-X84","2007","2007",89,1783440,5
+"Nebraska","31","Intentional self-harm","X60-X84","2008","2008",98,1796378,5.5
+"Nebraska","31","Intentional self-harm","X60-X84","2009","2009",93,1812683,5.1
+"Nebraska","31","Intentional self-harm","X60-X84","2010","2010",106,1826341,5.8
+"Nebraska","31","Intentional self-harm","X60-X84","2011","2011",111,1842641,6
+"Nebraska","31","Intentional self-harm","X60-X84","2012","2012",115,1855525,6.2
+"Nebraska","31","Intentional self-harm","X60-X84","2013","2013",111,1868516,5.9
+"Nebraska","31","Intentional self-harm","X60-X84","2014","2014",133,1881503,7.1
+"Nebraska","31","Intentional self-harm","X60-X84","2015","2015",114,1896190,6
+"Nebraska","31","Intentional self-harm","X60-X84","2016","2016",116,1907116,6.1
+"Nebraska","31","Assault","X85-Y09","1999","1999",29,1704764,1.7
+"Nebraska","31","Assault","X85-Y09","2000","2000",41,1711263,2.4
+"Nebraska","31","Assault","X85-Y09","2001","2001",21,1719836,1.2
+"Nebraska","31","Assault","X85-Y09","2002","2002",27,1728292,1.6
+"Nebraska","31","Assault","X85-Y09","2003","2003",31,1738643,1.8
+"Nebraska","31","Assault","X85-Y09","2004","2004",24,1749370,1.4
+"Nebraska","31","Assault","X85-Y09","2005","2005",28,1761497,1.6
+"Nebraska","31","Assault","X85-Y09","2006","2006",31,1772693,1.7
+"Nebraska","31","Assault","X85-Y09","2007","2007",43,1783440,2.4
+"Nebraska","31","Assault","X85-Y09","2008","2008",49,1796378,2.7
+"Nebraska","31","Assault","X85-Y09","2009","2009",31,1812683,1.7
+"Nebraska","31","Assault","X85-Y09","2010","2010",41,1826341,2.2
+"Nebraska","31","Assault","X85-Y09","2011","2011",41,1842641,2.2
+"Nebraska","31","Assault","X85-Y09","2012","2012",46,1855525,2.5
+"Nebraska","31","Assault","X85-Y09","2013","2013",51,1868516,2.7
+"Nebraska","31","Assault","X85-Y09","2014","2014",39,1881503,2.1
+"Nebraska","31","Assault","X85-Y09","2015","2015",50,1896190,2.6
+"Nebraska","31","Assault","X85-Y09","2016","2016",45,1907116,2.4
+"Nevada","32","Intentional self-harm","X60-X84","1999","1999",259,1934718,13.4
+"Nevada","32","Intentional self-harm","X60-X84","2000","2000",241,1998257,12.1
+"Nevada","32","Intentional self-harm","X60-X84","2001","2001",219,2098399,10.4
+"Nevada","32","Intentional self-harm","X60-X84","2002","2002",245,2173791,11.3
+"Nevada","32","Intentional self-harm","X60-X84","2003","2003",247,2248850,11
+"Nevada","32","Intentional self-harm","X60-X84","2004","2004",249,2346222,10.6
+"Nevada","32","Intentional self-harm","X60-X84","2005","2005",262,2432143,10.8
+"Nevada","32","Intentional self-harm","X60-X84","2006","2006",255,2522658,10.1
+"Nevada","32","Intentional self-harm","X60-X84","2007","2007",270,2601072,10.4
+"Nevada","32","Intentional self-harm","X60-X84","2008","2008",291,2653630,11
+"Nevada","32","Intentional self-harm","X60-X84","2009","2009",295,2684665,11
+"Nevada","32","Intentional self-harm","X60-X84","2010","2010",289,2700551,10.7
+"Nevada","32","Intentional self-harm","X60-X84","2011","2011",272,2723322,10
+"Nevada","32","Intentional self-harm","X60-X84","2012","2012",274,2758931,9.9
+"Nevada","32","Intentional self-harm","X60-X84","2013","2013",292,2790136,10.5
+"Nevada","32","Intentional self-harm","X60-X84","2014","2014",309,2839099,10.9
+"Nevada","32","Intentional self-harm","X60-X84","2015","2015",293,2890845,10.1
+"Nevada","32","Intentional self-harm","X60-X84","2016","2016",334,2940058,11.4
+"Nevada","32","Assault","X85-Y09","1999","1999",100,1934718,5.2
+"Nevada","32","Assault","X85-Y09","2000","2000",89,1998257,4.5
+"Nevada","32","Assault","X85-Y09","2001","2001",109,2098399,5.2
+"Nevada","32","Assault","X85-Y09","2002","2002",114,2173791,5.2
+"Nevada","32","Assault","X85-Y09","2003","2003",114,2248850,5.1
+"Nevada","32","Assault","X85-Y09","2004","2004",123,2346222,5.2
+"Nevada","32","Assault","X85-Y09","2005","2005",115,2432143,4.7
+"Nevada","32","Assault","X85-Y09","2006","2006",131,2522658,5.2
+"Nevada","32","Assault","X85-Y09","2007","2007",131,2601072,5
+"Nevada","32","Assault","X85-Y09","2008","2008",100,2653630,3.8
+"Nevada","32","Assault","X85-Y09","2009","2009",97,2684665,3.6
+"Nevada","32","Assault","X85-Y09","2010","2010",90,2700551,3.3
+"Nevada","32","Assault","X85-Y09","2011","2011",84,2723322,3.1
+"Nevada","32","Assault","X85-Y09","2012","2012",77,2758931,2.8
+"Nevada","32","Assault","X85-Y09","2013","2013",88,2790136,3.2
+"Nevada","32","Assault","X85-Y09","2014","2014",106,2839099,3.7
+"Nevada","32","Assault","X85-Y09","2015","2015",128,2890845,4.4
+"Nevada","32","Assault","X85-Y09","2016","2016",149,2940058,5.1
+"New Hampshire","33","Intentional self-harm","X60-X84","1999","1999",64,1222014,5.2
+"New Hampshire","33","Intentional self-harm","X60-X84","2000","2000",67,1235786,5.4
+"New Hampshire","33","Intentional self-harm","X60-X84","2001","2001",79,1255517,6.3
+"New Hampshire","33","Intentional self-harm","X60-X84","2002","2002",66,1269089,5.2
+"New Hampshire","33","Intentional self-harm","X60-X84","2003","2003",75,1279840,5.9
+"New Hampshire","33","Intentional self-harm","X60-X84","2004","2004",57,1290121,4.4
+"New Hampshire","33","Intentional self-harm","X60-X84","2005","2005",79,1298492,6.1
+"New Hampshire","33","Intentional self-harm","X60-X84","2006","2006",69,1308389,5.3
+"New Hampshire","33","Intentional self-harm","X60-X84","2007","2007",71,1312540,5.4
+"New Hampshire","33","Intentional self-harm","X60-X84","2008","2008",85,1315906,6.5
+"New Hampshire","33","Intentional self-harm","X60-X84","2009","2009",82,1316102,6.2
+"New Hampshire","33","Intentional self-harm","X60-X84","2010","2010",102,1316470,7.7
+"New Hampshire","33","Intentional self-harm","X60-X84","2011","2011",75,1318194,5.7
+"New Hampshire","33","Intentional self-harm","X60-X84","2012","2012",98,1320718,7.4
+"New Hampshire","33","Intentional self-harm","X60-X84","2013","2013",81,1323459,6.1
+"New Hampshire","33","Intentional self-harm","X60-X84","2014","2014",110,1326813,8.3
+"New Hampshire","33","Intentional self-harm","X60-X84","2015","2015",107,1330608,8
+"New Hampshire","33","Intentional self-harm","X60-X84","2016","2016",123,1334795,9.2
+"New Hampshire","33","Assault","X85-Y09","2004","2004",11,1290121,"Unreliable"
+"New Hampshire","33","Assault","X85-Y09","2006","2006",12,1308389,"Unreliable"
+"New Hampshire","33","Assault","X85-Y09","2011","2011",10,1318194,"Unreliable"
+"New Hampshire","33","Assault","X85-Y09","2012","2012",13,1320718,"Unreliable"
+"New Hampshire","33","Assault","X85-Y09","2015","2015",12,1330608,"Unreliable"
+"New Jersey","34","Other external causes of accidental injury","W00-X59","2000","2000",12,8414350,"Unreliable"
+"New Jersey","34","Other external causes of accidental injury","W00-X59","2001","2001",11,8492671,"Unreliable"
+"New Jersey","34","Other external causes of accidental injury","W00-X59","2002","2002",28,8552643,0.3
+"New Jersey","34","Other external causes of accidental injury","W00-X59","2003","2003",10,8601402,"Unreliable"
+"New Jersey","34","Other external causes of accidental injury","W00-X59","2004","2004",10,8634561,"Unreliable"
+"New Jersey","34","Other external causes of accidental injury","W00-X59","2006","2006",14,8661679,"Unreliable"
+"New Jersey","34","Intentional self-harm","X60-X84","1999","1999",195,8359592,2.3
+"New Jersey","34","Intentional self-harm","X60-X84","2000","2000",154,8414350,1.8
+"New Jersey","34","Intentional self-harm","X60-X84","2001","2001",167,8492671,2
+"New Jersey","34","Intentional self-harm","X60-X84","2002","2002",176,8552643,2.1
+"New Jersey","34","Intentional self-harm","X60-X84","2003","2003",183,8601402,2.1
+"New Jersey","34","Intentional self-harm","X60-X84","2004","2004",185,8634561,2.1
+"New Jersey","34","Intentional self-harm","X60-X84","2005","2005",136,8651974,1.6
+"New Jersey","34","Intentional self-harm","X60-X84","2006","2006",173,8661679,2
+"New Jersey","34","Intentional self-harm","X60-X84","2007","2007",165,8677885,1.9
+"New Jersey","34","Intentional self-harm","X60-X84","2008","2008",175,8711090,2
+"New Jersey","34","Intentional self-harm","X60-X84","2009","2009",173,8755602,2
+"New Jersey","34","Intentional self-harm","X60-X84","2010","2010",187,8791894,2.1
+"New Jersey","34","Intentional self-harm","X60-X84","2011","2011",181,8821155,2.1
+"New Jersey","34","Intentional self-harm","X60-X84","2012","2012",160,8864590,1.8
+"New Jersey","34","Intentional self-harm","X60-X84","2013","2013",194,8899339,2.2
+"New Jersey","34","Intentional self-harm","X60-X84","2014","2014",194,8938175,2.2
+"New Jersey","34","Intentional self-harm","X60-X84","2015","2015",189,8958013,2.1
+"New Jersey","34","Intentional self-harm","X60-X84","2016","2016",176,8944469,2
+"New Jersey","34","Assault","X85-Y09","1999","1999",153,8359592,1.8
+"New Jersey","34","Assault","X85-Y09","2000","2000",172,8414350,2
+"New Jersey","34","Assault","X85-Y09","2001","2001",185,8492671,2.2
+"New Jersey","34","Assault","X85-Y09","2002","2002",208,8552643,2.4
+"New Jersey","34","Assault","X85-Y09","2003","2003",257,8601402,3
+"New Jersey","34","Assault","X85-Y09","2004","2004",253,8634561,2.9
+"New Jersey","34","Assault","X85-Y09","2005","2005",288,8651974,3.3
+"New Jersey","34","Assault","X85-Y09","2006","2006",301,8661679,3.5
+"New Jersey","34","Assault","X85-Y09","2007","2007",276,8677885,3.2
+"New Jersey","34","Assault","X85-Y09","2008","2008",244,8711090,2.8
+"New Jersey","34","Assault","X85-Y09","2009","2009",229,8755602,2.6
+"New Jersey","34","Assault","X85-Y09","2010","2010",260,8791894,3
+"New Jersey","34","Assault","X85-Y09","2011","2011",288,8821155,3.3
+"New Jersey","34","Assault","X85-Y09","2012","2012",276,8864590,3.1
+"New Jersey","34","Assault","X85-Y09","2013","2013",298,8899339,3.3
+"New Jersey","34","Assault","X85-Y09","2014","2014",265,8938175,3
+"New Jersey","34","Assault","X85-Y09","2015","2015",273,8958013,3
+"New Jersey","34","Assault","X85-Y09","2016","2016",297,8944469,3.3
+"New Mexico","35","Other external causes of accidental injury","W00-X59","1999","1999",11,1808082,"Unreliable"
+"New Mexico","35","Other external causes of accidental injury","W00-X59","2000","2000",10,1819046,"Unreliable"
+"New Mexico","35","Other external causes of accidental injury","W00-X59","2003","2003",18,1877574,"Unreliable"
+"New Mexico","35","Other external causes of accidental injury","W00-X59","2007","2007",10,1990070,"Unreliable"
+"New Mexico","35","Intentional self-harm","X60-X84","1999","1999",180,1808082,10
+"New Mexico","35","Intentional self-harm","X60-X84","2000","2000",175,1819046,9.6
+"New Mexico","35","Intentional self-harm","X60-X84","2001","2001",188,1831690,10.3
+"New Mexico","35","Intentional self-harm","X60-X84","2002","2002",211,1855309,11.4
+"New Mexico","35","Intentional self-harm","X60-X84","2003","2003",211,1877574,11.2
+"New Mexico","35","Intentional self-harm","X60-X84","2004","2004",196,1903808,10.3
+"New Mexico","35","Intentional self-harm","X60-X84","2005","2005",178,1932274,9.2
+"New Mexico","35","Intentional self-harm","X60-X84","2006","2006",193,1962137,9.8
+"New Mexico","35","Intentional self-harm","X60-X84","2007","2007",189,1990070,9.5
+"New Mexico","35","Intentional self-harm","X60-X84","2008","2008",195,2010662,9.7
+"New Mexico","35","Intentional self-harm","X60-X84","2009","2009",192,2036802,9.4
+"New Mexico","35","Intentional self-harm","X60-X84","2010","2010",204,2059179,9.9
+"New Mexico","35","Intentional self-harm","X60-X84","2011","2011",221,2082224,10.6
+"New Mexico","35","Intentional self-harm","X60-X84","2012","2012",230,2085538,11
+"New Mexico","35","Intentional self-harm","X60-X84","2013","2013",222,2085287,10.6
+"New Mexico","35","Intentional self-harm","X60-X84","2014","2014",244,2085572,11.7
+"New Mexico","35","Intentional self-harm","X60-X84","2015","2015",275,2085109,13.2
+"New Mexico","35","Intentional self-harm","X60-X84","2016","2016",243,2081015,11.7
+"New Mexico","35","Assault","X85-Y09","1999","1999",91,1808082,5
+"New Mexico","35","Assault","X85-Y09","2000","2000",99,1819046,5.4
+"New Mexico","35","Assault","X85-Y09","2001","2001",67,1831690,3.7
+"New Mexico","35","Assault","X85-Y09","2002","2002",81,1855309,4.4
+"New Mexico","35","Assault","X85-Y09","2003","2003",87,1877574,4.6
+"New Mexico","35","Assault","X85-Y09","2004","2004",81,1903808,4.3
+"New Mexico","35","Assault","X85-Y09","2005","2005",77,1932274,4
+"New Mexico","35","Assault","X85-Y09","2006","2006",73,1962137,3.7
+"New Mexico","35","Assault","X85-Y09","2007","2007",78,1990070,3.9
+"New Mexico","35","Assault","X85-Y09","2008","2008",86,2010662,4.3
+"New Mexico","35","Assault","X85-Y09","2009","2009",92,2036802,4.5
+"New Mexico","35","Assault","X85-Y09","2010","2010",76,2059179,3.7
+"New Mexico","35","Assault","X85-Y09","2011","2011",73,2082224,3.5
+"New Mexico","35","Assault","X85-Y09","2012","2012",80,2085538,3.8
+"New Mexico","35","Assault","X85-Y09","2013","2013",82,2085287,3.9
+"New Mexico","35","Assault","X85-Y09","2014","2014",76,2085572,3.6
+"New Mexico","35","Assault","X85-Y09","2015","2015",91,2085109,4.4
+"New Mexico","35","Assault","X85-Y09","2016","2016",113,2081015,5.4
+"New York","36","Other external causes of accidental injury","W00-X59","1999","1999",23,18882725,0.1
+"New York","36","Other external causes of accidental injury","W00-X59","2000","2000",23,18976457,0.1
+"New York","36","Other external causes of accidental injury","W00-X59","2001","2001",21,19082838,0.1
+"New York","36","Other external causes of accidental injury","W00-X59","2002","2002",16,19137800,"Unreliable"
+"New York","36","Other external causes of accidental injury","W00-X59","2003","2003",22,19175939,0.1
+"New York","36","Other external causes of accidental injury","W00-X59","2004","2004",22,19171567,0.1
+"New York","36","Other external causes of accidental injury","W00-X59","2005","2005",33,19132610,0.2
+"New York","36","Other external causes of accidental injury","W00-X59","2006","2006",12,19104631,"Unreliable"
+"New York","36","Other external causes of accidental injury","W00-X59","2008","2008",11,19212436,"Unreliable"
+"New York","36","Other external causes of accidental injury","W00-X59","2009","2009",12,19307066,"Unreliable"
+"New York","36","Other external causes of accidental injury","W00-X59","2010","2010",13,19378102,"Unreliable"
+"New York","36","Other external causes of accidental injury","W00-X59","2014","2014",10,19746227,"Unreliable"
+"New York","36","Intentional self-harm","X60-X84","1999","1999",439,18882725,2.3
+"New York","36","Intentional self-harm","X60-X84","2000","2000",450,18976457,2.4
+"New York","36","Intentional self-harm","X60-X84","2001","2001",453,19082838,2.4
+"New York","36","Intentional self-harm","X60-X84","2002","2002",411,19137800,2.1
+"New York","36","Intentional self-harm","X60-X84","2003","2003",412,19175939,2.1
+"New York","36","Intentional self-harm","X60-X84","2004","2004",401,19171567,2.1
+"New York","36","Intentional self-harm","X60-X84","2005","2005",456,19132610,2.4
+"New York","36","Intentional self-harm","X60-X84","2006","2006",412,19104631,2.2
+"New York","36","Intentional self-harm","X60-X84","2007","2007",441,19132335,2.3
+"New York","36","Intentional self-harm","X60-X84","2008","2008",429,19212436,2.2
+"New York","36","Intentional self-harm","X60-X84","2009","2009",422,19307066,2.2
+"New York","36","Intentional self-harm","X60-X84","2010","2010",459,19378102,2.4
+"New York","36","Intentional self-harm","X60-X84","2011","2011",505,19465197,2.6
+"New York","36","Intentional self-harm","X60-X84","2012","2012",516,19570261,2.6
+"New York","36","Intentional self-harm","X60-X84","2013","2013",465,19651127,2.4
+"New York","36","Intentional self-harm","X60-X84","2014","2014",474,19746227,2.4
+"New York","36","Intentional self-harm","X60-X84","2015","2015",421,19795791,2.1
+"New York","36","Intentional self-harm","X60-X84","2016","2016",490,19745289,2.5
+"New York","36","Assault","X85-Y09","1999","1999",540,18882725,2.9
+"New York","36","Assault","X85-Y09","2000","2000",602,18976457,3.2
+"New York","36","Assault","X85-Y09","2001","2001",583,19082838,3.1
+"New York","36","Assault","X85-Y09","2002","2002",550,19137800,2.9
+"New York","36","Assault","X85-Y09","2003","2003",589,19175939,3.1
+"New York","36","Assault","X85-Y09","2004","2004",516,19171567,2.7
+"New York","36","Assault","X85-Y09","2005","2005",515,19132610,2.7
+"New York","36","Assault","X85-Y09","2006","2006",570,19104631,3
+"New York","36","Assault","X85-Y09","2007","2007",522,19132335,2.7
+"New York","36","Assault","X85-Y09","2008","2008",508,19212436,2.6
+"New York","36","Assault","X85-Y09","2009","2009",505,19307066,2.6
+"New York","36","Assault","X85-Y09","2010","2010",527,19378102,2.7
+"New York","36","Assault","X85-Y09","2011","2011",466,19465197,2.4
+"New York","36","Assault","X85-Y09","2012","2012",436,19570261,2.2
+"New York","36","Assault","X85-Y09","2013","2013",380,19651127,1.9
+"New York","36","Assault","X85-Y09","2014","2014",372,19746227,1.9
+"New York","36","Assault","X85-Y09","2015","2015",408,19795791,2.1
+"New York","36","Assault","X85-Y09","2016","2016",390,19745289,2
+"North Carolina","37","Other external causes of accidental injury","W00-X59","1999","1999",25,7949361,0.3
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2000","2000",28,8049313,0.3
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2001","2001",32,8210122,0.4
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2002","2002",26,8326201,0.3
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2003","2003",32,8422501,0.4
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2004","2004",23,8553152,0.3
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2005","2005",27,8705407,0.3
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2006","2006",19,8917270,"Unreliable"
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2007","2007",38,9118037,0.4
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2008","2008",13,9309449,"Unreliable"
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2009","2009",19,9449566,"Unreliable"
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2010","2010",30,9535483,0.3
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2011","2011",38,9656401,0.4
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2012","2012",29,9752073,0.3
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2013","2013",18,9848060,"Unreliable"
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2014","2014",39,9943964,0.4
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2015","2015",39,10042802,0.4
+"North Carolina","37","Other external causes of accidental injury","W00-X59","2016","2016",27,10146788,0.3
+"North Carolina","37","Intentional self-harm","X60-X84","1999","1999",567,7949361,7.1
+"North Carolina","37","Intentional self-harm","X60-X84","2000","2000",621,8049313,7.7
+"North Carolina","37","Intentional self-harm","X60-X84","2001","2001",632,8210122,7.7
+"North Carolina","37","Intentional self-harm","X60-X84","2002","2002",630,8326201,7.6
+"North Carolina","37","Intentional self-harm","X60-X84","2003","2003",619,8422501,7.3
+"North Carolina","37","Intentional self-harm","X60-X84","2004","2004",608,8553152,7.1
+"North Carolina","37","Intentional self-harm","X60-X84","2005","2005",632,8705407,7.3
+"North Carolina","37","Intentional self-harm","X60-X84","2006","2006",660,8917270,7.4
+"North Carolina","37","Intentional self-harm","X60-X84","2007","2007",607,9118037,6.7
+"North Carolina","37","Intentional self-harm","X60-X84","2008","2008",669,9309449,7.2
+"North Carolina","37","Intentional self-harm","X60-X84","2009","2009",678,9449566,7.2
+"North Carolina","37","Intentional self-harm","X60-X84","2010","2010",707,9535483,7.4
+"North Carolina","37","Intentional self-harm","X60-X84","2011","2011",728,9656401,7.5
+"North Carolina","37","Intentional self-harm","X60-X84","2012","2012",709,9752073,7.3
+"North Carolina","37","Intentional self-harm","X60-X84","2013","2013",771,9848060,7.8
+"North Carolina","37","Intentional self-harm","X60-X84","2014","2014",760,9943964,7.6
+"North Carolina","37","Intentional self-harm","X60-X84","2015","2015",787,10042802,7.8
+"North Carolina","37","Intentional self-harm","X60-X84","2016","2016",788,10146788,7.8
+"North Carolina","37","Assault","X85-Y09","1999","1999",459,7949361,5.8
+"North Carolina","37","Assault","X85-Y09","2000","2000",458,8049313,5.7
+"North Carolina","37","Assault","X85-Y09","2001","2001",418,8210122,5.1
+"North Carolina","37","Assault","X85-Y09","2002","2002",467,8326201,5.6
+"North Carolina","37","Assault","X85-Y09","2003","2003",396,8422501,4.7
+"North Carolina","37","Assault","X85-Y09","2004","2004",411,8553152,4.8
+"North Carolina","37","Assault","X85-Y09","2005","2005",451,8705407,5.2
+"North Carolina","37","Assault","X85-Y09","2006","2006",439,8917270,4.9
+"North Carolina","37","Assault","X85-Y09","2007","2007",458,9118037,5
+"North Carolina","37","Assault","X85-Y09","2008","2008",467,9309449,5
+"North Carolina","37","Assault","X85-Y09","2009","2009",407,9449566,4.3
+"North Carolina","37","Assault","X85-Y09","2010","2010",376,9535483,3.9
+"North Carolina","37","Assault","X85-Y09","2011","2011",380,9656401,3.9
+"North Carolina","37","Assault","X85-Y09","2012","2012",422,9752073,4.3
+"North Carolina","37","Assault","X85-Y09","2013","2013",412,9848060,4.2
+"North Carolina","37","Assault","X85-Y09","2014","2014",391,9943964,3.9
+"North Carolina","37","Assault","X85-Y09","2015","2015",438,10042802,4.4
+"North Carolina","37","Assault","X85-Y09","2016","2016",558,10146788,5.5
+"North Dakota","38","Intentional self-harm","X60-X84","1999","1999",39,644259,6.1
+"North Dakota","38","Intentional self-harm","X60-X84","2000","2000",35,642200,5.5
+"North Dakota","38","Intentional self-harm","X60-X84","2001","2001",41,639062,6.4
+"North Dakota","38","Intentional self-harm","X60-X84","2002","2002",53,638168,8.3
+"North Dakota","38","Intentional self-harm","X60-X84","2003","2003",41,638817,6.4
+"North Dakota","38","Intentional self-harm","X60-X84","2004","2004",41,644705,6.4
+"North Dakota","38","Intentional self-harm","X60-X84","2005","2005",56,646089,8.7
+"North Dakota","38","Intentional self-harm","X60-X84","2006","2006",41,649422,6.3
+"North Dakota","38","Intentional self-harm","X60-X84","2007","2007",49,652822,7.5
+"North Dakota","38","Intentional self-harm","X60-X84","2008","2008",55,657569,8.4
+"North Dakota","38","Intentional self-harm","X60-X84","2009","2009",50,664968,7.5
+"North Dakota","38","Intentional self-harm","X60-X84","2010","2010",56,672591,8.3
+"North Dakota","38","Intentional self-harm","X60-X84","2011","2011",51,683932,7.5
+"North Dakota","38","Intentional self-harm","X60-X84","2012","2012",63,699628,9
+"North Dakota","38","Intentional self-harm","X60-X84","2013","2013",76,723393,10.5
+"North Dakota","38","Intentional self-harm","X60-X84","2014","2014",85,739482,11.5
+"North Dakota","38","Intentional self-harm","X60-X84","2015","2015",76,756927,10
+"North Dakota","38","Intentional self-harm","X60-X84","2016","2016",75,757952,9.9
+"North Dakota","38","Assault","X85-Y09","2003","2003",12,638817,"Unreliable"
+"North Dakota","38","Assault","X85-Y09","2015","2015",11,756927,"Unreliable"
+"North Dakota","38","Assault","X85-Y09","2016","2016",10,757952,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","1999","1999",34,11335454,0.3
+"Ohio","39","Other external causes of accidental injury","W00-X59","2000","2000",35,11353140,0.3
+"Ohio","39","Other external causes of accidental injury","W00-X59","2001","2001",26,11387404,0.2
+"Ohio","39","Other external causes of accidental injury","W00-X59","2002","2002",19,11407889,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","2003","2003",21,11434788,0.2
+"Ohio","39","Other external causes of accidental injury","W00-X59","2004","2004",20,11452251,0.2
+"Ohio","39","Other external causes of accidental injury","W00-X59","2005","2005",24,11463320,0.2
+"Ohio","39","Other external causes of accidental injury","W00-X59","2006","2006",25,11481213,0.2
+"Ohio","39","Other external causes of accidental injury","W00-X59","2007","2007",14,11500468,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","2008","2008",12,11515391,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","2009","2009",19,11528896,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","2011","2011",18,11544951,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","2013","2013",21,11570808,0.2
+"Ohio","39","Other external causes of accidental injury","W00-X59","2014","2014",18,11594163,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","2015","2015",15,11613423,"Unreliable"
+"Ohio","39","Other external causes of accidental injury","W00-X59","2016","2016",12,11614373,"Unreliable"
+"Ohio","39","Intentional self-harm","X60-X84","1999","1999",626,11335454,5.5
+"Ohio","39","Intentional self-harm","X60-X84","2000","2000",584,11353140,5.1
+"Ohio","39","Intentional self-harm","X60-X84","2001","2001",671,11387404,5.9
+"Ohio","39","Intentional self-harm","X60-X84","2002","2002",675,11407889,5.9
+"Ohio","39","Intentional self-harm","X60-X84","2003","2003",572,11434788,5
+"Ohio","39","Intentional self-harm","X60-X84","2004","2004",657,11452251,5.7
+"Ohio","39","Intentional self-harm","X60-X84","2005","2005",668,11463320,5.8
+"Ohio","39","Intentional self-harm","X60-X84","2006","2006",626,11481213,5.5
+"Ohio","39","Intentional self-harm","X60-X84","2007","2007",659,11500468,5.7
+"Ohio","39","Intentional self-harm","X60-X84","2008","2008",684,11515391,5.9
+"Ohio","39","Intentional self-harm","X60-X84","2009","2009",590,11528896,5.1
+"Ohio","39","Intentional self-harm","X60-X84","2010","2010",724,11536504,6.3
+"Ohio","39","Intentional self-harm","X60-X84","2011","2011",726,11544951,6.3
+"Ohio","39","Intentional self-harm","X60-X84","2012","2012",784,11544225,6.8
+"Ohio","39","Intentional self-harm","X60-X84","2013","2013",800,11570808,6.9
+"Ohio","39","Intentional self-harm","X60-X84","2014","2014",744,11594163,6.4
+"Ohio","39","Intentional self-harm","X60-X84","2015","2015",861,11613423,7.4
+"Ohio","39","Intentional self-harm","X60-X84","2016","2016",926,11614373,8
+"Ohio","39","Assault","X85-Y09","1999","1999",256,11335454,2.3
+"Ohio","39","Assault","X85-Y09","2000","2000",253,11353140,2.2
+"Ohio","39","Assault","X85-Y09","2001","2001",316,11387404,2.8
+"Ohio","39","Assault","X85-Y09","2002","2002",353,11407889,3.1
+"Ohio","39","Assault","X85-Y09","2003","2003",321,11434788,2.8
+"Ohio","39","Assault","X85-Y09","2004","2004",340,11452251,3
+"Ohio","39","Assault","X85-Y09","2005","2005",408,11463320,3.6
+"Ohio","39","Assault","X85-Y09","2006","2006",451,11481213,3.9
+"Ohio","39","Assault","X85-Y09","2007","2007",413,11500468,3.6
+"Ohio","39","Assault","X85-Y09","2008","2008",402,11515391,3.5
+"Ohio","39","Assault","X85-Y09","2009","2009",366,11528896,3.2
+"Ohio","39","Assault","X85-Y09","2010","2010",396,11536504,3.4
+"Ohio","39","Assault","X85-Y09","2011","2011",453,11544951,3.9
+"Ohio","39","Assault","X85-Y09","2012","2012",437,11544225,3.8
+"Ohio","39","Assault","X85-Y09","2013","2013",447,11570808,3.9
+"Ohio","39","Assault","X85-Y09","2014","2014",422,11594163,3.6
+"Ohio","39","Assault","X85-Y09","2015","2015",484,11613423,4.2
+"Ohio","39","Assault","X85-Y09","2016","2016",557,11614373,4.8
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","1999","1999",28,3437147,0.8
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2000","2000",21,3450654,0.6
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2001","2001",13,3467100,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2002","2002",13,3489080,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2003","2003",15,3504892,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2004","2004",10,3525233,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2005","2005",16,3548597,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2008","2008",12,3668976,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2009","2009",15,3717572,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2010","2010",24,3751351,0.6
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2011","2011",18,3791508,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2012","2012",12,3814820,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2013","2013",15,3850568,"Unreliable"
+"Oklahoma","40","Other external causes of accidental injury","W00-X59","2014","2014",15,3878051,"Unreliable"
+"Oklahoma","40","Intentional self-harm","X60-X84","1999","1999",317,3437147,9.2
+"Oklahoma","40","Intentional self-harm","X60-X84","2000","2000",301,3450654,8.7
+"Oklahoma","40","Intentional self-harm","X60-X84","2001","2001",332,3467100,9.6
+"Oklahoma","40","Intentional self-harm","X60-X84","2002","2002",312,3489080,8.9
+"Oklahoma","40","Intentional self-harm","X60-X84","2003","2003",281,3504892,8
+"Oklahoma","40","Intentional self-harm","X60-X84","2004","2004",312,3525233,8.9
+"Oklahoma","40","Intentional self-harm","X60-X84","2005","2005",302,3548597,8.5
+"Oklahoma","40","Intentional self-harm","X60-X84","2006","2006",314,3594090,8.7
+"Oklahoma","40","Intentional self-harm","X60-X84","2007","2007",315,3634349,8.7
+"Oklahoma","40","Intentional self-harm","X60-X84","2008","2008",346,3668976,9.4
+"Oklahoma","40","Intentional self-harm","X60-X84","2009","2009",363,3717572,9.8
+"Oklahoma","40","Intentional self-harm","X60-X84","2010","2010",376,3751351,10
+"Oklahoma","40","Intentional self-harm","X60-X84","2011","2011",440,3791508,11.6
+"Oklahoma","40","Intentional self-harm","X60-X84","2012","2012",411,3814820,10.8
+"Oklahoma","40","Intentional self-harm","X60-X84","2013","2013",433,3850568,11.2
+"Oklahoma","40","Intentional self-harm","X60-X84","2014","2014",435,3878051,11.2
+"Oklahoma","40","Intentional self-harm","X60-X84","2015","2015",468,3911338,12
+"Oklahoma","40","Intentional self-harm","X60-X84","2016","2016",517,3923561,13.2
+"Oklahoma","40","Assault","X85-Y09","1999","1999",150,3437147,4.4
+"Oklahoma","40","Assault","X85-Y09","2000","2000",115,3450654,3.3
+"Oklahoma","40","Assault","X85-Y09","2001","2001",126,3467100,3.6
+"Oklahoma","40","Assault","X85-Y09","2002","2002",113,3489080,3.2
+"Oklahoma","40","Assault","X85-Y09","2003","2003",139,3504892,4
+"Oklahoma","40","Assault","X85-Y09","2004","2004",124,3525233,3.5
+"Oklahoma","40","Assault","X85-Y09","2005","2005",136,3548597,3.8
+"Oklahoma","40","Assault","X85-Y09","2006","2006",152,3594090,4.2
+"Oklahoma","40","Assault","X85-Y09","2007","2007",151,3634349,4.2
+"Oklahoma","40","Assault","X85-Y09","2008","2008",147,3668976,4
+"Oklahoma","40","Assault","X85-Y09","2009","2009",148,3717572,4
+"Oklahoma","40","Assault","X85-Y09","2010","2010",131,3751351,3.5
+"Oklahoma","40","Assault","X85-Y09","2011","2011",166,3791508,4.4
+"Oklahoma","40","Assault","X85-Y09","2012","2012",188,3814820,4.9
+"Oklahoma","40","Assault","X85-Y09","2013","2013",178,3850568,4.6
+"Oklahoma","40","Assault","X85-Y09","2014","2014",157,3878051,4
+"Oklahoma","40","Assault","X85-Y09","2015","2015",221,3911338,5.7
+"Oklahoma","40","Assault","X85-Y09","2016","2016",238,3923561,6.1
+"Oregon","41","Other external causes of accidental injury","W00-X59","1999","1999",13,3393941,"Unreliable"
+"Oregon","41","Other external causes of accidental injury","W00-X59","2001","2001",18,3467937,"Unreliable"
+"Oregon","41","Other external causes of accidental injury","W00-X59","2004","2004",10,3569463,"Unreliable"
+"Oregon","41","Intentional self-harm","X60-X84","1999","1999",309,3393941,9.1
+"Oregon","41","Intentional self-harm","X60-X84","2000","2000",302,3421399,8.8
+"Oregon","41","Intentional self-harm","X60-X84","2001","2001",280,3467937,8.1
+"Oregon","41","Intentional self-harm","X60-X84","2002","2002",291,3513424,8.3
+"Oregon","41","Intentional self-harm","X60-X84","2003","2003",331,3547376,9.3
+"Oregon","41","Intentional self-harm","X60-X84","2004","2004",299,3569463,8.4
+"Oregon","41","Intentional self-harm","X60-X84","2005","2005",319,3613202,8.8
+"Oregon","41","Intentional self-harm","X60-X84","2006","2006",307,3670883,8.4
+"Oregon","41","Intentional self-harm","X60-X84","2007","2007",327,3722417,8.8
+"Oregon","41","Intentional self-harm","X60-X84","2008","2008",319,3768748,8.5
+"Oregon","41","Intentional self-harm","X60-X84","2009","2009",345,3808600,9.1
+"Oregon","41","Intentional self-harm","X60-X84","2010","2010",376,3831074,9.8
+"Oregon","41","Intentional self-harm","X60-X84","2011","2011",343,3871859,8.9
+"Oregon","41","Intentional self-harm","X60-X84","2012","2012",367,3899353,9.4
+"Oregon","41","Intentional self-harm","X60-X84","2013","2013",389,3930065,9.9
+"Oregon","41","Intentional self-harm","X60-X84","2014","2014",422,3970239,10.6
+"Oregon","41","Intentional self-harm","X60-X84","2015","2015",373,4028977,9.3
+"Oregon","41","Intentional self-harm","X60-X84","2016","2016",414,4093465,10.1
+"Oregon","41","Assault","X85-Y09","1999","1999",60,3393941,1.8
+"Oregon","41","Assault","X85-Y09","2000","2000",62,3421399,1.8
+"Oregon","41","Assault","X85-Y09","2001","2001",47,3467937,1.4
+"Oregon","41","Assault","X85-Y09","2002","2002",64,3513424,1.8
+"Oregon","41","Assault","X85-Y09","2003","2003",52,3547376,1.5
+"Oregon","41","Assault","X85-Y09","2004","2004",65,3569463,1.8
+"Oregon","41","Assault","X85-Y09","2005","2005",54,3613202,1.5
+"Oregon","41","Assault","X85-Y09","2006","2006",63,3670883,1.7
+"Oregon","41","Assault","X85-Y09","2007","2007",43,3722417,1.2
+"Oregon","41","Assault","X85-Y09","2008","2008",49,3768748,1.3
+"Oregon","41","Assault","X85-Y09","2009","2009",55,3808600,1.4
+"Oregon","41","Assault","X85-Y09","2010","2010",60,3831074,1.6
+"Oregon","41","Assault","X85-Y09","2011","2011",62,3871859,1.6
+"Oregon","41","Assault","X85-Y09","2012","2012",53,3899353,1.4
+"Oregon","41","Assault","X85-Y09","2013","2013",54,3930065,1.4
+"Oregon","41","Assault","X85-Y09","2014","2014",53,3970239,1.3
+"Oregon","41","Assault","X85-Y09","2015","2015",94,4028977,2.3
+"Oregon","41","Assault","X85-Y09","2016","2016",78,4093465,1.9
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","1999","1999",36,12263805,0.3
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2000","2000",42,12281054,0.3
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2001","2001",23,12298970,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2002","2002",25,12331031,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2003","2003",20,12374658,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2004","2004",26,12410722,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2005","2005",32,12449990,0.3
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2006","2006",30,12510809,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2007","2007",23,12563937,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2008","2008",32,12612285,0.3
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2009","2009",23,12666858,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2010","2010",32,12702379,0.3
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2011","2011",20,12742886,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2012","2012",65,12763536,0.5
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2013","2013",22,12773801,0.2
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2014","2014",14,12787209,"Unreliable"
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2015","2015",16,12802503,"Unreliable"
+"Pennsylvania","42","Other external causes of accidental injury","W00-X59","2016","2016",16,12784227,"Unreliable"
+"Pennsylvania","42","Intentional self-harm","X60-X84","1999","1999",709,12263805,5.8
+"Pennsylvania","42","Intentional self-harm","X60-X84","2000","2000",756,12281054,6.2
+"Pennsylvania","42","Intentional self-harm","X60-X84","2001","2001",684,12298970,5.6
+"Pennsylvania","42","Intentional self-harm","X60-X84","2002","2002",720,12331031,5.8
+"Pennsylvania","42","Intentional self-harm","X60-X84","2003","2003",724,12374658,5.9
+"Pennsylvania","42","Intentional self-harm","X60-X84","2004","2004",722,12410722,5.8
+"Pennsylvania","42","Intentional self-harm","X60-X84","2005","2005",768,12449990,6.2
+"Pennsylvania","42","Intentional self-harm","X60-X84","2006","2006",734,12510809,5.9
+"Pennsylvania","42","Intentional self-harm","X60-X84","2007","2007",719,12563937,5.7
+"Pennsylvania","42","Intentional self-harm","X60-X84","2008","2008",770,12612285,6.1
+"Pennsylvania","42","Intentional self-harm","X60-X84","2009","2009",825,12666858,6.5
+"Pennsylvania","42","Intentional self-harm","X60-X84","2010","2010",762,12702379,6
+"Pennsylvania","42","Intentional self-harm","X60-X84","2011","2011",883,12742886,6.9
+"Pennsylvania","42","Intentional self-harm","X60-X84","2012","2012",819,12763536,6.4
+"Pennsylvania","42","Intentional self-harm","X60-X84","2013","2013",918,12773801,7.2
+"Pennsylvania","42","Intentional self-harm","X60-X84","2014","2014",897,12787209,7
+"Pennsylvania","42","Intentional self-harm","X60-X84","2015","2015",932,12802503,7.3
+"Pennsylvania","42","Intentional self-harm","X60-X84","2016","2016",976,12784227,7.6
+"Pennsylvania","42","Assault","X85-Y09","1999","1999",428,12263805,3.5
+"Pennsylvania","42","Assault","X85-Y09","2000","2000",439,12281054,3.6
+"Pennsylvania","42","Assault","X85-Y09","2001","2001",444,12298970,3.6
+"Pennsylvania","42","Assault","X85-Y09","2002","2002",456,12331031,3.7
+"Pennsylvania","42","Assault","X85-Y09","2003","2003",467,12374658,3.8
+"Pennsylvania","42","Assault","X85-Y09","2004","2004",504,12410722,4.1
+"Pennsylvania","42","Assault","X85-Y09","2005","2005",535,12449990,4.3
+"Pennsylvania","42","Assault","X85-Y09","2006","2006",593,12510809,4.7
+"Pennsylvania","42","Assault","X85-Y09","2007","2007",554,12563937,4.4
+"Pennsylvania","42","Assault","X85-Y09","2008","2008",524,12612285,4.2
+"Pennsylvania","42","Assault","X85-Y09","2009","2009",483,12666858,3.8
+"Pennsylvania","42","Assault","X85-Y09","2010","2010",501,12702379,3.9
+"Pennsylvania","42","Assault","X85-Y09","2011","2011",512,12742886,4
+"Pennsylvania","42","Assault","X85-Y09","2012","2012",547,12763536,4.3
+"Pennsylvania","42","Assault","X85-Y09","2013","2013",486,12773801,3.8
+"Pennsylvania","42","Assault","X85-Y09","2014","2014",466,12787209,3.6
+"Pennsylvania","42","Assault","X85-Y09","2015","2015",522,12802503,4.1
+"Pennsylvania","42","Assault","X85-Y09","2016","2016",538,12784227,4.2
+"Rhode Island","44","Intentional self-harm","X60-X84","1999","1999",35,1040402,3.4
+"Rhode Island","44","Intentional self-harm","X60-X84","2000","2000",27,1048319,2.6
+"Rhode Island","44","Intentional self-harm","X60-X84","2001","2001",25,1057142,2.4
+"Rhode Island","44","Intentional self-harm","X60-X84","2002","2002",30,1065995,2.8
+"Rhode Island","44","Intentional self-harm","X60-X84","2003","2003",12,1071342,"Unreliable"
+"Rhode Island","44","Intentional self-harm","X60-X84","2004","2004",22,1074579,2
+"Rhode Island","44","Intentional self-harm","X60-X84","2005","2005",19,1067916,"Unreliable"
+"Rhode Island","44","Intentional self-harm","X60-X84","2006","2006",27,1063096,2.5
+"Rhode Island","44","Intentional self-harm","X60-X84","2007","2007",24,1057315,2.3
+"Rhode Island","44","Intentional self-harm","X60-X84","2008","2008",23,1055003,2.2
+"Rhode Island","44","Intentional self-harm","X60-X84","2009","2009",40,1053646,3.8
+"Rhode Island","44","Intentional self-harm","X60-X84","2010","2010",30,1052567,2.9
+"Rhode Island","44","Intentional self-harm","X60-X84","2011","2011",20,1051302,1.9
+"Rhode Island","44","Intentional self-harm","X60-X84","2012","2012",26,1050292,2.5
+"Rhode Island","44","Intentional self-harm","X60-X84","2013","2013",34,1051511,3.2
+"Rhode Island","44","Intentional self-harm","X60-X84","2014","2014",20,1055173,1.9
+"Rhode Island","44","Intentional self-harm","X60-X84","2015","2015",40,1056298,3.8
+"Rhode Island","44","Intentional self-harm","X60-X84","2016","2016",35,1056426,3.3
+"Rhode Island","44","Assault","X85-Y09","1999","1999",21,1040402,2
+"Rhode Island","44","Assault","X85-Y09","2000","2000",27,1048319,2.6
+"Rhode Island","44","Assault","X85-Y09","2001","2001",20,1057142,1.9
+"Rhode Island","44","Assault","X85-Y09","2002","2002",25,1065995,2.3
+"Rhode Island","44","Assault","X85-Y09","2003","2003",21,1071342,2
+"Rhode Island","44","Assault","X85-Y09","2004","2004",18,1074579,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2005","2005",19,1067916,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2006","2006",19,1063096,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2007","2007",13,1057315,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2008","2008",19,1055003,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2009","2009",14,1053646,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2010","2010",17,1052567,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2011","2011",12,1051302,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2012","2012",15,1050292,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2013","2013",18,1051511,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2014","2014",13,1055173,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2015","2015",10,1056298,"Unreliable"
+"Rhode Island","44","Assault","X85-Y09","2016","2016",13,1056426,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","1999","1999",30,3974682,0.8
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2000","2000",18,4012012,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2001","2001",17,4064995,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2002","2002",31,4107795,0.8
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2003","2003",24,4150297,0.6
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2004","2004",17,4210921,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2005","2005",34,4270150,0.8
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2006","2006",17,4357847,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2007","2007",14,4444110,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2008","2008",14,4528996,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2009","2009",17,4589872,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2010","2010",20,4625364,0.4
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2011","2011",17,4679230,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2012","2012",26,4723723,0.6
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2013","2013",15,4774839,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2014","2014",13,4832482,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2015","2015",12,4896146,"Unreliable"
+"South Carolina","45","Other external causes of accidental injury","W00-X59","2016","2016",22,4961119,0.4
+"South Carolina","45","Intentional self-harm","X60-X84","1999","1999",287,3974682,7.2
+"South Carolina","45","Intentional self-harm","X60-X84","2000","2000",297,4012012,7.4
+"South Carolina","45","Intentional self-harm","X60-X84","2001","2001",311,4064995,7.7
+"South Carolina","45","Intentional self-harm","X60-X84","2002","2002",304,4107795,7.4
+"South Carolina","45","Intentional self-harm","X60-X84","2003","2003",328,4150297,7.9
+"South Carolina","45","Intentional self-harm","X60-X84","2004","2004",328,4210921,7.8
+"South Carolina","45","Intentional self-harm","X60-X84","2005","2005",314,4270150,7.4
+"South Carolina","45","Intentional self-harm","X60-X84","2006","2006",315,4357847,7.2
+"South Carolina","45","Intentional self-harm","X60-X84","2007","2007",311,4444110,7
+"South Carolina","45","Intentional self-harm","X60-X84","2008","2008",343,4528996,7.6
+"South Carolina","45","Intentional self-harm","X60-X84","2009","2009",377,4589872,8.2
+"South Carolina","45","Intentional self-harm","X60-X84","2010","2010",392,4625364,8.5
+"South Carolina","45","Intentional self-harm","X60-X84","2011","2011",426,4679230,9.1
+"South Carolina","45","Intentional self-harm","X60-X84","2012","2012",433,4723723,9.2
+"South Carolina","45","Intentional self-harm","X60-X84","2013","2013",470,4774839,9.8
+"South Carolina","45","Intentional self-harm","X60-X84","2014","2014",479,4832482,9.9
+"South Carolina","45","Intentional self-harm","X60-X84","2015","2015",469,4896146,9.6
+"South Carolina","45","Intentional self-harm","X60-X84","2016","2016",525,4961119,10.6
+"South Carolina","45","Assault","X85-Y09","1999","1999",223,3974682,5.6
+"South Carolina","45","Assault","X85-Y09","2000","2000",169,4012012,4.2
+"South Carolina","45","Assault","X85-Y09","2001","2001",228,4064995,5.6
+"South Carolina","45","Assault","X85-Y09","2002","2002",227,4107795,5.5
+"South Carolina","45","Assault","X85-Y09","2003","2003",236,4150297,5.7
+"South Carolina","45","Assault","X85-Y09","2004","2004",220,4210921,5.2
+"South Carolina","45","Assault","X85-Y09","2005","2005",235,4270150,5.5
+"South Carolina","45","Assault","X85-Y09","2006","2006",274,4357847,6.3
+"South Carolina","45","Assault","X85-Y09","2007","2007",255,4444110,5.7
+"South Carolina","45","Assault","X85-Y09","2008","2008",249,4528996,5.5
+"South Carolina","45","Assault","X85-Y09","2009","2009",235,4589872,5.1
+"South Carolina","45","Assault","X85-Y09","2010","2010",229,4625364,5
+"South Carolina","45","Assault","X85-Y09","2011","2011",253,4679230,5.4
+"South Carolina","45","Assault","X85-Y09","2012","2012",273,4723723,5.8
+"South Carolina","45","Assault","X85-Y09","2013","2013",244,4774839,5.1
+"South Carolina","45","Assault","X85-Y09","2014","2014",266,4832482,5.5
+"South Carolina","45","Assault","X85-Y09","2015","2015",360,4896146,7.4
+"South Carolina","45","Assault","X85-Y09","2016","2016",335,4961119,6.8
+"South Dakota","46","Intentional self-harm","X60-X84","1999","1999",56,750412,7.5
+"South Dakota","46","Intentional self-harm","X60-X84","2000","2000",51,754844,6.8
+"South Dakota","46","Intentional self-harm","X60-X84","2001","2001",43,757972,5.7
+"South Dakota","46","Intentional self-harm","X60-X84","2002","2002",50,760020,6.6
+"South Dakota","46","Intentional self-harm","X60-X84","2003","2003",60,763729,7.9
+"South Dakota","46","Intentional self-harm","X60-X84","2004","2004",61,770396,7.9
+"South Dakota","46","Intentional self-harm","X60-X84","2005","2005",71,775493,9.2
+"South Dakota","46","Intentional self-harm","X60-X84","2006","2006",71,783033,9.1
+"South Dakota","46","Intentional self-harm","X60-X84","2007","2007",44,791623,5.6
+"South Dakota","46","Intentional self-harm","X60-X84","2008","2008",68,799124,8.5
+"South Dakota","46","Intentional self-harm","X60-X84","2009","2009",61,807067,7.6
+"South Dakota","46","Intentional self-harm","X60-X84","2010","2010",65,814180,8
+"South Dakota","46","Intentional self-harm","X60-X84","2011","2011",60,824082,7.3
+"South Dakota","46","Intentional self-harm","X60-X84","2012","2012",76,833354,9.1
+"South Dakota","46","Intentional self-harm","X60-X84","2013","2013",71,844877,8.4
+"South Dakota","46","Intentional self-harm","X60-X84","2014","2014",76,853175,8.9
+"South Dakota","46","Intentional self-harm","X60-X84","2015","2015",73,858469,8.5
+"South Dakota","46","Intentional self-harm","X60-X84","2016","2016",84,865454,9.7
+"South Dakota","46","Assault","X85-Y09","2008","2008",10,799124,"Unreliable"
+"South Dakota","46","Assault","X85-Y09","2009","2009",10,807067,"Unreliable"
+"South Dakota","46","Assault","X85-Y09","2015","2015",15,858469,"Unreliable"
+"South Dakota","46","Assault","X85-Y09","2016","2016",14,865454,"Unreliable"
+"Tennessee","47","Other external causes of accidental injury","W00-X59","1999","1999",47,5638706,0.8
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2000","2000",44,5689283,0.8
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2001","2001",49,5750789,0.9
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2002","2002",46,5795918,0.8
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2003","2003",37,5847812,0.6
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2004","2004",38,5910809,0.6
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2005","2005",36,5991057,0.6
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2006","2006",30,6088766,0.5
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2007","2007",22,6175727,0.4
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2008","2008",17,6247411,"Unreliable"
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2009","2009",29,6306019,0.5
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2010","2010",32,6346105,0.5
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2011","2011",27,6403353,0.4
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2012","2012",25,6456243,0.4
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2013","2013",19,6495978,"Unreliable"
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2014","2014",10,6549352,"Unreliable"
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2015","2015",30,6600299,0.5
+"Tennessee","47","Other external causes of accidental injury","W00-X59","2016","2016",19,6651194,"Unreliable"
+"Tennessee","47","Intentional self-harm","X60-X84","1999","1999",497,5638706,8.8
+"Tennessee","47","Intentional self-harm","X60-X84","2000","2000",501,5689283,8.8
+"Tennessee","47","Intentional self-harm","X60-X84","2001","2001",480,5750789,8.3
+"Tennessee","47","Intentional self-harm","X60-X84","2002","2002",521,5795918,9
+"Tennessee","47","Intentional self-harm","X60-X84","2003","2003",493,5847812,8.4
+"Tennessee","47","Intentional self-harm","X60-X84","2004","2004",526,5910809,8.9
+"Tennessee","47","Intentional self-harm","X60-X84","2005","2005",552,5991057,9.2
+"Tennessee","47","Intentional self-harm","X60-X84","2006","2006",569,6088766,9.3
+"Tennessee","47","Intentional self-harm","X60-X84","2007","2007",545,6175727,8.8
+"Tennessee","47","Intentional self-harm","X60-X84","2008","2008",609,6247411,9.7
+"Tennessee","47","Intentional self-harm","X60-X84","2009","2009",574,6306019,9.1
+"Tennessee","47","Intentional self-harm","X60-X84","2010","2010",585,6346105,9.2
+"Tennessee","47","Intentional self-harm","X60-X84","2011","2011",591,6403353,9.2
+"Tennessee","47","Intentional self-harm","X60-X84","2012","2012",626,6456243,9.7
+"Tennessee","47","Intentional self-harm","X60-X84","2013","2013",676,6495978,10.4
+"Tennessee","47","Intentional self-harm","X60-X84","2014","2014",644,6549352,9.8
+"Tennessee","47","Intentional self-harm","X60-X84","2015","2015",638,6600299,9.7
+"Tennessee","47","Intentional self-harm","X60-X84","2016","2016",675,6651194,10.1
+"Tennessee","47","Assault","X85-Y09","1999","1999",286,5638706,5.1
+"Tennessee","47","Assault","X85-Y09","2000","2000",343,5689283,6
+"Tennessee","47","Assault","X85-Y09","2001","2001",307,5750789,5.3
+"Tennessee","47","Assault","X85-Y09","2002","2002",323,5795918,5.6
+"Tennessee","47","Assault","X85-Y09","2003","2003",299,5847812,5.1
+"Tennessee","47","Assault","X85-Y09","2004","2004",286,5910809,4.8
+"Tennessee","47","Assault","X85-Y09","2005","2005",371,5991057,6.2
+"Tennessee","47","Assault","X85-Y09","2006","2006",330,6088766,5.4
+"Tennessee","47","Assault","X85-Y09","2007","2007",343,6175727,5.6
+"Tennessee","47","Assault","X85-Y09","2008","2008",336,6247411,5.4
+"Tennessee","47","Assault","X85-Y09","2009","2009",347,6306019,5.5
+"Tennessee","47","Assault","X85-Y09","2010","2010",293,6346105,4.6
+"Tennessee","47","Assault","X85-Y09","2011","2011",309,6403353,4.8
+"Tennessee","47","Assault","X85-Y09","2012","2012",327,6456243,5.1
+"Tennessee","47","Assault","X85-Y09","2013","2013",309,6495978,4.8
+"Tennessee","47","Assault","X85-Y09","2014","2014",315,6549352,4.8
+"Tennessee","47","Assault","X85-Y09","2015","2015",361,6600299,5.5
+"Tennessee","47","Assault","X85-Y09","2016","2016",434,6651194,6.5
+"Texas","48","Other external causes of accidental injury","W00-X59","1999","1999",66,20558220,0.3
+"Texas","48","Other external causes of accidental injury","W00-X59","2000","2000",60,20851820,0.3
+"Texas","48","Other external causes of accidental injury","W00-X59","2001","2001",58,21319622,0.3
+"Texas","48","Other external causes of accidental injury","W00-X59","2002","2002",53,21690325,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2003","2003",57,22030931,0.3
+"Texas","48","Other external causes of accidental injury","W00-X59","2004","2004",63,22394023,0.3
+"Texas","48","Other external causes of accidental injury","W00-X59","2005","2005",62,22778123,0.3
+"Texas","48","Other external causes of accidental injury","W00-X59","2006","2006",45,23359580,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2007","2007",78,23831983,0.3
+"Texas","48","Other external causes of accidental injury","W00-X59","2008","2008",46,24309039,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2009","2009",55,24801761,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2010","2010",54,25145561,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2011","2011",57,25674681,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2012","2012",45,26059203,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2013","2013",38,26448193,0.1
+"Texas","48","Other external causes of accidental injury","W00-X59","2014","2014",40,26956958,0.1
+"Texas","48","Other external causes of accidental injury","W00-X59","2015","2015",43,27469114,0.2
+"Texas","48","Other external causes of accidental injury","W00-X59","2016","2016",47,27862596,0.2
+"Texas","48","Intentional self-harm","X60-X84","1999","1999",1224,20558220,6
+"Texas","48","Intentional self-harm","X60-X84","2000","2000",1269,20851820,6.1
+"Texas","48","Intentional self-harm","X60-X84","2001","2001",1377,21319622,6.5
+"Texas","48","Intentional self-harm","X60-X84","2002","2002",1315,21690325,6.1
+"Texas","48","Intentional self-harm","X60-X84","2003","2003",1350,22030931,6.1
+"Texas","48","Intentional self-harm","X60-X84","2004","2004",1318,22394023,5.9
+"Texas","48","Intentional self-harm","X60-X84","2005","2005",1381,22778123,6.1
+"Texas","48","Intentional self-harm","X60-X84","2006","2006",1311,23359580,5.6
+"Texas","48","Intentional self-harm","X60-X84","2007","2007",1411,23831983,5.9
+"Texas","48","Intentional self-harm","X60-X84","2008","2008",1506,24309039,6.2
+"Texas","48","Intentional self-harm","X60-X84","2009","2009",1583,24801761,6.4
+"Texas","48","Intentional self-harm","X60-X84","2010","2010",1702,25145561,6.8
+"Texas","48","Intentional self-harm","X60-X84","2011","2011",1684,25674681,6.6
+"Texas","48","Intentional self-harm","X60-X84","2012","2012",1744,26059203,6.7
+"Texas","48","Intentional self-harm","X60-X84","2013","2013",1780,26448193,6.7
+"Texas","48","Intentional self-harm","X60-X84","2014","2014",1789,26956958,6.6
+"Texas","48","Intentional self-harm","X60-X84","2015","2015",1994,27469114,7.3
+"Texas","48","Intentional self-harm","X60-X84","2016","2016",2016,27862596,7.2
+"Texas","48","Assault","X85-Y09","1999","1999",794,20558220,3.9
+"Texas","48","Assault","X85-Y09","2000","2000",804,20851820,3.9
+"Texas","48","Assault","X85-Y09","2001","2001",873,21319622,4.1
+"Texas","48","Assault","X85-Y09","2002","2002",889,21690325,4.1
+"Texas","48","Assault","X85-Y09","2003","2003",974,22030931,4.4
+"Texas","48","Assault","X85-Y09","2004","2004",923,22394023,4.1
+"Texas","48","Assault","X85-Y09","2005","2005",1009,22778123,4.4
+"Texas","48","Assault","X85-Y09","2006","2006",1033,23359580,4.4
+"Texas","48","Assault","X85-Y09","2007","2007",1029,23831983,4.3
+"Texas","48","Assault","X85-Y09","2008","2008",1006,24309039,4.1
+"Texas","48","Assault","X85-Y09","2009","2009",1003,24801761,4
+"Texas","48","Assault","X85-Y09","2010","2010",913,25145561,3.6
+"Texas","48","Assault","X85-Y09","2011","2011",812,25674681,3.2
+"Texas","48","Assault","X85-Y09","2012","2012",894,26059203,3.4
+"Texas","48","Assault","X85-Y09","2013","2013",912,26448193,3.4
+"Texas","48","Assault","X85-Y09","2014","2014",965,26956958,3.6
+"Texas","48","Assault","X85-Y09","2015","2015",1110,27469114,4
+"Texas","48","Assault","X85-Y09","2016","2016",1222,27862596,4.4
+"Utah","49","Intentional self-harm","X60-X84","1999","1999",153,2203482,6.9
+"Utah","49","Intentional self-harm","X60-X84","2000","2000",174,2233169,7.8
+"Utah","49","Intentional self-harm","X60-X84","2001","2001",182,2283715,8
+"Utah","49","Intentional self-harm","X60-X84","2002","2002",174,2324815,7.5
+"Utah","49","Intentional self-harm","X60-X84","2003","2003",181,2360137,7.7
+"Utah","49","Intentional self-harm","X60-X84","2004","2004",183,2401580,7.6
+"Utah","49","Intentional self-harm","X60-X84","2005","2005",190,2457719,7.7
+"Utah","49","Intentional self-harm","X60-X84","2006","2006",189,2525507,7.5
+"Utah","49","Intentional self-harm","X60-X84","2007","2007",197,2597746,7.6
+"Utah","49","Intentional self-harm","X60-X84","2008","2008",196,2663029,7.4
+"Utah","49","Intentional self-harm","X60-X84","2009","2009",217,2723421,8
+"Utah","49","Intentional self-harm","X60-X84","2010","2010",275,2763885,9.9
+"Utah","49","Intentional self-harm","X60-X84","2011","2011",268,2817222,9.5
+"Utah","49","Intentional self-harm","X60-X84","2012","2012",283,2855287,9.9
+"Utah","49","Intentional self-harm","X60-X84","2013","2013",295,2900872,10.2
+"Utah","49","Intentional self-harm","X60-X84","2014","2014",278,2942902,9.4
+"Utah","49","Intentional self-harm","X60-X84","2015","2015",313,2995919,10.4
+"Utah","49","Intentional self-harm","X60-X84","2016","2016",309,3051217,10.1
+"Utah","49","Assault","X85-Y09","1999","1999",30,2203482,1.4
+"Utah","49","Assault","X85-Y09","2000","2000",16,2233169,"Unreliable"
+"Utah","49","Assault","X85-Y09","2001","2001",40,2283715,1.8
+"Utah","49","Assault","X85-Y09","2002","2002",27,2324815,1.2
+"Utah","49","Assault","X85-Y09","2003","2003",37,2360137,1.6
+"Utah","49","Assault","X85-Y09","2004","2004",30,2401580,1.2
+"Utah","49","Assault","X85-Y09","2005","2005",33,2457719,1.3
+"Utah","49","Assault","X85-Y09","2006","2006",29,2525507,1.1
+"Utah","49","Assault","X85-Y09","2007","2007",40,2597746,1.5
+"Utah","49","Assault","X85-Y09","2008","2008",24,2663029,0.9
+"Utah","49","Assault","X85-Y09","2009","2009",30,2723421,1.1
+"Utah","49","Assault","X85-Y09","2010","2010",27,2763885,1
+"Utah","49","Assault","X85-Y09","2011","2011",27,2817222,1
+"Utah","49","Assault","X85-Y09","2012","2012",28,2855287,1
+"Utah","49","Assault","X85-Y09","2013","2013",33,2900872,1.1
+"Utah","49","Assault","X85-Y09","2014","2014",36,2942902,1.2
+"Utah","49","Assault","X85-Y09","2015","2015",41,2995919,1.4
+"Utah","49","Assault","X85-Y09","2016","2016",48,3051217,1.6
+"Vermont","50","Intentional self-harm","X60-X84","1999","1999",46,604683,7.6
+"Vermont","50","Intentional self-harm","X60-X84","2000","2000",47,608827,7.7
+"Vermont","50","Intentional self-harm","X60-X84","2001","2001",42,612223,6.9
+"Vermont","50","Intentional self-harm","X60-X84","2002","2002",54,615442,8.8
+"Vermont","50","Intentional self-harm","X60-X84","2003","2003",38,617858,6.2
+"Vermont","50","Intentional self-harm","X60-X84","2004","2004",56,619920,9
+"Vermont","50","Intentional self-harm","X60-X84","2005","2005",36,621215,5.8
+"Vermont","50","Intentional self-harm","X60-X84","2006","2006",43,622892,6.9
+"Vermont","50","Intentional self-harm","X60-X84","2007","2007",43,623481,6.9
+"Vermont","50","Intentional self-harm","X60-X84","2008","2008",44,624151,7
+"Vermont","50","Intentional self-harm","X60-X84","2009","2009",59,624817,9.4
+"Vermont","50","Intentional self-harm","X60-X84","2010","2010",66,625741,10.5
+"Vermont","50","Intentional self-harm","X60-X84","2011","2011",70,626431,11.2
+"Vermont","50","Intentional self-harm","X60-X84","2012","2012",50,626011,8
+"Vermont","50","Intentional self-harm","X60-X84","2013","2013",59,626630,9.4
+"Vermont","50","Intentional self-harm","X60-X84","2014","2014",59,626562,9.4
+"Vermont","50","Intentional self-harm","X60-X84","2015","2015",59,626042,9.4
+"Vermont","50","Intentional self-harm","X60-X84","2016","2016",69,624594,11
+"Vermont","50","Assault","X85-Y09","2015","2015",11,626042,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","1999","1999",24,7000174,0.3
+"Virginia","51","Other external causes of accidental injury","W00-X59","2000","2000",15,7078515,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2001","2001",13,7198362,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2002","2002",18,7286873,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2003","2003",12,7366977,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2004","2004",16,7475575,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2006","2006",13,7673725,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2007","2007",10,7751000,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2008","2008",11,7833496,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2009","2009",13,7925937,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2010","2010",13,8001024,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2011","2011",11,8096604,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2012","2012",11,8185867,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2013","2013",10,8260405,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2014","2014",12,8326289,"Unreliable"
+"Virginia","51","Other external causes of accidental injury","W00-X59","2015","2015",14,8382993,"Unreliable"
+"Virginia","51","Intentional self-harm","X60-X84","1999","1999",503,7000174,7.2
+"Virginia","51","Intentional self-harm","X60-X84","2000","2000",484,7078515,6.8
+"Virginia","51","Intentional self-harm","X60-X84","2001","2001",467,7198362,6.5
+"Virginia","51","Intentional self-harm","X60-X84","2002","2002",491,7286873,6.7
+"Virginia","51","Intentional self-harm","X60-X84","2003","2003",452,7366977,6.1
+"Virginia","51","Intentional self-harm","X60-X84","2004","2004",494,7475575,6.6
+"Virginia","51","Intentional self-harm","X60-X84","2005","2005",511,7577105,6.7
+"Virginia","51","Intentional self-harm","X60-X84","2006","2006",499,7673725,6.5
+"Virginia","51","Intentional self-harm","X60-X84","2007","2007",487,7751000,6.3
+"Virginia","51","Intentional self-harm","X60-X84","2008","2008",524,7833496,6.7
+"Virginia","51","Intentional self-harm","X60-X84","2009","2009",527,7925937,6.6
+"Virginia","51","Intentional self-harm","X60-X84","2010","2010",576,8001024,7.2
+"Virginia","51","Intentional self-harm","X60-X84","2011","2011",604,8096604,7.5
+"Virginia","51","Intentional self-harm","X60-X84","2012","2012",587,8185867,7.2
+"Virginia","51","Intentional self-harm","X60-X84","2013","2013",601,8260405,7.3
+"Virginia","51","Intentional self-harm","X60-X84","2014","2014",626,8326289,7.5
+"Virginia","51","Intentional self-harm","X60-X84","2015","2015",630,8382993,7.5
+"Virginia","51","Intentional self-harm","X60-X84","2016","2016",671,8411808,8
+"Virginia","51","Assault","X85-Y09","1999","1999",280,7000174,4
+"Virginia","51","Assault","X85-Y09","2000","2000",284,7078515,4
+"Virginia","51","Assault","X85-Y09","2001","2001",275,7198362,3.8
+"Virginia","51","Assault","X85-Y09","2002","2002",286,7286873,3.9
+"Virginia","51","Assault","X85-Y09","2003","2003",336,7366977,4.6
+"Virginia","51","Assault","X85-Y09","2004","2004",295,7475575,3.9
+"Virginia","51","Assault","X85-Y09","2005","2005",353,7577105,4.7
+"Virginia","51","Assault","X85-Y09","2006","2006",284,7673725,3.7
+"Virginia","51","Assault","X85-Y09","2007","2007",308,7751000,4
+"Virginia","51","Assault","X85-Y09","2008","2008",251,7833496,3.2
+"Virginia","51","Assault","X85-Y09","2009","2009",272,7925937,3.4
+"Virginia","51","Assault","X85-Y09","2010","2010",271,8001024,3.4
+"Virginia","51","Assault","X85-Y09","2011","2011",231,8096604,2.9
+"Virginia","51","Assault","X85-Y09","2012","2012",224,8185867,2.7
+"Virginia","51","Assault","X85-Y09","2013","2013",233,8260405,2.8
+"Virginia","51","Assault","X85-Y09","2014","2014",235,8326289,2.8
+"Virginia","51","Assault","X85-Y09","2015","2015",276,8382993,3.3
+"Virginia","51","Assault","X85-Y09","2016","2016",353,8411808,4.2
+"Washington","53","Other external causes of accidental injury","W00-X59","1999","1999",12,5842564,"Unreliable"
+"Washington","53","Other external causes of accidental injury","W00-X59","2004","2004",12,6178645,"Unreliable"
+"Washington","53","Other external causes of accidental injury","W00-X59","2005","2005",10,6257305,"Unreliable"
+"Washington","53","Other external causes of accidental injury","W00-X59","2013","2013",11,6971406,"Unreliable"
+"Washington","53","Intentional self-harm","X60-X84","1999","1999",450,5842564,7.7
+"Washington","53","Intentional self-harm","X60-X84","2000","2000",390,5894121,6.6
+"Washington","53","Intentional self-harm","X60-X84","2001","2001",391,5985722,6.5
+"Washington","53","Intentional self-harm","X60-X84","2002","2002",437,6052349,7.2
+"Washington","53","Intentional self-harm","X60-X84","2003","2003",436,6104115,7.1
+"Washington","53","Intentional self-harm","X60-X84","2004","2004",423,6178645,6.8
+"Washington","53","Intentional self-harm","X60-X84","2005","2005",398,6257305,6.4
+"Washington","53","Intentional self-harm","X60-X84","2006","2006",397,6370753,6.2
+"Washington","53","Intentional self-harm","X60-X84","2007","2007",413,6461587,6.4
+"Washington","53","Intentional self-harm","X60-X84","2008","2008",439,6562231,6.7
+"Washington","53","Intentional self-harm","X60-X84","2009","2009",470,6667426,7
+"Washington","53","Intentional self-harm","X60-X84","2010","2010",464,6724540,6.9
+"Washington","53","Intentional self-harm","X60-X84","2011","2011",495,6830038,7.2
+"Washington","53","Intentional self-harm","X60-X84","2012","2012",529,6897012,7.7
+"Washington","53","Intentional self-harm","X60-X84","2013","2013",483,6971406,6.9
+"Washington","53","Intentional self-harm","X60-X84","2014","2014",551,7061530,7.8
+"Washington","53","Intentional self-harm","X60-X84","2015","2015",537,7170351,7.5
+"Washington","53","Intentional self-harm","X60-X84","2016","2016",515,7288000,7.1
+"Washington","53","Assault","X85-Y09","1999","1999",108,5842564,1.8
+"Washington","53","Assault","X85-Y09","2000","2000",112,5894121,1.9
+"Washington","53","Assault","X85-Y09","2001","2001",106,5985722,1.8
+"Washington","53","Assault","X85-Y09","2002","2002",110,6052349,1.8
+"Washington","53","Assault","X85-Y09","2003","2003",111,6104115,1.8
+"Washington","53","Assault","X85-Y09","2004","2004",122,6178645,2
+"Washington","53","Assault","X85-Y09","2005","2005",141,6257305,2.3
+"Washington","53","Assault","X85-Y09","2006","2006",123,6370753,1.9
+"Washington","53","Assault","X85-Y09","2007","2007",124,6461587,1.9
+"Washington","53","Assault","X85-Y09","2008","2008",127,6562231,1.9
+"Washington","53","Assault","X85-Y09","2009","2009",118,6667426,1.8
+"Washington","53","Assault","X85-Y09","2010","2010",114,6724540,1.7
+"Washington","53","Assault","X85-Y09","2011","2011",88,6830038,1.3
+"Washington","53","Assault","X85-Y09","2012","2012",127,6897012,1.8
+"Washington","53","Assault","X85-Y09","2013","2013",116,6971406,1.7
+"Washington","53","Assault","X85-Y09","2014","2014",120,7061530,1.7
+"Washington","53","Assault","X85-Y09","2015","2015",162,7170351,2.3
+"Washington","53","Assault","X85-Y09","2016","2016",146,7288000,2
+"West Virginia","54","Other external causes of accidental injury","W00-X59","1999","1999",11,1811799,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2001","2001",12,1801481,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2002","2002",12,1805414,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2003","2003",10,1812295,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2005","2005",13,1820492,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2006","2006",13,1827912,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2007","2007",13,1834052,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2008","2008",26,1840310,1.4
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2009","2009",16,1847775,"Unreliable"
+"West Virginia","54","Other external causes of accidental injury","W00-X59","2010","2010",10,1852994,"Unreliable"
+"West Virginia","54","Intentional self-harm","X60-X84","1999","1999",169,1811799,9.3
+"West Virginia","54","Intentional self-harm","X60-X84","2000","2000",173,1808344,9.6
+"West Virginia","54","Intentional self-harm","X60-X84","2001","2001",195,1801481,10.8
+"West Virginia","54","Intentional self-harm","X60-X84","2002","2002",188,1805414,10.4
+"West Virginia","54","Intentional self-harm","X60-X84","2003","2003",191,1812295,10.5
+"West Virginia","54","Intentional self-harm","X60-X84","2004","2004",192,1816438,10.6
+"West Virginia","54","Intentional self-harm","X60-X84","2005","2005",188,1820492,10.3
+"West Virginia","54","Intentional self-harm","X60-X84","2006","2006",179,1827912,9.8
+"West Virginia","54","Intentional self-harm","X60-X84","2007","2007",205,1834052,11.2
+"West Virginia","54","Intentional self-harm","X60-X84","2008","2008",172,1840310,9.3
+"West Virginia","54","Intentional self-harm","X60-X84","2009","2009",178,1847775,9.6
+"West Virginia","54","Intentional self-harm","X60-X84","2010","2010",210,1852994,11.3
+"West Virginia","54","Intentional self-harm","X60-X84","2011","2011",200,1855364,10.8
+"West Virginia","54","Intentional self-harm","X60-X84","2012","2012",198,1855413,10.7
+"West Virginia","54","Intentional self-harm","X60-X84","2013","2013",225,1854304,12.1
+"West Virginia","54","Intentional self-harm","X60-X84","2014","2014",217,1850326,11.7
+"West Virginia","54","Intentional self-harm","X60-X84","2015","2015",215,1844128,11.7
+"West Virginia","54","Intentional self-harm","X60-X84","2016","2016",238,1831102,13
+"West Virginia","54","Assault","X85-Y09","1999","1999",62,1811799,3.4
+"West Virginia","54","Assault","X85-Y09","2000","2000",56,1808344,3.1
+"West Virginia","54","Assault","X85-Y09","2001","2001",38,1801481,2.1
+"West Virginia","54","Assault","X85-Y09","2002","2002",66,1805414,3.7
+"West Virginia","54","Assault","X85-Y09","2003","2003",60,1812295,3.3
+"West Virginia","54","Assault","X85-Y09","2004","2004",52,1816438,2.9
+"West Virginia","54","Assault","X85-Y09","2005","2005",57,1820492,3.1
+"West Virginia","54","Assault","X85-Y09","2006","2006",57,1827912,3.1
+"West Virginia","54","Assault","X85-Y09","2007","2007",46,1834052,2.5
+"West Virginia","54","Assault","X85-Y09","2008","2008",37,1840310,2
+"West Virginia","54","Assault","X85-Y09","2009","2009",57,1847775,3.1
+"West Virginia","54","Assault","X85-Y09","2010","2010",47,1852994,2.5
+"West Virginia","54","Assault","X85-Y09","2011","2011",61,1855364,3.3
+"West Virginia","54","Assault","X85-Y09","2012","2012",66,1855413,3.6
+"West Virginia","54","Assault","X85-Y09","2013","2013",43,1854304,2.3
+"West Virginia","54","Assault","X85-Y09","2014","2014",58,1850326,3.1
+"West Virginia","54","Assault","X85-Y09","2015","2015",50,1844128,2.7
+"West Virginia","54","Assault","X85-Y09","2016","2016",78,1831102,4.3
+"Wisconsin","55","Other external causes of accidental injury","W00-X59","1999","1999",15,5332666,"Unreliable"
+"Wisconsin","55","Other external causes of accidental injury","W00-X59","2000","2000",13,5363675,"Unreliable"
+"Wisconsin","55","Other external causes of accidental injury","W00-X59","2001","2001",15,5406835,"Unreliable"
+"Wisconsin","55","Other external causes of accidental injury","W00-X59","2003","2003",11,5479203,"Unreliable"
+"Wisconsin","55","Other external causes of accidental injury","W00-X59","2013","2013",10,5742713,"Unreliable"
+"Wisconsin","55","Intentional self-harm","X60-X84","1999","1999",299,5332666,5.6
+"Wisconsin","55","Intentional self-harm","X60-X84","2000","2000",304,5363675,5.7
+"Wisconsin","55","Intentional self-harm","X60-X84","2001","2001",317,5406835,5.9
+"Wisconsin","55","Intentional self-harm","X60-X84","2002","2002",308,5445162,5.7
+"Wisconsin","55","Intentional self-harm","X60-X84","2003","2003",310,5479203,5.7
+"Wisconsin","55","Intentional self-harm","X60-X84","2004","2004",308,5514026,5.6
+"Wisconsin","55","Intentional self-harm","X60-X84","2005","2005",302,5546166,5.4
+"Wisconsin","55","Intentional self-harm","X60-X84","2006","2006",299,5577655,5.4
+"Wisconsin","55","Intentional self-harm","X60-X84","2007","2007",338,5610775,6
+"Wisconsin","55","Intentional self-harm","X60-X84","2008","2008",344,5640996,6.1
+"Wisconsin","55","Intentional self-harm","X60-X84","2009","2009",345,5669264,6.1
+"Wisconsin","55","Intentional self-harm","X60-X84","2010","2010",378,5686986,6.6
+"Wisconsin","55","Intentional self-harm","X60-X84","2011","2011",351,5711767,6.1
+"Wisconsin","55","Intentional self-harm","X60-X84","2012","2012",348,5726398,6.1
+"Wisconsin","55","Intentional self-harm","X60-X84","2013","2013",437,5742713,7.6
+"Wisconsin","55","Intentional self-harm","X60-X84","2014","2014",352,5757564,6.1
+"Wisconsin","55","Intentional self-harm","X60-X84","2015","2015",424,5771337,7.3
+"Wisconsin","55","Intentional self-harm","X60-X84","2016","2016",455,5778708,7.9
+"Wisconsin","55","Assault","X85-Y09","1999","1999",128,5332666,2.4
+"Wisconsin","55","Assault","X85-Y09","2000","2000",112,5363675,2.1
+"Wisconsin","55","Assault","X85-Y09","2001","2001",134,5406835,2.5
+"Wisconsin","55","Assault","X85-Y09","2002","2002",122,5445162,2.2
+"Wisconsin","55","Assault","X85-Y09","2003","2003",140,5479203,2.6
+"Wisconsin","55","Assault","X85-Y09","2004","2004",93,5514026,1.7
+"Wisconsin","55","Assault","X85-Y09","2005","2005",159,5546166,2.9
+"Wisconsin","55","Assault","X85-Y09","2006","2006",110,5577655,2
+"Wisconsin","55","Assault","X85-Y09","2007","2007",132,5610775,2.4
+"Wisconsin","55","Assault","X85-Y09","2008","2008",81,5640996,1.4
+"Wisconsin","55","Assault","X85-Y09","2009","2009",103,5669264,1.8
+"Wisconsin","55","Assault","X85-Y09","2010","2010",106,5686986,1.9
+"Wisconsin","55","Assault","X85-Y09","2011","2011",86,5711767,1.5
+"Wisconsin","55","Assault","X85-Y09","2012","2012",126,5726398,2.2
+"Wisconsin","55","Assault","X85-Y09","2013","2013",115,5742713,2
+"Wisconsin","55","Assault","X85-Y09","2014","2014",121,5757564,2.1
+"Wisconsin","55","Assault","X85-Y09","2015","2015",175,5771337,3
+"Wisconsin","55","Assault","X85-Y09","2016","2016",188,5778708,3.3
+"Wyoming","56","Intentional self-harm","X60-X84","1999","1999",63,491780,12.8
+"Wyoming","56","Intentional self-harm","X60-X84","2000","2000",50,493782,10.1
+"Wyoming","56","Intentional self-harm","X60-X84","2001","2001",61,494657,12.3
+"Wyoming","56","Intentional self-harm","X60-X84","2002","2002",82,500017,16.4
+"Wyoming","56","Intentional self-harm","X60-X84","2003","2003",75,503453,14.9
+"Wyoming","56","Intentional self-harm","X60-X84","2004","2004",48,509106,9.4
+"Wyoming","56","Intentional self-harm","X60-X84","2005","2005",56,514157,10.9
+"Wyoming","56","Intentional self-harm","X60-X84","2006","2006",72,522667,13.8
+"Wyoming","56","Intentional self-harm","X60-X84","2007","2007",67,534876,12.5
+"Wyoming","56","Intentional self-harm","X60-X84","2008","2008",87,546043,15.9
+"Wyoming","56","Intentional self-harm","X60-X84","2009","2009",82,559851,14.6
+"Wyoming","56","Intentional self-harm","X60-X84","2010","2010",83,563626,14.7
+"Wyoming","56","Intentional self-harm","X60-X84","2011","2011",84,568158,14.8
+"Wyoming","56","Intentional self-harm","X60-X84","2012","2012",102,576412,17.7
+"Wyoming","56","Intentional self-harm","X60-X84","2013","2013",89,582658,15.3
+"Wyoming","56","Intentional self-harm","X60-X84","2014","2014",78,584153,13.4
+"Wyoming","56","Intentional self-harm","X60-X84","2015","2015",95,586107,16.2
+"Wyoming","56","Intentional self-harm","X60-X84","2016","2016",87,585501,14.9
+"Wyoming","56","Assault","X85-Y09","2005","2005",11,514157,"Unreliable"
+"Wyoming","56","Assault","X85-Y09","2009","2009",10,559851,"Unreliable"
+"Wyoming","56","Assault","X85-Y09","2011","2011",12,568158,"Unreliable"
+"Wyoming","56","Assault","X85-Y09","2015","2015",13,586107,"Unreliable"
+"Wyoming","56","Assault","X85-Y09","2016","2016",11,585501,"Unreliable"
