@@ -1,0 +1,1742 @@
+"Year","Year Code","State","State Code","ICD Sub-Chapter","ICD Sub-Chapter Code","Deaths","Population","Crude Rate"
+"2000","2000","Alabama","01","Other external causes of accidental injury","W00-X59",14,2166049,"Unreliable"
+"2000","2000","Alabama","01","Intentional self-harm","X60-X84",114,2166049,5.3
+"2000","2000","Alabama","01","Assault","X85-Y09",177,2166049,8.2
+"2000","2000","Alaska","02","Intentional self-harm","X60-X84",52,337482,15.4
+"2000","2000","Alaska","02","Assault","X85-Y09",11,337482,"Unreliable"
+"2000","2000","Arizona","04","Intentional self-harm","X60-X84",151,2623713,5.8
+"2000","2000","Arizona","04","Assault","X85-Y09",174,2623713,6.6
+"2000","2000","Arkansas","05","Other external causes of accidental injury","W00-X59",11,1294952,"Unreliable"
+"2000","2000","Arkansas","05","Intentional self-harm","X60-X84",80,1294952,6.2
+"2000","2000","Arkansas","05","Assault","X85-Y09",86,1294952,6.6
+"2000","2000","California","06","Other external causes of accidental injury","W00-X59",41,17844921,0.2
+"2000","2000","California","06","Intentional self-harm","X60-X84",361,17844921,2
+"2000","2000","California","06","Assault","X85-Y09",1086,17844921,6.1
+"2000","2000","Colorado","08","Intentional self-harm","X60-X84",108,2194933,4.9
+"2000","2000","Colorado","08","Assault","X85-Y09",51,2194933,2.3
+"2000","2000","Connecticut","09","Intentional self-harm","X60-X84",25,1564913,1.6
+"2000","2000","Connecticut","09","Assault","X85-Y09",46,1564913,2.9
+"2000","2000","Delaware","10","Intentional self-harm","X60-X84",10,378755,"Unreliable"
+"2000","2000","District of Columbia","11","Assault","X85-Y09",110,289391,38
+"2000","2000","Florida","12","Intentional self-harm","X60-X84",242,7061042,3.4
+"2000","2000","Florida","12","Assault","X85-Y09",252,7061042,3.6
+"2000","2000","Georgia","13","Other external causes of accidental injury","W00-X59",22,4306222,0.5
+"2000","2000","Georgia","13","Intentional self-harm","X60-X84",182,4306222,4.2
+"2000","2000","Georgia","13","Assault","X85-Y09",275,4306222,6.4
+"2000","2000","Hawaii","15","Intentional self-harm","X60-X84",11,581819,"Unreliable"
+"2000","2000","Idaho","16","Intentional self-harm","X60-X84",32,677292,4.7
+"2000","2000","Illinois","17","Intentional self-harm","X60-X84",139,6268023,2.2
+"2000","2000","Illinois","17","Assault","X85-Y09",526,6268023,8.4
+"2000","2000","Indiana","18","Other external causes of accidental injury","W00-X59",11,3020242,"Unreliable"
+"2000","2000","Indiana","18","Intentional self-harm","X60-X84",141,3020242,4.7
+"2000","2000","Indiana","18","Assault","X85-Y09",158,3020242,5.2
+"2000","2000","Iowa","19","Intentional self-harm","X60-X84",53,1394706,3.8
+"2000","2000","Kansas","20","Intentional self-harm","X60-X84",48,1337438,3.6
+"2000","2000","Kansas","20","Assault","X85-Y09",65,1337438,4.9
+"2000","2000","Kentucky","21","Other external causes of accidental injury","W00-X59",18,1964784,"Unreliable"
+"2000","2000","Kentucky","21","Intentional self-harm","X60-X84",115,1964784,5.9
+"2000","2000","Kentucky","21","Assault","X85-Y09",64,1964784,3.3
+"2000","2000","Louisiana","22","Other external causes of accidental injury","W00-X59",15,2294762,"Unreliable"
+"2000","2000","Louisiana","22","Intentional self-harm","X60-X84",116,2294762,5.1
+"2000","2000","Louisiana","22","Assault","X85-Y09",306,2294762,13.3
+"2000","2000","Maine","23","Intentional self-harm","X60-X84",25,562758,4.4
+"2000","2000","Maryland","24","Intentional self-harm","X60-X84",76,2555615,3
+"2000","2000","Maryland","24","Assault","X85-Y09",263,2555615,10.3
+"2000","2000","Massachusetts","25","Intentional self-harm","X60-X84",35,3006180,1.2
+"2000","2000","Massachusetts","25","Assault","X85-Y09",53,3006180,1.8
+"2000","2000","Michigan","26","Intentional self-harm","X60-X84",155,4890075,3.2
+"2000","2000","Michigan","26","Assault","X85-Y09",351,4890075,7.2
+"2000","2000","Minnesota","27","Intentional self-harm","X60-X84",75,2430466,3.1
+"2000","2000","Minnesota","27","Assault","X85-Y09",48,2430466,2
+"2000","2000","Mississippi","28","Other external causes of accidental injury","W00-X59",18,1467959,"Unreliable"
+"2000","2000","Mississippi","28","Intentional self-harm","X60-X84",87,1467959,5.9
+"2000","2000","Mississippi","28","Assault","X85-Y09",126,1467959,8.6
+"2000","2000","Missouri","29","Other external causes of accidental injury","W00-X59",11,2702403,"Unreliable"
+"2000","2000","Missouri","29","Intentional self-harm","X60-X84",120,2702403,4.4
+"2000","2000","Missouri","29","Assault","X85-Y09",191,2702403,7.1
+"2000","2000","Montana","30","Intentional self-harm","X60-X84",36,419098,8.6
+"2000","2000","Montana","30","Assault","X85-Y09",10,419098,"Unreliable"
+"2000","2000","Nebraska","31","Intentional self-harm","X60-X84",35,847940,4.1
+"2000","2000","Nebraska","31","Assault","X85-Y09",26,847940,3.1
+"2000","2000","Nevada","32","Intentional self-harm","X60-X84",70,998118,7
+"2000","2000","Nevada","32","Assault","X85-Y09",58,998118,5.8
+"2000","2000","New Hampshire","33","Intentional self-harm","X60-X84",15,572992,"Unreliable"
+"2000","2000","New Jersey","34","Intentional self-harm","X60-X84",29,3953226,0.7
+"2000","2000","New Jersey","34","Assault","X85-Y09",140,3953226,3.5
+"2000","2000","New Mexico","35","Intentional self-harm","X60-X84",69,920241,7.5
+"2000","2000","New Mexico","35","Assault","X85-Y09",69,920241,7.5
+"2000","2000","New York","36","Intentional self-harm","X60-X84",146,9212884,1.6
+"2000","2000","New York","36","Assault","X85-Y09",440,9212884,4.8
+"2000","2000","North Carolina","37","Other external causes of accidental injury","W00-X59",15,3984283,"Unreliable"
+"2000","2000","North Carolina","37","Intentional self-harm","X60-X84",189,3984283,4.7
+"2000","2000","North Carolina","37","Assault","X85-Y09",295,3984283,7.4
+"2000","2000","North Dakota","38","Intentional self-harm","X60-X84",18,310854,"Unreliable"
+"2000","2000","Ohio","39","Other external causes of accidental injury","W00-X59",21,5464777,0.4
+"2000","2000","Ohio","39","Intentional self-harm","X60-X84",154,5464777,2.8
+"2000","2000","Ohio","39","Assault","X85-Y09",155,5464777,2.8
+"2000","2000","Oklahoma","40","Other external causes of accidental injury","W00-X59",11,1701092,"Unreliable"
+"2000","2000","Oklahoma","40","Intentional self-harm","X60-X84",97,1701092,5.7
+"2000","2000","Oklahoma","40","Assault","X85-Y09",62,1701092,3.6
+"2000","2000","Oregon","41","Intentional self-harm","X60-X84",86,1645105,5.2
+"2000","2000","Oregon","41","Assault","X85-Y09",29,1645105,1.8
+"2000","2000","Pennsylvania","42","Other external causes of accidental injury","W00-X59",17,5577156,"Unreliable"
+"2000","2000","Pennsylvania","42","Intentional self-harm","X60-X84",196,5577156,3.5
+"2000","2000","Pennsylvania","42","Assault","X85-Y09",317,5577156,5.7
+"2000","2000","Rhode Island","44","Assault","X85-Y09",22,494755,4.4
+"2000","2000","South Carolina","45","Other external causes of accidental injury","W00-X59",11,1978323,"Unreliable"
+"2000","2000","South Carolina","45","Intentional self-harm","X60-X84",73,1978323,3.7
+"2000","2000","South Carolina","45","Assault","X85-Y09",100,1978323,5.1
+"2000","2000","South Dakota","46","Intentional self-harm","X60-X84",23,371296,6.2
+"2000","2000","Tennessee","47","Other external causes of accidental injury","W00-X59",22,2763278,0.8
+"2000","2000","Tennessee","47","Intentional self-harm","X60-X84",148,2763278,5.4
+"2000","2000","Tennessee","47","Assault","X85-Y09",215,2763278,7.8
+"2000","2000","Texas","48","Other external causes of accidental injury","W00-X59",37,11247723,0.3
+"2000","2000","Texas","48","Intentional self-harm","X60-X84",423,11247723,3.8
+"2000","2000","Texas","48","Assault","X85-Y09",517,11247723,4.6
+"2000","2000","Utah","49","Intentional self-harm","X60-X84",54,1363193,4
+"2000","2000","Utah","49","Assault","X85-Y09",10,1363193,"Unreliable"
+"2000","2000","Vermont","50","Intentional self-harm","X60-X84",15,278676,"Unreliable"
+"2000","2000","Virginia","51","Intentional self-harm","X60-X84",108,3454625,3.1
+"2000","2000","Virginia","51","Assault","X85-Y09",172,3454625,5
+"2000","2000","Washington","53","Intentional self-harm","X60-X84",105,2914334,3.6
+"2000","2000","Washington","53","Assault","X85-Y09",68,2914334,2.3
+"2000","2000","West Virginia","54","Intentional self-harm","X60-X84",44,803918,5.5
+"2000","2000","West Virginia","54","Assault","X85-Y09",26,803918,3.2
+"2000","2000","Wisconsin","55","Intentional self-harm","X60-X84",120,2595553,4.6
+"2000","2000","Wisconsin","55","Assault","X85-Y09",76,2595553,2.9
+"2000","2000","Wyoming","56","Intentional self-harm","X60-X84",11,238655,"Unreliable"
+"2001","2001","Alabama","01","Other external causes of accidental injury","W00-X59",17,2157321,"Unreliable"
+"2001","2001","Alabama","01","Intentional self-harm","X60-X84",119,2157321,5.5
+"2001","2001","Alabama","01","Assault","X85-Y09",181,2157321,8.4
+"2001","2001","Alaska","02","Intentional self-harm","X60-X84",28,337699,8.3
+"2001","2001","Alaska","02","Assault","X85-Y09",15,337699,"Unreliable"
+"2001","2001","Arizona","04","Other external causes of accidental injury","W00-X59",10,2683600,"Unreliable"
+"2001","2001","Arizona","04","Intentional self-harm","X60-X84",131,2683600,4.9
+"2001","2001","Arizona","04","Assault","X85-Y09",233,2683600,8.7
+"2001","2001","Arkansas","05","Other external causes of accidental injury","W00-X59",11,1296020,"Unreliable"
+"2001","2001","Arkansas","05","Intentional self-harm","X60-X84",86,1296020,6.6
+"2001","2001","Arkansas","05","Assault","X85-Y09",62,1296020,4.8
+"2001","2001","California","06","Other external causes of accidental injury","W00-X59",46,18048800,0.3
+"2001","2001","California","06","Intentional self-harm","X60-X84",334,18048800,1.9
+"2001","2001","California","06","Assault","X85-Y09",1201,18048800,6.7
+"2001","2001","Colorado","08","Intentional self-harm","X60-X84",118,2255004,5.2
+"2001","2001","Colorado","08","Assault","X85-Y09",70,2255004,3.1
+"2001","2001","Connecticut","09","Intentional self-harm","X60-X84",26,1561641,1.7
+"2001","2001","Connecticut","09","Assault","X85-Y09",50,1561641,3.2
+"2001","2001","Delaware","10","Intentional self-harm","X60-X84",16,380573,"Unreliable"
+"2001","2001","Delaware","10","Assault","X85-Y09",13,380573,"Unreliable"
+"2001","2001","District of Columbia","11","Intentional self-harm","X60-X84",12,289613,"Unreliable"
+"2001","2001","District of Columbia","11","Assault","X85-Y09",118,289613,40.7
+"2001","2001","Florida","12","Intentional self-harm","X60-X84",250,7188001,3.5
+"2001","2001","Florida","12","Assault","X85-Y09",336,7188001,4.7
+"2001","2001","Georgia","13","Other external causes of accidental injury","W00-X59",14,4377442,"Unreliable"
+"2001","2001","Georgia","13","Intentional self-harm","X60-X84",200,4377442,4.6
+"2001","2001","Georgia","13","Assault","X85-Y09",277,4377442,6.3
+"2001","2001","Hawaii","15","Intentional self-harm","X60-X84",11,583663,"Unreliable"
+"2001","2001","Idaho","16","Intentional self-harm","X60-X84",51,687257,7.4
+"2001","2001","Idaho","16","Assault","X85-Y09",13,687257,"Unreliable"
+"2001","2001","Illinois","17","Other external causes of accidental injury","W00-X59",10,6262595,"Unreliable"
+"2001","2001","Illinois","17","Intentional self-harm","X60-X84",142,6262595,2.3
+"2001","2001","Illinois","17","Assault","X85-Y09",576,6262595,9.2
+"2001","2001","Indiana","18","Other external causes of accidental injury","W00-X59",14,3025791,"Unreliable"
+"2001","2001","Indiana","18","Intentional self-harm","X60-X84",112,3025791,3.7
+"2001","2001","Indiana","18","Assault","X85-Y09",197,3025791,6.5
+"2001","2001","Iowa","19","Intentional self-harm","X60-X84",55,1388338,4
+"2001","2001","Iowa","19","Assault","X85-Y09",11,1388338,"Unreliable"
+"2001","2001","Kansas","20","Intentional self-harm","X60-X84",66,1337261,4.9
+"2001","2001","Kansas","20","Assault","X85-Y09",59,1337261,4.4
+"2001","2001","Kentucky","21","Other external causes of accidental injury","W00-X59",15,1962323,"Unreliable"
+"2001","2001","Kentucky","21","Intentional self-harm","X60-X84",104,1962323,5.3
+"2001","2001","Kentucky","21","Assault","X85-Y09",75,1962323,3.8
+"2001","2001","Louisiana","22","Other external causes of accidental injury","W00-X59",13,2277375,"Unreliable"
+"2001","2001","Louisiana","22","Intentional self-harm","X60-X84",113,2277375,5
+"2001","2001","Louisiana","22","Assault","X85-Y09",280,2277375,12.3
+"2001","2001","Maine","23","Intentional self-harm","X60-X84",20,560132,3.6
+"2001","2001","Maryland","24","Intentional self-harm","X60-X84",66,2570344,2.6
+"2001","2001","Maryland","24","Assault","X85-Y09",286,2570344,11.1
+"2001","2001","Massachusetts","25","Intentional self-harm","X60-X84",28,3007151,0.9
+"2001","2001","Massachusetts","25","Assault","X85-Y09",67,3007151,2.2
+"2001","2001","Michigan","26","Intentional self-harm","X60-X84",160,4876413,3.3
+"2001","2001","Michigan","26","Assault","X85-Y09",352,4876413,7.2
+"2001","2001","Minnesota","27","Intentional self-harm","X60-X84",77,2444376,3.2
+"2001","2001","Minnesota","27","Assault","X85-Y09",46,2444376,1.9
+"2001","2001","Mississippi","28","Other external causes of accidental injury","W00-X59",14,1459123,"Unreliable"
+"2001","2001","Mississippi","28","Intentional self-harm","X60-X84",77,1459123,5.3
+"2001","2001","Mississippi","28","Assault","X85-Y09",136,1459123,9.3
+"2001","2001","Missouri","29","Other external causes of accidental injury","W00-X59",10,2707108,"Unreliable"
+"2001","2001","Missouri","29","Intentional self-harm","X60-X84",124,2707108,4.6
+"2001","2001","Missouri","29","Assault","X85-Y09",176,2707108,6.5
+"2001","2001","Montana","30","Intentional self-harm","X60-X84",39,417776,9.3
+"2001","2001","Nebraska","31","Intentional self-harm","X60-X84",34,847699,4
+"2001","2001","Nebraska","31","Assault","X85-Y09",15,847699,"Unreliable"
+"2001","2001","Nevada","32","Intentional self-harm","X60-X84",53,1039716,5.1
+"2001","2001","Nevada","32","Assault","X85-Y09",69,1039716,6.6
+"2001","2001","New Hampshire","33","Intentional self-harm","X60-X84",32,576550,5.6
+"2001","2001","New Jersey","34","Intentional self-harm","X60-X84",38,3958088,1
+"2001","2001","New Jersey","34","Assault","X85-Y09",147,3958088,3.7
+"2001","2001","New Mexico","35","Intentional self-harm","X60-X84",51,917198,5.6
+"2001","2001","New Mexico","35","Assault","X85-Y09",42,917198,4.6
+"2001","2001","New York","36","Other external causes of accidental injury","W00-X59",12,9180765,"Unreliable"
+"2001","2001","New York","36","Intentional self-harm","X60-X84",139,9180765,1.5
+"2001","2001","New York","36","Assault","X85-Y09",450,9180765,4.9
+"2001","2001","North Carolina","37","Other external causes of accidental injury","W00-X59",14,4036139,"Unreliable"
+"2001","2001","North Carolina","37","Intentional self-harm","X60-X84",179,4036139,4.4
+"2001","2001","North Carolina","37","Assault","X85-Y09",273,4036139,6.8
+"2001","2001","North Dakota","38","Intentional self-harm","X60-X84",11,306949,"Unreliable"
+"2001","2001","Ohio","39","Other external causes of accidental injury","W00-X59",10,5439044,"Unreliable"
+"2001","2001","Ohio","39","Intentional self-harm","X60-X84",179,5439044,3.3
+"2001","2001","Ohio","39","Assault","X85-Y09",198,5439044,3.6
+"2001","2001","Oklahoma","40","Intentional self-harm","X60-X84",96,1700726,5.6
+"2001","2001","Oklahoma","40","Assault","X85-Y09",72,1700726,4.2
+"2001","2001","Oregon","41","Intentional self-harm","X60-X84",70,1658676,4.2
+"2001","2001","Oregon","41","Assault","X85-Y09",22,1658676,1.3
+"2001","2001","Pennsylvania","42","Other external causes of accidental injury","W00-X59",14,5541168,"Unreliable"
+"2001","2001","Pennsylvania","42","Intentional self-harm","X60-X84",191,5541168,3.4
+"2001","2001","Pennsylvania","42","Assault","X85-Y09",316,5541168,5.7
+"2001","2001","Rhode Island","44","Assault","X85-Y09",16,495318,"Unreliable"
+"2001","2001","South Carolina","45","Other external causes of accidental injury","W00-X59",10,1985581,"Unreliable"
+"2001","2001","South Carolina","45","Intentional self-harm","X60-X84",97,1985581,4.9
+"2001","2001","South Carolina","45","Assault","X85-Y09",128,1985581,6.4
+"2001","2001","South Dakota","46","Intentional self-harm","X60-X84",15,370044,"Unreliable"
+"2001","2001","Tennessee","47","Other external causes of accidental injury","W00-X59",24,2771551,0.9
+"2001","2001","Tennessee","47","Intentional self-harm","X60-X84",137,2771551,4.9
+"2001","2001","Tennessee","47","Assault","X85-Y09",184,2771551,6.6
+"2001","2001","Texas","48","Other external causes of accidental injury","W00-X59",34,11449722,0.3
+"2001","2001","Texas","48","Intentional self-harm","X60-X84",416,11449722,3.6
+"2001","2001","Texas","48","Assault","X85-Y09",566,11449722,4.9
+"2001","2001","Utah","49","Intentional self-harm","X60-X84",65,1389284,4.7
+"2001","2001","Utah","49","Assault","X85-Y09",24,1389284,1.7
+"2001","2001","Vermont","50","Intentional self-harm","X60-X84",10,277015,"Unreliable"
+"2001","2001","Virginia","51","Intentional self-harm","X60-X84",132,3487052,3.8
+"2001","2001","Virginia","51","Assault","X85-Y09",196,3487052,5.6
+"2001","2001","Washington","53","Intentional self-harm","X60-X84",114,2941249,3.9
+"2001","2001","Washington","53","Assault","X85-Y09",58,2941249,2
+"2001","2001","West Virginia","54","Intentional self-harm","X60-X84",41,792188,5.2
+"2001","2001","West Virginia","54","Assault","X85-Y09",17,792188,"Unreliable"
+"2001","2001","Wisconsin","55","Other external causes of accidental injury","W00-X59",12,2594246,"Unreliable"
+"2001","2001","Wisconsin","55","Intentional self-harm","X60-X84",91,2594246,3.5
+"2001","2001","Wisconsin","55","Assault","X85-Y09",92,2594246,3.5
+"2001","2001","Wyoming","56","Intentional self-harm","X60-X84",21,236641,8.9
+"2002","2002","Alabama","01","Other external causes of accidental injury","W00-X59",25,2150918,1.2
+"2002","2002","Alabama","01","Intentional self-harm","X60-X84",101,2150918,4.7
+"2002","2002","Alabama","01","Assault","X85-Y09",168,2150918,7.8
+"2002","2002","Alaska","02","Intentional self-harm","X60-X84",38,340421,11.2
+"2002","2002","Alaska","02","Assault","X85-Y09",19,340421,"Unreliable"
+"2002","2002","Arizona","04","Other external causes of accidental injury","W00-X59",15,2738652,"Unreliable"
+"2002","2002","Arizona","04","Intentional self-harm","X60-X84",177,2738652,6.5
+"2002","2002","Arizona","04","Assault","X85-Y09",232,2738652,8.5
+"2002","2002","Arkansas","05","Other external causes of accidental injury","W00-X59",13,1298950,"Unreliable"
+"2002","2002","Arkansas","05","Intentional self-harm","X60-X84",73,1298950,5.6
+"2002","2002","Arkansas","05","Assault","X85-Y09",87,1298950,6.7
+"2002","2002","California","06","Other external causes of accidental injury","W00-X59",30,18147621,0.2
+"2002","2002","California","06","Intentional self-harm","X60-X84",335,18147621,1.8
+"2002","2002","California","06","Assault","X85-Y09",1336,18147621,7.4
+"2002","2002","Colorado","08","Intentional self-harm","X60-X84",124,2281185,5.4
+"2002","2002","Colorado","08","Assault","X85-Y09",68,2281185,3
+"2002","2002","Connecticut","09","Intentional self-harm","X60-X84",18,1566124,"Unreliable"
+"2002","2002","Connecticut","09","Assault","X85-Y09",45,1566124,2.9
+"2002","2002","Delaware","10","Assault","X85-Y09",17,382616,"Unreliable"
+"2002","2002","District of Columbia","11","Assault","X85-Y09",147,288259,51
+"2002","2002","Florida","12","Other external causes of accidental injury","W00-X59",11,7316434,"Unreliable"
+"2002","2002","Florida","12","Intentional self-harm","X60-X84",217,7316434,3
+"2002","2002","Florida","12","Assault","X85-Y09",381,7316434,5.2
+"2002","2002","Georgia","13","Other external causes of accidental injury","W00-X59",12,4420155,"Unreliable"
+"2002","2002","Georgia","13","Intentional self-harm","X60-X84",168,4420155,3.8
+"2002","2002","Georgia","13","Assault","X85-Y09",309,4420155,7
+"2002","2002","Idaho","16","Intentional self-harm","X60-X84",36,695137,5.2
+"2002","2002","Illinois","17","Other external causes of accidental injury","W00-X59",10,6250538,"Unreliable"
+"2002","2002","Illinois","17","Intentional self-harm","X60-X84",122,6250538,2
+"2002","2002","Illinois","17","Assault","X85-Y09",576,6250538,9.2
+"2002","2002","Indiana","18","Other external causes of accidental injury","W00-X59",15,3024735,"Unreliable"
+"2002","2002","Indiana","18","Intentional self-harm","X60-X84",146,3024735,4.8
+"2002","2002","Indiana","18","Assault","X85-Y09",161,3024735,5.3
+"2002","2002","Iowa","19","Intentional self-harm","X60-X84",52,1383621,3.8
+"2002","2002","Iowa","19","Assault","X85-Y09",18,1383621,"Unreliable"
+"2002","2002","Kansas","20","Intentional self-harm","X60-X84",54,1340583,4
+"2002","2002","Kansas","20","Assault","X85-Y09",52,1340583,3.9
+"2002","2002","Kentucky","21","Other external causes of accidental injury","W00-X59",17,1961681,"Unreliable"
+"2002","2002","Kentucky","21","Intentional self-harm","X60-X84",97,1961681,4.9
+"2002","2002","Kentucky","21","Assault","X85-Y09",63,1961681,3.2
+"2002","2002","Louisiana","22","Other external causes of accidental injury","W00-X59",25,2274315,1.1
+"2002","2002","Louisiana","22","Intentional self-harm","X60-X84",122,2274315,5.4
+"2002","2002","Louisiana","22","Assault","X85-Y09",325,2274315,14.3
+"2002","2002","Maine","23","Intentional self-harm","X60-X84",23,559628,4.1
+"2002","2002","Maryland","24","Intentional self-harm","X60-X84",62,2588859,2.4
+"2002","2002","Maryland","24","Assault","X85-Y09",290,2588859,11.2
+"2002","2002","Massachusetts","25","Intentional self-harm","X60-X84",17,2995857,"Unreliable"
+"2002","2002","Massachusetts","25","Assault","X85-Y09",71,2995857,2.4
+"2002","2002","Michigan","26","Intentional self-harm","X60-X84",160,4855759,3.3
+"2002","2002","Michigan","26","Assault","X85-Y09",331,4855759,6.8
+"2002","2002","Minnesota","27","Intentional self-harm","X60-X84",83,2448390,3.4
+"2002","2002","Minnesota","27","Assault","X85-Y09",45,2448390,1.8
+"2002","2002","Mississippi","28","Other external causes of accidental injury","W00-X59",13,1452569,"Unreliable"
+"2002","2002","Mississippi","28","Intentional self-harm","X60-X84",92,1452569,6.3
+"2002","2002","Mississippi","28","Assault","X85-Y09",117,1452569,8.1
+"2002","2002","Missouri","29","Intentional self-harm","X60-X84",97,2714092,3.6
+"2002","2002","Missouri","29","Assault","X85-Y09",172,2714092,6.3
+"2002","2002","Montana","30","Intentional self-harm","X60-X84",37,417512,8.9
+"2002","2002","Nebraska","31","Intentional self-harm","X60-X84",27,849784,3.2
+"2002","2002","Nebraska","31","Assault","X85-Y09",15,849784,"Unreliable"
+"2002","2002","Nevada","32","Intentional self-harm","X60-X84",56,1070390,5.2
+"2002","2002","Nevada","32","Assault","X85-Y09",85,1070390,7.9
+"2002","2002","New Hampshire","33","Intentional self-harm","X60-X84",16,578230,"Unreliable"
+"2002","2002","New Jersey","34","Other external causes of accidental injury","W00-X59",13,3966494,"Unreliable"
+"2002","2002","New Jersey","34","Intentional self-harm","X60-X84",33,3966494,0.8
+"2002","2002","New Jersey","34","Assault","X85-Y09",147,3966494,3.7
+"2002","2002","New Mexico","35","Intentional self-harm","X60-X84",71,925216,7.7
+"2002","2002","New Mexico","35","Assault","X85-Y09",50,925216,5.4
+"2002","2002","New York","36","Intentional self-harm","X60-X84",117,9149085,1.3
+"2002","2002","New York","36","Assault","X85-Y09",391,9149085,4.3
+"2002","2002","North Carolina","37","Other external causes of accidental injury","W00-X59",11,4067808,"Unreliable"
+"2002","2002","North Carolina","37","Intentional self-harm","X60-X84",142,4067808,3.5
+"2002","2002","North Carolina","37","Assault","X85-Y09",298,4067808,7.3
+"2002","2002","North Dakota","38","Intentional self-harm","X60-X84",18,305119,"Unreliable"
+"2002","2002","Ohio","39","Intentional self-harm","X60-X84",167,5419306,3.1
+"2002","2002","Ohio","39","Assault","X85-Y09",233,5419306,4.3
+"2002","2002","Oklahoma","40","Other external causes of accidental injury","W00-X59",11,1710101,"Unreliable"
+"2002","2002","Oklahoma","40","Intentional self-harm","X60-X84",94,1710101,5.5
+"2002","2002","Oklahoma","40","Assault","X85-Y09",68,1710101,4
+"2002","2002","Oregon","41","Intentional self-harm","X60-X84",72,1673987,4.3
+"2002","2002","Oregon","41","Assault","X85-Y09",39,1673987,2.3
+"2002","2002","Pennsylvania","42","Other external causes of accidental injury","W00-X59",16,5529240,"Unreliable"
+"2002","2002","Pennsylvania","42","Intentional self-harm","X60-X84",203,5529240,3.7
+"2002","2002","Pennsylvania","42","Assault","X85-Y09",330,5529240,6
+"2002","2002","Rhode Island","44","Assault","X85-Y09",17,497665,"Unreliable"
+"2002","2002","South Carolina","45","Other external causes of accidental injury","W00-X59",13,1995372,"Unreliable"
+"2002","2002","South Carolina","45","Intentional self-harm","X60-X84",81,1995372,4.1
+"2002","2002","South Carolina","45","Assault","X85-Y09",148,1995372,7.4
+"2002","2002","South Dakota","46","Intentional self-harm","X60-X84",14,369391,"Unreliable"
+"2002","2002","Tennessee","47","Other external causes of accidental injury","W00-X59",24,2778400,0.9
+"2002","2002","Tennessee","47","Intentional self-harm","X60-X84",133,2778400,4.8
+"2002","2002","Tennessee","47","Assault","X85-Y09",201,2778400,7.2
+"2002","2002","Texas","48","Other external causes of accidental injury","W00-X59",26,11620391,0.2
+"2002","2002","Texas","48","Intentional self-harm","X60-X84",360,11620391,3.1
+"2002","2002","Texas","48","Assault","X85-Y09",578,11620391,5
+"2002","2002","Utah","49","Intentional self-harm","X60-X84",73,1410940,5.2
+"2002","2002","Utah","49","Assault","X85-Y09",15,1410940,"Unreliable"
+"2002","2002","Vermont","50","Intentional self-harm","X60-X84",12,276196,"Unreliable"
+"2002","2002","Virginia","51","Intentional self-harm","X60-X84",121,3509104,3.4
+"2002","2002","Virginia","51","Assault","X85-Y09",188,3509104,5.4
+"2002","2002","Washington","53","Intentional self-harm","X60-X84",107,2957735,3.6
+"2002","2002","Washington","53","Assault","X85-Y09",68,2957735,2.3
+"2002","2002","West Virginia","54","Intentional self-harm","X60-X84",51,790088,6.5
+"2002","2002","West Virginia","54","Assault","X85-Y09",32,790088,4.1
+"2002","2002","Wisconsin","55","Intentional self-harm","X60-X84",100,2596070,3.9
+"2002","2002","Wisconsin","55","Assault","X85-Y09",84,2596070,3.2
+"2002","2002","Wyoming","56","Intentional self-harm","X60-X84",28,238949,11.7
+"2003","2003","Alabama","01","Other external causes of accidental injury","W00-X59",21,2152741,1
+"2003","2003","Alabama","01","Intentional self-harm","X60-X84",111,2152741,5.2
+"2003","2003","Alabama","01","Assault","X85-Y09",178,2152741,8.3
+"2003","2003","Alaska","02","Intentional self-harm","X60-X84",38,341468,11.1
+"2003","2003","Alaska","02","Assault","X85-Y09",21,341468,6.1
+"2003","2003","Arizona","04","Intentional self-harm","X60-X84",143,2784865,5.1
+"2003","2003","Arizona","04","Assault","X85-Y09",206,2784865,7.4
+"2003","2003","Arkansas","05","Other external causes of accidental injury","W00-X59",12,1304911,"Unreliable"
+"2003","2003","Arkansas","05","Intentional self-harm","X60-X84",68,1304911,5.2
+"2003","2003","Arkansas","05","Assault","X85-Y09",74,1304911,5.7
+"2003","2003","California","06","Other external causes of accidental injury","W00-X59",47,18223926,0.3
+"2003","2003","California","06","Intentional self-harm","X60-X84",355,18223926,1.9
+"2003","2003","California","06","Assault","X85-Y09",1339,18223926,7.3
+"2003","2003","Colorado","08","Intentional self-harm","X60-X84",91,2284099,4
+"2003","2003","Colorado","08","Assault","X85-Y09",73,2284099,3.2
+"2003","2003","Connecticut","09","Intentional self-harm","X60-X84",15,1569472,"Unreliable"
+"2003","2003","Connecticut","09","Assault","X85-Y09",38,1569472,2.4
+"2003","2003","Delaware","10","Intentional self-harm","X60-X84",10,385747,"Unreliable"
+"2003","2003","Delaware","10","Assault","X85-Y09",13,385747,"Unreliable"
+"2003","2003","District of Columbia","11","Assault","X85-Y09",120,285332,42.1
+"2003","2003","Florida","12","Other external causes of accidental injury","W00-X59",14,7437304,"Unreliable"
+"2003","2003","Florida","12","Intentional self-harm","X60-X84",239,7437304,3.2
+"2003","2003","Florida","12","Assault","X85-Y09",410,7437304,5.5
+"2003","2003","Georgia","13","Intentional self-harm","X60-X84",177,4449827,4
+"2003","2003","Georgia","13","Assault","X85-Y09",337,4449827,7.6
+"2003","2003","Idaho","16","Intentional self-harm","X60-X84",37,705009,5.2
+"2003","2003","Idaho","16","Assault","X85-Y09",10,705009,"Unreliable"
+"2003","2003","Illinois","17","Other external causes of accidental injury","W00-X59",12,6230980,"Unreliable"
+"2003","2003","Illinois","17","Intentional self-harm","X60-X84",100,6230980,1.6
+"2003","2003","Illinois","17","Assault","X85-Y09",542,6230980,8.7
+"2003","2003","Indiana","18","Other external causes of accidental injury","W00-X59",11,3034134,"Unreliable"
+"2003","2003","Indiana","18","Intentional self-harm","X60-X84",132,3034134,4.4
+"2003","2003","Indiana","18","Assault","X85-Y09",176,3034134,5.8
+"2003","2003","Iowa","19","Intentional self-harm","X60-X84",46,1383593,3.3
+"2003","2003","Iowa","19","Assault","X85-Y09",14,1383593,"Unreliable"
+"2003","2003","Kansas","20","Intentional self-harm","X60-X84",56,1341885,4.2
+"2003","2003","Kansas","20","Assault","X85-Y09",47,1341885,3.5
+"2003","2003","Kentucky","21","Other external causes of accidental injury","W00-X59",17,1963636,"Unreliable"
+"2003","2003","Kentucky","21","Intentional self-harm","X60-X84",115,1963636,5.9
+"2003","2003","Kentucky","21","Assault","X85-Y09",61,1963636,3.1
+"2003","2003","Louisiana","22","Other external causes of accidental injury","W00-X59",25,2274408,1.1
+"2003","2003","Louisiana","22","Intentional self-harm","X60-X84",103,2274408,4.5
+"2003","2003","Louisiana","22","Assault","X85-Y09",335,2274408,14.7
+"2003","2003","Maine","23","Intentional self-harm","X60-X84",21,559935,3.8
+"2003","2003","Maryland","24","Intentional self-harm","X60-X84",68,2603693,2.6
+"2003","2003","Maryland","24","Assault","X85-Y09",294,2603693,11.3
+"2003","2003","Massachusetts","25","Intentional self-harm","X60-X84",30,2977609,1
+"2003","2003","Massachusetts","25","Assault","X85-Y09",62,2977609,2.1
+"2003","2003","Michigan","26","Intentional self-harm","X60-X84",164,4836515,3.4
+"2003","2003","Michigan","26","Assault","X85-Y09",320,4836515,6.6
+"2003","2003","Minnesota","27","Intentional self-harm","X60-X84",79,2452589,3.2
+"2003","2003","Minnesota","27","Assault","X85-Y09",48,2452589,2
+"2003","2003","Mississippi","28","Other external causes of accidental injury","W00-X59",12,1449006,"Unreliable"
+"2003","2003","Mississippi","28","Intentional self-harm","X60-X84",70,1449006,4.8
+"2003","2003","Mississippi","28","Assault","X85-Y09",114,1449006,7.9
+"2003","2003","Missouri","29","Intentional self-harm","X60-X84",96,2721658,3.5
+"2003","2003","Missouri","29","Assault","X85-Y09",140,2721658,5.1
+"2003","2003","Montana","30","Intentional self-harm","X60-X84",37,420239,8.8
+"2003","2003","Montana","30","Assault","X85-Y09",14,420239,"Unreliable"
+"2003","2003","Nebraska","31","Intentional self-harm","X60-X84",31,854141,3.6
+"2003","2003","Nebraska","31","Assault","X85-Y09",24,854141,2.8
+"2003","2003","Nevada","32","Intentional self-harm","X60-X84",65,1101016,5.9
+"2003","2003","Nevada","32","Assault","X85-Y09",74,1101016,6.7
+"2003","2003","New Hampshire","33","Intentional self-harm","X60-X84",18,578157,"Unreliable"
+"2003","2003","New Jersey","34","Intentional self-harm","X60-X84",40,3972038,1
+"2003","2003","New Jersey","34","Assault","X85-Y09",188,3972038,4.7
+"2003","2003","New Mexico","35","Other external causes of accidental injury","W00-X59",10,932220,"Unreliable"
+"2003","2003","New Mexico","35","Intentional self-harm","X60-X84",75,932220,8
+"2003","2003","New Mexico","35","Assault","X85-Y09",54,932220,5.8
+"2003","2003","New York","36","Other external causes of accidental injury","W00-X59",10,9113052,"Unreliable"
+"2003","2003","New York","36","Intentional self-harm","X60-X84",118,9113052,1.3
+"2003","2003","New York","36","Assault","X85-Y09",467,9113052,5.1
+"2003","2003","North Carolina","37","Other external causes of accidental injury","W00-X59",17,4077089,"Unreliable"
+"2003","2003","North Carolina","37","Intentional self-harm","X60-X84",169,4077089,4.1
+"2003","2003","North Carolina","37","Assault","X85-Y09",265,4077089,6.5
+"2003","2003","North Dakota","38","Intentional self-harm","X60-X84",12,305087,"Unreliable"
+"2003","2003","Ohio","39","Other external causes of accidental injury","W00-X59",10,5404742,"Unreliable"
+"2003","2003","Ohio","39","Intentional self-harm","X60-X84",162,5404742,3
+"2003","2003","Ohio","39","Assault","X85-Y09",224,5404742,4.1
+"2003","2003","Oklahoma","40","Intentional self-harm","X60-X84",84,1713077,4.9
+"2003","2003","Oklahoma","40","Assault","X85-Y09",89,1713077,5.2
+"2003","2003","Oregon","41","Intentional self-harm","X60-X84",66,1680665,3.9
+"2003","2003","Oregon","41","Assault","X85-Y09",27,1680665,1.6
+"2003","2003","Pennsylvania","42","Intentional self-harm","X60-X84",183,5529090,3.3
+"2003","2003","Pennsylvania","42","Assault","X85-Y09",335,5529090,6.1
+"2003","2003","Rhode Island","44","Assault","X85-Y09",17,497544,"Unreliable"
+"2003","2003","South Carolina","45","Other external causes of accidental injury","W00-X59",13,2002455,"Unreliable"
+"2003","2003","South Carolina","45","Intentional self-harm","X60-X84",74,2002455,3.7
+"2003","2003","South Carolina","45","Assault","X85-Y09",148,2002455,7.4
+"2003","2003","South Dakota","46","Intentional self-harm","X60-X84",23,369939,6.2
+"2003","2003","Tennessee","47","Other external causes of accidental injury","W00-X59",13,2789368,"Unreliable"
+"2003","2003","Tennessee","47","Intentional self-harm","X60-X84",143,2789368,5.1
+"2003","2003","Tennessee","47","Assault","X85-Y09",189,2789368,6.8
+"2003","2003","Texas","48","Other external causes of accidental injury","W00-X59",23,11754785,0.2
+"2003","2003","Texas","48","Intentional self-harm","X60-X84",374,11754785,3.2
+"2003","2003","Texas","48","Assault","X85-Y09",618,11754785,5.3
+"2003","2003","Utah","49","Intentional self-harm","X60-X84",70,1428379,4.9
+"2003","2003","Utah","49","Assault","X85-Y09",22,1428379,1.5
+"2003","2003","Virginia","51","Intentional self-harm","X60-X84",128,3531652,3.6
+"2003","2003","Virginia","51","Assault","X85-Y09",229,3531652,6.5
+"2003","2003","Washington","53","Intentional self-harm","X60-X84",116,2961675,3.9
+"2003","2003","Washington","53","Assault","X85-Y09",69,2961675,2.3
+"2003","2003","West Virginia","54","Intentional self-harm","X60-X84",42,789759,5.3
+"2003","2003","West Virginia","54","Assault","X85-Y09",27,789759,3.4
+"2003","2003","Wisconsin","55","Intentional self-harm","X60-X84",94,2597443,3.6
+"2003","2003","Wisconsin","55","Assault","X85-Y09",107,2597443,4.1
+"2003","2003","Wyoming","56","Intentional self-harm","X60-X84",19,239544,"Unreliable"
+"2004","2004","Alabama","01","Other external causes of accidental injury","W00-X59",17,2155356,"Unreliable"
+"2004","2004","Alabama","01","Intentional self-harm","X60-X84",102,2155356,4.7
+"2004","2004","Alabama","01","Assault","X85-Y09",151,2155356,7
+"2004","2004","Alaska","02","Intentional self-harm","X60-X84",46,345464,13.3
+"2004","2004","Alaska","02","Assault","X85-Y09",13,345464,"Unreliable"
+"2004","2004","Arizona","04","Intentional self-harm","X60-X84",145,2844080,5.1
+"2004","2004","Arizona","04","Assault","X85-Y09",220,2844080,7.7
+"2004","2004","Arkansas","05","Intentional self-harm","X60-X84",52,1313572,4
+"2004","2004","Arkansas","05","Assault","X85-Y09",66,1313572,5
+"2004","2004","California","06","Other external causes of accidental injury","W00-X59",30,18281789,0.2
+"2004","2004","California","06","Intentional self-harm","X60-X84",296,18281789,1.6
+"2004","2004","California","06","Assault","X85-Y09",1370,18281789,7.5
+"2004","2004","Colorado","08","Intentional self-harm","X60-X84",105,2291384,4.6
+"2004","2004","Colorado","08","Assault","X85-Y09",86,2291384,3.8
+"2004","2004","Connecticut","09","Intentional self-harm","X60-X84",28,1565681,1.8
+"2004","2004","Connecticut","09","Assault","X85-Y09",46,1565681,2.9
+"2004","2004","Delaware","10","Intentional self-harm","X60-X84",10,389415,"Unreliable"
+"2004","2004","Delaware","10","Assault","X85-Y09",22,389415,5.6
+"2004","2004","District of Columbia","11","Assault","X85-Y09",109,285355,38.2
+"2004","2004","Florida","12","Other external causes of accidental injury","W00-X59",12,7606293,"Unreliable"
+"2004","2004","Florida","12","Intentional self-harm","X60-X84",233,7606293,3.1
+"2004","2004","Florida","12","Assault","X85-Y09",389,7606293,5.1
+"2004","2004","Georgia","13","Other external causes of accidental injury","W00-X59",10,4508144,"Unreliable"
+"2004","2004","Georgia","13","Intentional self-harm","X60-X84",167,4508144,3.7
+"2004","2004","Georgia","13","Assault","X85-Y09",267,4508144,5.9
+"2004","2004","Idaho","16","Intentional self-harm","X60-X84",35,717202,4.9
+"2004","2004","Illinois","17","Intentional self-harm","X60-X84",105,6216584,1.7
+"2004","2004","Illinois","17","Assault","X85-Y09",438,6216584,7
+"2004","2004","Indiana","18","Other external causes of accidental injury","W00-X59",11,3039300,"Unreliable"
+"2004","2004","Indiana","18","Intentional self-harm","X60-X84",102,3039300,3.4
+"2004","2004","Indiana","18","Assault","X85-Y09",148,3039300,4.9
+"2004","2004","Iowa","19","Intentional self-harm","X60-X84",52,1383212,3.8
+"2004","2004","Iowa","19","Assault","X85-Y09",15,1383212,"Unreliable"
+"2004","2004","Kansas","20","Intentional self-harm","X60-X84",65,1342395,4.8
+"2004","2004","Kansas","20","Assault","X85-Y09",58,1342395,4.3
+"2004","2004","Kentucky","21","Intentional self-harm","X60-X84",98,1967894,5
+"2004","2004","Kentucky","21","Assault","X85-Y09",83,1967894,4.2
+"2004","2004","Louisiana","22","Other external causes of accidental injury","W00-X59",19,2280947,"Unreliable"
+"2004","2004","Louisiana","22","Intentional self-harm","X60-X84",123,2280947,5.4
+"2004","2004","Louisiana","22","Assault","X85-Y09",360,2280947,15.8
+"2004","2004","Maine","23","Intentional self-harm","X60-X84",30,558009,5.4
+"2004","2004","Maryland","24","Intentional self-harm","X60-X84",55,2615840,2.1
+"2004","2004","Maryland","24","Assault","X85-Y09",304,2615840,11.6
+"2004","2004","Massachusetts","25","Intentional self-harm","X60-X84",24,2950018,0.8
+"2004","2004","Massachusetts","25","Assault","X85-Y09",86,2950018,2.9
+"2004","2004","Michigan","26","Other external causes of accidental injury","W00-X59",11,4805306,"Unreliable"
+"2004","2004","Michigan","26","Intentional self-harm","X60-X84",143,4805306,3
+"2004","2004","Michigan","26","Assault","X85-Y09",330,4805306,6.9
+"2004","2004","Minnesota","27","Intentional self-harm","X60-X84",96,2454427,3.9
+"2004","2004","Minnesota","27","Assault","X85-Y09",61,2454427,2.5
+"2004","2004","Mississippi","28","Other external causes of accidental injury","W00-X59",10,1452225,"Unreliable"
+"2004","2004","Mississippi","28","Intentional self-harm","X60-X84",79,1452225,5.4
+"2004","2004","Mississippi","28","Assault","X85-Y09",122,1452225,8.4
+"2004","2004","Missouri","29","Intentional self-harm","X60-X84",98,2731509,3.6
+"2004","2004","Missouri","29","Assault","X85-Y09",166,2731509,6.1
+"2004","2004","Montana","30","Intentional self-harm","X60-X84",32,423281,7.6
+"2004","2004","Nebraska","31","Intentional self-harm","X60-X84",28,857315,3.3
+"2004","2004","Nebraska","31","Assault","X85-Y09",15,857315,"Unreliable"
+"2004","2004","Nevada","32","Intentional self-harm","X60-X84",45,1145985,3.9
+"2004","2004","Nevada","32","Assault","X85-Y09",83,1145985,7.2
+"2004","2004","New Jersey","34","Intentional self-harm","X60-X84",38,3968258,1
+"2004","2004","New Jersey","34","Assault","X85-Y09",195,3968258,4.9
+"2004","2004","New Mexico","35","Intentional self-harm","X60-X84",72,941117,7.7
+"2004","2004","New Mexico","35","Assault","X85-Y09",47,941117,5
+"2004","2004","New York","36","Intentional self-harm","X60-X84",114,9046557,1.3
+"2004","2004","New York","36","Assault","X85-Y09",353,9046557,3.9
+"2004","2004","North Carolina","37","Other external causes of accidental injury","W00-X59",11,4120436,"Unreliable"
+"2004","2004","North Carolina","37","Intentional self-harm","X60-X84",173,4120436,4.2
+"2004","2004","North Carolina","37","Assault","X85-Y09",248,4120436,6
+"2004","2004","North Dakota","38","Intentional self-harm","X60-X84",20,308184,6.5
+"2004","2004","Ohio","39","Other external causes of accidental injury","W00-X59",14,5380173,"Unreliable"
+"2004","2004","Ohio","39","Intentional self-harm","X60-X84",175,5380173,3.3
+"2004","2004","Ohio","39","Assault","X85-Y09",224,5380173,4.2
+"2004","2004","Oklahoma","40","Intentional self-harm","X60-X84",81,1718752,4.7
+"2004","2004","Oklahoma","40","Assault","X85-Y09",71,1718752,4.1
+"2004","2004","Oregon","41","Intentional self-harm","X60-X84",69,1674987,4.1
+"2004","2004","Oregon","41","Assault","X85-Y09",38,1674987,2.3
+"2004","2004","Pennsylvania","42","Other external causes of accidental injury","W00-X59",10,5523116,"Unreliable"
+"2004","2004","Pennsylvania","42","Intentional self-harm","X60-X84",186,5523116,3.4
+"2004","2004","Pennsylvania","42","Assault","X85-Y09",353,5523116,6.4
+"2004","2004","Rhode Island","44","Assault","X85-Y09",12,496644,"Unreliable"
+"2004","2004","South Carolina","45","Other external causes of accidental injury","W00-X59",11,2020597,"Unreliable"
+"2004","2004","South Carolina","45","Intentional self-harm","X60-X84",93,2020597,4.6
+"2004","2004","South Carolina","45","Assault","X85-Y09",125,2020597,6.2
+"2004","2004","South Dakota","46","Intentional self-harm","X60-X84",27,372047,7.3
+"2004","2004","Tennessee","47","Other external causes of accidental injury","W00-X59",18,2808933,"Unreliable"
+"2004","2004","Tennessee","47","Intentional self-harm","X60-X84",146,2808933,5.2
+"2004","2004","Tennessee","47","Assault","X85-Y09",171,2808933,6.1
+"2004","2004","Texas","48","Other external causes of accidental injury","W00-X59",26,11891977,0.2
+"2004","2004","Texas","48","Intentional self-harm","X60-X84",380,11891977,3.2
+"2004","2004","Texas","48","Assault","X85-Y09",602,11891977,5.1
+"2004","2004","Utah","49","Intentional self-harm","X60-X84",71,1448482,4.9
+"2004","2004","Utah","49","Assault","X85-Y09",15,1448482,"Unreliable"
+"2004","2004","Vermont","50","Intentional self-harm","X60-X84",12,273523,"Unreliable"
+"2004","2004","Virginia","51","Intentional self-harm","X60-X84",108,3572035,3
+"2004","2004","Virginia","51","Assault","X85-Y09",201,3572035,5.6
+"2004","2004","Washington","53","Intentional self-harm","X60-X84",96,2973929,3.2
+"2004","2004","Washington","53","Assault","X85-Y09",70,2973929,2.4
+"2004","2004","West Virginia","54","Intentional self-harm","X60-X84",51,787379,6.5
+"2004","2004","West Virginia","54","Assault","X85-Y09",22,787379,2.8
+"2004","2004","Wisconsin","55","Intentional self-harm","X60-X84",104,2597779,4
+"2004","2004","Wisconsin","55","Assault","X85-Y09",66,2597779,2.5
+"2004","2004","Wyoming","56","Intentional self-harm","X60-X84",12,241977,"Unreliable"
+"2005","2005","Alabama","01","Other external causes of accidental injury","W00-X59",18,2161230,"Unreliable"
+"2005","2005","Alabama","01","Intentional self-harm","X60-X84",91,2161230,4.2
+"2005","2005","Alabama","01","Assault","X85-Y09",196,2161230,9.1
+"2005","2005","Alaska","02","Intentional self-harm","X60-X84",38,347053,10.9
+"2005","2005","Alaska","02","Assault","X85-Y09",15,347053,"Unreliable"
+"2005","2005","Arizona","04","Intentional self-harm","X60-X84",154,2921434,5.3
+"2005","2005","Arizona","04","Assault","X85-Y09",273,2921434,9.3
+"2005","2005","Arkansas","05","Intentional self-harm","X60-X84",76,1324667,5.7
+"2005","2005","Arkansas","05","Assault","X85-Y09",102,1324667,7.7
+"2005","2005","California","06","Other external causes of accidental injury","W00-X59",82,18260392,0.4
+"2005","2005","California","06","Intentional self-harm","X60-X84",273,18260392,1.5
+"2005","2005","California","06","Assault","X85-Y09",1410,18260392,7.7
+"2005","2005","Colorado","08","Intentional self-harm","X60-X84",105,2296400,4.6
+"2005","2005","Colorado","08","Assault","X85-Y09",79,2296400,3.4
+"2005","2005","Connecticut","09","Intentional self-harm","X60-X84",19,1559294,"Unreliable"
+"2005","2005","Connecticut","09","Assault","X85-Y09",50,1559294,3.2
+"2005","2005","Delaware","10","Intentional self-harm","X60-X84",13,393326,"Unreliable"
+"2005","2005","Delaware","10","Assault","X85-Y09",24,393326,6.1
+"2005","2005","District of Columbia","11","Assault","X85-Y09",113,284257,39.8
+"2005","2005","Florida","12","Other external causes of accidental injury","W00-X59",11,7767540,"Unreliable"
+"2005","2005","Florida","12","Intentional self-harm","X60-X84",220,7767540,2.8
+"2005","2005","Florida","12","Assault","X85-Y09",420,7767540,5.4
+"2005","2005","Georgia","13","Intentional self-harm","X60-X84",144,4544909,3.2
+"2005","2005","Georgia","13","Assault","X85-Y09",276,4544909,6.1
+"2005","2005","Idaho","16","Intentional self-harm","X60-X84",44,733036,6
+"2005","2005","Idaho","16","Assault","X85-Y09",18,733036,"Unreliable"
+"2005","2005","Illinois","17","Other external causes of accidental injury","W00-X59",11,6179333,"Unreliable"
+"2005","2005","Illinois","17","Intentional self-harm","X60-X84",89,6179333,1.4
+"2005","2005","Illinois","17","Assault","X85-Y09",435,6179333,7
+"2005","2005","Indiana","18","Intentional self-harm","X60-X84",112,3045312,3.7
+"2005","2005","Indiana","18","Assault","X85-Y09",172,3045312,5.6
+"2005","2005","Iowa","19","Intentional self-harm","X60-X84",53,1382472,3.8
+"2005","2005","Iowa","19","Assault","X85-Y09",14,1382472,"Unreliable"
+"2005","2005","Kansas","20","Intentional self-harm","X60-X84",50,1339851,3.7
+"2005","2005","Kansas","20","Assault","X85-Y09",37,1339851,2.8
+"2005","2005","Kentucky","21","Intentional self-harm","X60-X84",92,1972613,4.7
+"2005","2005","Kentucky","21","Assault","X85-Y09",86,1972613,4.4
+"2005","2005","Louisiana","22","Other external causes of accidental injury","W00-X59",18,2279372,"Unreliable"
+"2005","2005","Louisiana","22","Intentional self-harm","X60-X84",125,2279372,5.5
+"2005","2005","Louisiana","22","Assault","X85-Y09",333,2279372,14.6
+"2005","2005","Maine","23","Intentional self-harm","X60-X84",19,554396,"Unreliable"
+"2005","2005","Maryland","24","Intentional self-harm","X60-X84",56,2624546,2.1
+"2005","2005","Maryland","24","Assault","X85-Y09",324,2624546,12.3
+"2005","2005","Massachusetts","25","Intentional self-harm","X60-X84",17,2919709,"Unreliable"
+"2005","2005","Massachusetts","25","Assault","X85-Y09",86,2919709,2.9
+"2005","2005","Michigan","26","Intentional self-harm","X60-X84",142,4757281,3
+"2005","2005","Michigan","26","Assault","X85-Y09",339,4757281,7.1
+"2005","2005","Minnesota","27","Intentional self-harm","X60-X84",82,2454263,3.3
+"2005","2005","Minnesota","27","Assault","X85-Y09",56,2454263,2.3
+"2005","2005","Mississippi","28","Other external causes of accidental injury","W00-X59",14,1449665,"Unreliable"
+"2005","2005","Mississippi","28","Intentional self-harm","X60-X84",68,1449665,4.7
+"2005","2005","Mississippi","28","Assault","X85-Y09",95,1449665,6.6
+"2005","2005","Missouri","29","Other external causes of accidental injury","W00-X59",13,2737351,"Unreliable"
+"2005","2005","Missouri","29","Intentional self-harm","X60-X84",98,2737351,3.6
+"2005","2005","Missouri","29","Assault","X85-Y09",186,2737351,6.8
+"2005","2005","Montana","30","Intentional self-harm","X60-X84",37,425775,8.7
+"2005","2005","Nebraska","31","Intentional self-harm","X60-X84",33,860148,3.8
+"2005","2005","Nebraska","31","Assault","X85-Y09",22,860148,2.6
+"2005","2005","Nevada","32","Intentional self-harm","X60-X84",69,1187077,5.8
+"2005","2005","Nevada","32","Assault","X85-Y09",79,1187077,6.7
+"2005","2005","New Hampshire","33","Intentional self-harm","X60-X84",12,574135,"Unreliable"
+"2005","2005","New Jersey","34","Intentional self-harm","X60-X84",29,3950627,0.7
+"2005","2005","New Jersey","34","Assault","X85-Y09",221,3950627,5.6
+"2005","2005","New Mexico","35","Intentional self-harm","X60-X84",48,947916,5.1
+"2005","2005","New Mexico","35","Assault","X85-Y09",45,947916,4.7
+"2005","2005","New York","36","Other external causes of accidental injury","W00-X59",16,8954165,"Unreliable"
+"2005","2005","New York","36","Intentional self-harm","X60-X84",105,8954165,1.2
+"2005","2005","New York","36","Assault","X85-Y09",373,8954165,4.2
+"2005","2005","North Carolina","37","Other external causes of accidental injury","W00-X59",15,4161828,"Unreliable"
+"2005","2005","North Carolina","37","Intentional self-harm","X60-X84",158,4161828,3.8
+"2005","2005","North Carolina","37","Assault","X85-Y09",283,4161828,6.8
+"2005","2005","North Dakota","38","Intentional self-harm","X60-X84",23,307681,7.5
+"2005","2005","Ohio","39","Other external causes of accidental injury","W00-X59",15,5344634,"Unreliable"
+"2005","2005","Ohio","39","Intentional self-harm","X60-X84",149,5344634,2.8
+"2005","2005","Ohio","39","Assault","X85-Y09",281,5344634,5.3
+"2005","2005","Oklahoma","40","Intentional self-harm","X60-X84",91,1723898,5.3
+"2005","2005","Oklahoma","40","Assault","X85-Y09",88,1723898,5.1
+"2005","2005","Oregon","41","Intentional self-harm","X60-X84",74,1680590,4.4
+"2005","2005","Oregon","41","Assault","X85-Y09",27,1680590,1.6
+"2005","2005","Pennsylvania","42","Other external causes of accidental injury","W00-X59",11,5511502,"Unreliable"
+"2005","2005","Pennsylvania","42","Intentional self-harm","X60-X84",170,5511502,3.1
+"2005","2005","Pennsylvania","42","Assault","X85-Y09",398,5511502,7.2
+"2005","2005","Rhode Island","44","Assault","X85-Y09",16,489210,"Unreliable"
+"2005","2005","South Carolina","45","Other external causes of accidental injury","W00-X59",20,2032034,1
+"2005","2005","South Carolina","45","Intentional self-harm","X60-X84",93,2032034,4.6
+"2005","2005","South Carolina","45","Assault","X85-Y09",130,2032034,6.4
+"2005","2005","South Dakota","46","Intentional self-harm","X60-X84",29,372945,7.8
+"2005","2005","Tennessee","47","Other external causes of accidental injury","W00-X59",16,2830698,"Unreliable"
+"2005","2005","Tennessee","47","Intentional self-harm","X60-X84",136,2830698,4.8
+"2005","2005","Tennessee","47","Assault","X85-Y09",224,2830698,7.9
+"2005","2005","Texas","48","Other external causes of accidental injury","W00-X59",32,12022993,0.3
+"2005","2005","Texas","48","Intentional self-harm","X60-X84",385,12022993,3.2
+"2005","2005","Texas","48","Assault","X85-Y09",657,12022993,5.5
+"2005","2005","Utah","49","Intentional self-harm","X60-X84",71,1474553,4.8
+"2005","2005","Utah","49","Assault","X85-Y09",21,1474553,1.4
+"2005","2005","Virginia","51","Intentional self-harm","X60-X84",137,3603238,3.8
+"2005","2005","Virginia","51","Assault","X85-Y09",245,3603238,6.8
+"2005","2005","Washington","53","Intentional self-harm","X60-X84",106,2984670,3.6
+"2005","2005","Washington","53","Assault","X85-Y09",92,2984670,3.1
+"2005","2005","West Virginia","54","Intentional self-harm","X60-X84",45,784011,5.7
+"2005","2005","West Virginia","54","Assault","X85-Y09",28,784011,3.6
+"2005","2005","Wisconsin","55","Intentional self-harm","X60-X84",95,2593601,3.7
+"2005","2005","Wisconsin","55","Assault","X85-Y09",107,2593601,4.1
+"2005","2005","Wyoming","56","Intentional self-harm","X60-X84",16,243359,"Unreliable"
+"2006","2006","Alabama","01","Other external causes of accidental injury","W00-X59",17,2176973,"Unreliable"
+"2006","2006","Alabama","01","Intentional self-harm","X60-X84",111,2176973,5.1
+"2006","2006","Alabama","01","Assault","X85-Y09",208,2176973,9.6
+"2006","2006","Alaska","02","Intentional self-harm","X60-X84",32,349737,9.1
+"2006","2006","Alaska","02","Assault","X85-Y09",20,349737,5.7
+"2006","2006","Arizona","04","Intentional self-harm","X60-X84",156,3005267,5.2
+"2006","2006","Arizona","04","Assault","X85-Y09",271,3005267,9
+"2006","2006","Arkansas","05","Intentional self-harm","X60-X84",53,1337856,4
+"2006","2006","Arkansas","05","Assault","X85-Y09",94,1337856,7
+"2006","2006","California","06","Other external causes of accidental injury","W00-X59",50,18241759,0.3
+"2006","2006","California","06","Intentional self-harm","X60-X84",299,18241759,1.6
+"2006","2006","California","06","Assault","X85-Y09",1419,18241759,7.8
+"2006","2006","Colorado","08","Intentional self-harm","X60-X84",108,2322633,4.6
+"2006","2006","Colorado","08","Assault","X85-Y09",72,2322633,3.1
+"2006","2006","Connecticut","09","Intentional self-harm","X60-X84",18,1553540,"Unreliable"
+"2006","2006","Connecticut","09","Assault","X85-Y09",70,1553540,4.5
+"2006","2006","Delaware","10","Assault","X85-Y09",26,396361,6.6
+"2006","2006","District of Columbia","11","Assault","X85-Y09",97,287644,33.7
+"2006","2006","Florida","12","Other external causes of accidental injury","W00-X59",18,7897459,"Unreliable"
+"2006","2006","Florida","12","Intentional self-harm","X60-X84",236,7897459,3
+"2006","2006","Florida","12","Assault","X85-Y09",520,7897459,6.6
+"2006","2006","Georgia","13","Other external causes of accidental injury","W00-X59",11,4634025,"Unreliable"
+"2006","2006","Georgia","13","Intentional self-harm","X60-X84",138,4634025,3
+"2006","2006","Georgia","13","Assault","X85-Y09",328,4634025,7.1
+"2006","2006","Idaho","16","Intentional self-harm","X60-X84",47,749876,6.3
+"2006","2006","Idaho","16","Assault","X85-Y09",13,749876,"Unreliable"
+"2006","2006","Illinois","17","Other external causes of accidental injury","W00-X59",10,6157781,"Unreliable"
+"2006","2006","Illinois","17","Intentional self-harm","X60-X84",87,6157781,1.4
+"2006","2006","Illinois","17","Assault","X85-Y09",498,6157781,8.1
+"2006","2006","Indiana","18","Other external causes of accidental injury","W00-X59",12,3054091,"Unreliable"
+"2006","2006","Indiana","18","Intentional self-harm","X60-X84",113,3054091,3.7
+"2006","2006","Indiana","18","Assault","X85-Y09",176,3054091,5.8
+"2006","2006","Iowa","19","Intentional self-harm","X60-X84",41,1386043,3
+"2006","2006","Iowa","19","Assault","X85-Y09",24,1386043,1.7
+"2006","2006","Kansas","20","Intentional self-harm","X60-X84",69,1344845,5.1
+"2006","2006","Kansas","20","Assault","X85-Y09",50,1344845,3.7
+"2006","2006","Kentucky","21","Intentional self-harm","X60-X84",90,1971393,4.6
+"2006","2006","Kentucky","21","Assault","X85-Y09",60,1971393,3
+"2006","2006","Louisiana","22","Other external causes of accidental injury","W00-X59",20,2098703,1
+"2006","2006","Louisiana","22","Intentional self-harm","X60-X84",105,2098703,5
+"2006","2006","Louisiana","22","Assault","X85-Y09",312,2098703,14.9
+"2006","2006","Maine","23","Intentional self-harm","X60-X84",14,550058,"Unreliable"
+"2006","2006","Maryland","24","Intentional self-harm","X60-X84",66,2629450,2.5
+"2006","2006","Maryland","24","Assault","X85-Y09",309,2629450,11.8
+"2006","2006","Massachusetts","25","Intentional self-harm","X60-X84",22,2905746,0.8
+"2006","2006","Massachusetts","25","Assault","X85-Y09",88,2905746,3
+"2006","2006","Michigan","26","Intentional self-harm","X60-X84",127,4698145,2.7
+"2006","2006","Michigan","26","Assault","X85-Y09",353,4698145,7.5
+"2006","2006","Minnesota","27","Intentional self-harm","X60-X84",59,2461528,2.4
+"2006","2006","Minnesota","27","Assault","X85-Y09",58,2461528,2.4
+"2006","2006","Mississippi","28","Other external causes of accidental injury","W00-X59",16,1436871,"Unreliable"
+"2006","2006","Mississippi","28","Intentional self-harm","X60-X84",55,1436871,3.8
+"2006","2006","Mississippi","28","Assault","X85-Y09",139,1436871,9.7
+"2006","2006","Missouri","29","Other external causes of accidental injury","W00-X59",10,2748051,"Unreliable"
+"2006","2006","Missouri","29","Intentional self-harm","X60-X84",107,2748051,3.9
+"2006","2006","Missouri","29","Assault","X85-Y09",203,2748051,7.4
+"2006","2006","Montana","30","Intentional self-harm","X60-X84",34,428834,7.9
+"2006","2006","Nebraska","31","Intentional self-harm","X60-X84",29,862394,3.4
+"2006","2006","Nebraska","31","Assault","X85-Y09",22,862394,2.6
+"2006","2006","Nevada","32","Intentional self-harm","X60-X84",67,1232009,5.4
+"2006","2006","Nevada","32","Assault","X85-Y09",85,1232009,6.9
+"2006","2006","New Hampshire","33","Intentional self-harm","X60-X84",16,571180,"Unreliable"
+"2006","2006","New Jersey","34","Intentional self-harm","X60-X84",32,3927284,0.8
+"2006","2006","New Jersey","34","Assault","X85-Y09",237,3927284,6
+"2006","2006","New Mexico","35","Intentional self-harm","X60-X84",58,954597,6.1
+"2006","2006","New Mexico","35","Assault","X85-Y09",50,954597,5.2
+"2006","2006","New York","36","Intentional self-harm","X60-X84",109,8887594,1.2
+"2006","2006","New York","36","Assault","X85-Y09",438,8887594,4.9
+"2006","2006","North Carolina","37","Intentional self-harm","X60-X84",171,4235621,4
+"2006","2006","North Carolina","37","Assault","X85-Y09",277,4235621,6.5
+"2006","2006","North Dakota","38","Intentional self-harm","X60-X84",20,308861,6.5
+"2006","2006","Ohio","39","Other external causes of accidental injury","W00-X59",16,5308513,"Unreliable"
+"2006","2006","Ohio","39","Intentional self-harm","X60-X84",169,5308513,3.2
+"2006","2006","Ohio","39","Assault","X85-Y09",300,5308513,5.7
+"2006","2006","Oklahoma","40","Intentional self-harm","X60-X84",79,1739780,4.5
+"2006","2006","Oklahoma","40","Assault","X85-Y09",103,1739780,5.9
+"2006","2006","Oregon","41","Intentional self-harm","X60-X84",78,1696138,4.6
+"2006","2006","Oregon","41","Assault","X85-Y09",35,1696138,2.1
+"2006","2006","Pennsylvania","42","Other external causes of accidental injury","W00-X59",19,5512177,"Unreliable"
+"2006","2006","Pennsylvania","42","Intentional self-harm","X60-X84",182,5512177,3.3
+"2006","2006","Pennsylvania","42","Assault","X85-Y09",442,5512177,8
+"2006","2006","Rhode Island","44","Assault","X85-Y09",16,483011,"Unreliable"
+"2006","2006","South Carolina","45","Intentional self-harm","X60-X84",68,2055753,3.3
+"2006","2006","South Carolina","45","Assault","X85-Y09",183,2055753,8.9
+"2006","2006","South Dakota","46","Intentional self-harm","X60-X84",20,374673,5.3
+"2006","2006","Tennessee","47","Other external causes of accidental injury","W00-X59",15,2852277,"Unreliable"
+"2006","2006","Tennessee","47","Intentional self-harm","X60-X84",130,2852277,4.6
+"2006","2006","Tennessee","47","Assault","X85-Y09",193,2852277,6.8
+"2006","2006","Texas","48","Other external causes of accidental injury","W00-X59",27,12272524,0.2
+"2006","2006","Texas","48","Intentional self-harm","X60-X84",348,12272524,2.8
+"2006","2006","Texas","48","Assault","X85-Y09",680,12272524,5.5
+"2006","2006","Utah","49","Intentional self-harm","X60-X84",69,1508123,4.6
+"2006","2006","Utah","49","Assault","X85-Y09",14,1508123,"Unreliable"
+"2006","2006","Virginia","51","Intentional self-harm","X60-X84",106,3631855,2.9
+"2006","2006","Virginia","51","Assault","X85-Y09",179,3631855,4.9
+"2006","2006","Washington","53","Intentional self-harm","X60-X84",105,3021860,3.5
+"2006","2006","Washington","53","Assault","X85-Y09",78,3021860,2.6
+"2006","2006","West Virginia","54","Intentional self-harm","X60-X84",31,780518,4
+"2006","2006","West Virginia","54","Assault","X85-Y09",30,780518,3.8
+"2006","2006","Wisconsin","55","Intentional self-harm","X60-X84",66,2591494,2.5
+"2006","2006","Wisconsin","55","Assault","X85-Y09",81,2591494,3.1
+"2006","2006","Wyoming","56","Intentional self-harm","X60-X84",19,246971,"Unreliable"
+"2007","2007","Alabama","01","Other external causes of accidental injury","W00-X59",10,2188944,"Unreliable"
+"2007","2007","Alabama","01","Intentional self-harm","X60-X84",104,2188944,4.8
+"2007","2007","Alabama","01","Assault","X85-Y09",239,2188944,10.9
+"2007","2007","Alaska","02","Intentional self-harm","X60-X84",37,350885,10.5
+"2007","2007","Alaska","02","Assault","X85-Y09",14,350885,"Unreliable"
+"2007","2007","Arizona","04","Other external causes of accidental injury","W00-X59",10,3064992,"Unreliable"
+"2007","2007","Arizona","04","Intentional self-harm","X60-X84",177,3064992,5.8
+"2007","2007","Arizona","04","Assault","X85-Y09",253,3064992,8.3
+"2007","2007","Arkansas","05","Intentional self-harm","X60-X84",60,1346422,4.5
+"2007","2007","Arkansas","05","Assault","X85-Y09",92,1346422,6.8
+"2007","2007","California","06","Other external causes of accidental injury","W00-X59",23,18258305,0.1
+"2007","2007","California","06","Intentional self-harm","X60-X84",293,18258305,1.6
+"2007","2007","California","06","Assault","X85-Y09",1268,18258305,6.9
+"2007","2007","Colorado","08","Intentional self-harm","X60-X84",100,2350172,4.3
+"2007","2007","Colorado","08","Assault","X85-Y09",58,2350172,2.5
+"2007","2007","Connecticut","09","Intentional self-harm","X60-X84",11,1551323,"Unreliable"
+"2007","2007","Connecticut","09","Assault","X85-Y09",41,1551323,2.6
+"2007","2007","Delaware","10","Assault","X85-Y09",21,400275,5.2
+"2007","2007","District of Columbia","11","Assault","X85-Y09",104,290530,35.8
+"2007","2007","Florida","12","Intentional self-harm","X60-X84",250,7956390,3.1
+"2007","2007","Florida","12","Assault","X85-Y09",587,7956390,7.4
+"2007","2007","Georgia","13","Other external causes of accidental injury","W00-X59",16,4705616,"Unreliable"
+"2007","2007","Georgia","13","Intentional self-harm","X60-X84",145,4705616,3.1
+"2007","2007","Georgia","13","Assault","X85-Y09",353,4705616,7.5
+"2007","2007","Idaho","16","Intentional self-harm","X60-X84",48,767737,6.3
+"2007","2007","Idaho","16","Assault","X85-Y09",16,767737,"Unreliable"
+"2007","2007","Illinois","17","Other external causes of accidental injury","W00-X59",10,6154111,"Unreliable"
+"2007","2007","Illinois","17","Intentional self-harm","X60-X84",106,6154111,1.7
+"2007","2007","Illinois","17","Assault","X85-Y09",470,6154111,7.6
+"2007","2007","Indiana","18","Intentional self-harm","X60-X84",106,3063324,3.5
+"2007","2007","Indiana","18","Assault","X85-Y09",173,3063324,5.6
+"2007","2007","Iowa","19","Intentional self-harm","X60-X84",29,1391864,2.1
+"2007","2007","Kansas","20","Intentional self-harm","X60-X84",66,1353051,4.9
+"2007","2007","Kansas","20","Assault","X85-Y09",57,1353051,4.2
+"2007","2007","Kentucky","21","Intentional self-harm","X60-X84",116,1982035,5.9
+"2007","2007","Kentucky","21","Assault","X85-Y09",79,1982035,4
+"2007","2007","Louisiana","22","Other external causes of accidental injury","W00-X59",18,2139073,"Unreliable"
+"2007","2007","Louisiana","22","Intentional self-harm","X60-X84",112,2139073,5.2
+"2007","2007","Louisiana","22","Assault","X85-Y09",331,2139073,15.5
+"2007","2007","Maine","23","Intentional self-harm","X60-X84",21,546239,3.8
+"2007","2007","Maryland","24","Intentional self-harm","X60-X84",59,2631347,2.2
+"2007","2007","Maryland","24","Assault","X85-Y09",333,2631347,12.7
+"2007","2007","Massachusetts","25","Intentional self-harm","X60-X84",23,2903404,0.8
+"2007","2007","Massachusetts","25","Assault","X85-Y09",91,2903404,3.1
+"2007","2007","Michigan","26","Intentional self-harm","X60-X84",127,4635358,2.7
+"2007","2007","Michigan","26","Assault","X85-Y09",348,4635358,7.5
+"2007","2007","Minnesota","27","Intentional self-harm","X60-X84",80,2475920,3.2
+"2007","2007","Minnesota","27","Assault","X85-Y09",49,2475920,2
+"2007","2007","Mississippi","28","Other external causes of accidental injury","W00-X59",19,1443392,"Unreliable"
+"2007","2007","Mississippi","28","Intentional self-harm","X60-X84",82,1443392,5.7
+"2007","2007","Mississippi","28","Assault","X85-Y09",136,1443392,9.4
+"2007","2007","Missouri","29","Intentional self-harm","X60-X84",106,2760600,3.8
+"2007","2007","Missouri","29","Assault","X85-Y09",171,2760600,6.2
+"2007","2007","Montana","30","Intentional self-harm","X60-X84",27,432469,6.2
+"2007","2007","Nebraska","31","Intentional self-harm","X60-X84",25,865558,2.9
+"2007","2007","Nebraska","31","Assault","X85-Y09",24,865558,2.8
+"2007","2007","Nevada","32","Intentional self-harm","X60-X84",54,1270609,4.2
+"2007","2007","Nevada","32","Assault","X85-Y09",95,1270609,7.5
+"2007","2007","New Jersey","34","Intentional self-harm","X60-X84",35,3918168,0.9
+"2007","2007","New Jersey","34","Assault","X85-Y09",218,3918168,5.6
+"2007","2007","New Mexico","35","Intentional self-harm","X60-X84",57,963380,5.9
+"2007","2007","New Mexico","35","Assault","X85-Y09",47,963380,4.9
+"2007","2007","New York","36","Intentional self-harm","X60-X84",94,8874691,1.1
+"2007","2007","New York","36","Assault","X85-Y09",377,8874691,4.2
+"2007","2007","North Carolina","37","Other external causes of accidental injury","W00-X59",21,4304551,0.5
+"2007","2007","North Carolina","37","Intentional self-harm","X60-X84",141,4304551,3.3
+"2007","2007","North Carolina","37","Assault","X85-Y09",297,4304551,6.9
+"2007","2007","North Dakota","38","Intentional self-harm","X60-X84",22,310037,7.1
+"2007","2007","Ohio","39","Intentional self-harm","X60-X84",168,5286114,3.2
+"2007","2007","Ohio","39","Assault","X85-Y09",284,5286114,5.4
+"2007","2007","Oklahoma","40","Intentional self-harm","X60-X84",76,1758616,4.3
+"2007","2007","Oklahoma","40","Assault","X85-Y09",93,1758616,5.3
+"2007","2007","Oregon","41","Intentional self-harm","X60-X84",75,1714382,4.4
+"2007","2007","Oregon","41","Assault","X85-Y09",23,1714382,1.3
+"2007","2007","Pennsylvania","42","Other external causes of accidental injury","W00-X59",15,5518970,"Unreliable"
+"2007","2007","Pennsylvania","42","Intentional self-harm","X60-X84",162,5518970,2.9
+"2007","2007","Pennsylvania","42","Assault","X85-Y09",386,5518970,7
+"2007","2007","South Carolina","45","Intentional self-harm","X60-X84",73,2085838,3.5
+"2007","2007","South Carolina","45","Assault","X85-Y09",172,2085838,8.2
+"2007","2007","South Dakota","46","Intentional self-harm","X60-X84",16,378215,"Unreliable"
+"2007","2007","Tennessee","47","Intentional self-harm","X60-X84",120,2882053,4.2
+"2007","2007","Tennessee","47","Assault","X85-Y09",220,2882053,7.6
+"2007","2007","Texas","48","Other external causes of accidental injury","W00-X59",43,12468979,0.3
+"2007","2007","Texas","48","Intentional self-harm","X60-X84",396,12468979,3.2
+"2007","2007","Texas","48","Assault","X85-Y09",675,12468979,5.4
+"2007","2007","Utah","49","Intentional self-harm","X60-X84",63,1549804,4.1
+"2007","2007","Utah","49","Assault","X85-Y09",29,1549804,1.9
+"2007","2007","Vermont","50","Intentional self-harm","X60-X84",11,266836,"Unreliable"
+"2007","2007","Virginia","51","Intentional self-harm","X60-X84",103,3654052,2.8
+"2007","2007","Virginia","51","Assault","X85-Y09",200,3654052,5.5
+"2007","2007","Washington","53","Intentional self-harm","X60-X84",99,3050910,3.2
+"2007","2007","Washington","53","Assault","X85-Y09",80,3050910,2.6
+"2007","2007","West Virginia","54","Intentional self-harm","X60-X84",48,778138,6.2
+"2007","2007","West Virginia","54","Assault","X85-Y09",25,778138,3.2
+"2007","2007","Wisconsin","55","Intentional self-harm","X60-X84",88,2595793,3.4
+"2007","2007","Wisconsin","55","Assault","X85-Y09",102,2595793,3.9
+"2007","2007","Wyoming","56","Intentional self-harm","X60-X84",23,253805,9.1
+"2008","2008","Alabama","01","Other external causes of accidental injury","W00-X59",20,2204134,0.9
+"2008","2008","Alabama","01","Intentional self-harm","X60-X84",113,2204134,5.1
+"2008","2008","Alabama","01","Assault","X85-Y09",218,2204134,9.9
+"2008","2008","Alaska","02","Intentional self-harm","X60-X84",47,353708,13.3
+"2008","2008","Arizona","04","Intentional self-harm","X60-X84",131,3108760,4.2
+"2008","2008","Arizona","04","Assault","X85-Y09",214,3108760,6.9
+"2008","2008","Arkansas","05","Intentional self-harm","X60-X84",79,1355500,5.8
+"2008","2008","Arkansas","05","Assault","X85-Y09",78,1355500,5.8
+"2008","2008","California","06","Other external causes of accidental injury","W00-X59",21,18361271,0.1
+"2008","2008","California","06","Intentional self-harm","X60-X84",280,18361271,1.5
+"2008","2008","California","06","Assault","X85-Y09",1143,18361271,6.2
+"2008","2008","Colorado","08","Intentional self-harm","X60-X84",92,2385437,3.9
+"2008","2008","Colorado","08","Assault","X85-Y09",65,2385437,2.7
+"2008","2008","Connecticut","09","Intentional self-harm","X60-X84",18,1556085,"Unreliable"
+"2008","2008","Connecticut","09","Assault","X85-Y09",71,1556085,4.6
+"2008","2008","Delaware","10","Intentional self-harm","X60-X84",11,404083,"Unreliable"
+"2008","2008","Delaware","10","Assault","X85-Y09",39,404083,9.7
+"2008","2008","District of Columbia","11","Assault","X85-Y09",93,296113,31.4
+"2008","2008","Florida","12","Other external causes of accidental injury","W00-X59",14,7986027,"Unreliable"
+"2008","2008","Florida","12","Intentional self-harm","X60-X84",268,7986027,3.4
+"2008","2008","Florida","12","Assault","X85-Y09",587,7986027,7.4
+"2008","2008","Georgia","13","Other external causes of accidental injury","W00-X59",10,4758560,"Unreliable"
+"2008","2008","Georgia","13","Intentional self-harm","X60-X84",169,4758560,3.6
+"2008","2008","Georgia","13","Assault","X85-Y09",327,4758560,6.9
+"2008","2008","Idaho","16","Intentional self-harm","X60-X84",39,781684,5
+"2008","2008","Illinois","17","Intentional self-harm","X60-X84",94,6156638,1.5
+"2008","2008","Illinois","17","Assault","X85-Y09",485,6156638,7.9
+"2008","2008","Indiana","18","Intentional self-harm","X60-X84",100,3076185,3.3
+"2008","2008","Indiana","18","Assault","X85-Y09",174,3076185,5.7
+"2008","2008","Iowa","19","Intentional self-harm","X60-X84",51,1401593,3.6
+"2008","2008","Iowa","19","Assault","X85-Y09",22,1401593,1.6
+"2008","2008","Kansas","20","Intentional self-harm","X60-X84",56,1367893,4.1
+"2008","2008","Kansas","20","Assault","X85-Y09",52,1367893,3.8
+"2008","2008","Kentucky","21","Intentional self-harm","X60-X84",79,1988482,4
+"2008","2008","Kentucky","21","Assault","X85-Y09",82,1988482,4.1
+"2008","2008","Louisiana","22","Other external causes of accidental injury","W00-X59",17,2170633,"Unreliable"
+"2008","2008","Louisiana","22","Intentional self-harm","X60-X84",116,2170633,5.3
+"2008","2008","Louisiana","22","Assault","X85-Y09",310,2170633,14.3
+"2008","2008","Maine","23","Intentional self-harm","X60-X84",19,543392,"Unreliable"
+"2008","2008","Maryland","24","Intentional self-harm","X60-X84",55,2638480,2.1
+"2008","2008","Maryland","24","Assault","X85-Y09",276,2638480,10.5
+"2008","2008","Massachusetts","25","Intentional self-harm","X60-X84",24,2914503,0.8
+"2008","2008","Massachusetts","25","Assault","X85-Y09",81,2914503,2.8
+"2008","2008","Michigan","26","Intentional self-harm","X60-X84",137,4569782,3
+"2008","2008","Michigan","26","Assault","X85-Y09",323,4569782,7.1
+"2008","2008","Minnesota","27","Intentional self-harm","X60-X84",78,2490279,3.1
+"2008","2008","Minnesota","27","Assault","X85-Y09",51,2490279,2
+"2008","2008","Mississippi","28","Other external causes of accidental injury","W00-X59",12,1447534,"Unreliable"
+"2008","2008","Mississippi","28","Intentional self-harm","X60-X84",77,1447534,5.3
+"2008","2008","Mississippi","28","Assault","X85-Y09",160,1447534,11.1
+"2008","2008","Missouri","29","Other external causes of accidental injury","W00-X59",14,2770575,"Unreliable"
+"2008","2008","Missouri","29","Intentional self-harm","X60-X84",115,2770575,4.2
+"2008","2008","Missouri","29","Assault","X85-Y09",228,2770575,8.2
+"2008","2008","Montana","30","Intentional self-harm","X60-X84",51,437331,11.7
+"2008","2008","Nebraska","31","Intentional self-harm","X60-X84",30,872255,3.4
+"2008","2008","Nebraska","31","Assault","X85-Y09",38,872255,4.4
+"2008","2008","Nevada","32","Intentional self-harm","X60-X84",61,1293800,4.7
+"2008","2008","Nevada","32","Assault","X85-Y09",65,1293800,5
+"2008","2008","New Hampshire","33","Intentional self-harm","X60-X84",17,562535,"Unreliable"
+"2008","2008","New Jersey","34","Intentional self-harm","X60-X84",28,3924161,0.7
+"2008","2008","New Jersey","34","Assault","X85-Y09",193,3924161,4.9
+"2008","2008","New Mexico","35","Intentional self-harm","X60-X84",55,969380,5.7
+"2008","2008","New Mexico","35","Assault","X85-Y09",55,969380,5.7
+"2008","2008","New York","36","Intentional self-harm","X60-X84",99,8907478,1.1
+"2008","2008","New York","36","Assault","X85-Y09",369,8907478,4.1
+"2008","2008","North Carolina","37","Intentional self-harm","X60-X84",171,4386619,3.9
+"2008","2008","North Carolina","37","Assault","X85-Y09",294,4386619,6.7
+"2008","2008","North Dakota","38","Intentional self-harm","X60-X84",14,312428,"Unreliable"
+"2008","2008","Ohio","39","Intentional self-harm","X60-X84",178,5270418,3.4
+"2008","2008","Ohio","39","Assault","X85-Y09",269,5270418,5.1
+"2008","2008","Oklahoma","40","Intentional self-harm","X60-X84",94,1773796,5.3
+"2008","2008","Oklahoma","40","Assault","X85-Y09",92,1773796,5.2
+"2008","2008","Oregon","41","Intentional self-harm","X60-X84",69,1732363,4
+"2008","2008","Oregon","41","Assault","X85-Y09",29,1732363,1.7
+"2008","2008","Pennsylvania","42","Other external causes of accidental injury","W00-X59",10,5533813,"Unreliable"
+"2008","2008","Pennsylvania","42","Intentional self-harm","X60-X84",171,5533813,3.1
+"2008","2008","Pennsylvania","42","Assault","X85-Y09",364,5533813,6.6
+"2008","2008","Rhode Island","44","Assault","X85-Y09",13,475396,"Unreliable"
+"2008","2008","South Carolina","45","Intentional self-harm","X60-X84",86,2117255,4.1
+"2008","2008","South Carolina","45","Assault","X85-Y09",157,2117255,7.4
+"2008","2008","South Dakota","46","Intentional self-harm","X60-X84",26,381585,6.8
+"2008","2008","Tennessee","47","Intentional self-harm","X60-X84",133,2899811,4.6
+"2008","2008","Tennessee","47","Assault","X85-Y09",207,2899811,7.1
+"2008","2008","Texas","48","Other external causes of accidental injury","W00-X59",23,12683347,0.2
+"2008","2008","Texas","48","Intentional self-harm","X60-X84",406,12683347,3.2
+"2008","2008","Texas","48","Assault","X85-Y09",655,12683347,5.2
+"2008","2008","Utah","49","Intentional self-harm","X60-X84",76,1586203,4.8
+"2008","2008","Utah","49","Assault","X85-Y09",12,1586203,"Unreliable"
+"2008","2008","Vermont","50","Intentional self-harm","X60-X84",11,265458,"Unreliable"
+"2008","2008","Virginia","51","Intentional self-harm","X60-X84",137,3682137,3.7
+"2008","2008","Virginia","51","Assault","X85-Y09",171,3682137,4.6
+"2008","2008","Washington","53","Intentional self-harm","X60-X84",111,3101732,3.6
+"2008","2008","Washington","53","Assault","X85-Y09",83,3101732,2.7
+"2008","2008","West Virginia","54","Other external causes of accidental injury","W00-X59",10,776911,"Unreliable"
+"2008","2008","West Virginia","54","Intentional self-harm","X60-X84",33,776911,4.2
+"2008","2008","West Virginia","54","Assault","X85-Y09",16,776911,"Unreliable"
+"2008","2008","Wisconsin","55","Intentional self-harm","X60-X84",80,2602976,3.1
+"2008","2008","Wisconsin","55","Assault","X85-Y09",55,2602976,2.1
+"2008","2008","Wyoming","56","Intentional self-harm","X60-X84",21,259930,8.1
+"2009","2009","Alabama","01","Other external causes of accidental injury","W00-X59",15,2216627,"Unreliable"
+"2009","2009","Alabama","01","Intentional self-harm","X60-X84",106,2216627,4.8
+"2009","2009","Alabama","01","Assault","X85-Y09",179,2216627,8.1
+"2009","2009","Alaska","02","Intentional self-harm","X60-X84",40,357938,11.2
+"2009","2009","Alaska","02","Assault","X85-Y09",11,357938,"Unreliable"
+"2009","2009","Arizona","04","Intentional self-harm","X60-X84",139,3116075,4.5
+"2009","2009","Arizona","04","Assault","X85-Y09",133,3116075,4.3
+"2009","2009","Arkansas","05","Intentional self-harm","X60-X84",80,1363972,5.9
+"2009","2009","Arkansas","05","Assault","X85-Y09",93,1363972,6.8
+"2009","2009","California","06","Other external causes of accidental injury","W00-X59",22,18456405,0.1
+"2009","2009","California","06","Intentional self-harm","X60-X84",306,18456405,1.7
+"2009","2009","California","06","Assault","X85-Y09",1063,18456405,5.8
+"2009","2009","Colorado","08","Intentional self-harm","X60-X84",121,2417770,5
+"2009","2009","Colorado","08","Assault","X85-Y09",59,2417770,2.4
+"2009","2009","Connecticut","09","Intentional self-harm","X60-X84",20,1561297,1.3
+"2009","2009","Connecticut","09","Assault","X85-Y09",56,1561297,3.6
+"2009","2009","Delaware","10","Assault","X85-Y09",28,406696,6.9
+"2009","2009","District of Columbia","11","Assault","X85-Y09",81,305267,26.5
+"2009","2009","Florida","12","Intentional self-harm","X60-X84",273,7997020,3.4
+"2009","2009","Florida","12","Assault","X85-Y09",521,7997020,6.5
+"2009","2009","Georgia","13","Other external causes of accidental injury","W00-X59",13,4791665,"Unreliable"
+"2009","2009","Georgia","13","Intentional self-harm","X60-X84",181,4791665,3.8
+"2009","2009","Georgia","13","Assault","X85-Y09",275,4791665,5.7
+"2009","2009","Idaho","16","Intentional self-harm","X60-X84",39,788976,4.9
+"2009","2009","Illinois","17","Other external causes of accidental injury","W00-X59",10,6157881,"Unreliable"
+"2009","2009","Illinois","17","Intentional self-harm","X60-X84",103,6157881,1.7
+"2009","2009","Illinois","17","Assault","X85-Y09",476,6157881,7.7
+"2009","2009","Indiana","18","Other external causes of accidental injury","W00-X59",11,3083698,"Unreliable"
+"2009","2009","Indiana","18","Intentional self-harm","X60-X84",107,3083698,3.5
+"2009","2009","Indiana","18","Assault","X85-Y09",159,3083698,5.2
+"2009","2009","Iowa","19","Intentional self-harm","X60-X84",39,1410821,2.8
+"2009","2009","Kansas","20","Intentional self-harm","X60-X84",62,1381703,4.5
+"2009","2009","Kansas","20","Assault","X85-Y09",64,1381703,4.6
+"2009","2009","Kentucky","21","Intentional self-harm","X60-X84",107,1997034,5.4
+"2009","2009","Kentucky","21","Assault","X85-Y09",72,1997034,3.6
+"2009","2009","Louisiana","22","Other external causes of accidental injury","W00-X59",15,2200917,"Unreliable"
+"2009","2009","Louisiana","22","Intentional self-harm","X60-X84",93,2200917,4.2
+"2009","2009","Louisiana","22","Assault","X85-Y09",304,2200917,13.8
+"2009","2009","Maine","23","Intentional self-harm","X60-X84",11,539202,"Unreliable"
+"2009","2009","Maryland","24","Intentional self-harm","X60-X84",69,2655895,2.6
+"2009","2009","Maryland","24","Assault","X85-Y09",211,2655895,7.9
+"2009","2009","Massachusetts","25","Intentional self-harm","X60-X84",13,2934433,"Unreliable"
+"2009","2009","Massachusetts","25","Assault","X85-Y09",86,2934433,2.9
+"2009","2009","Michigan","26","Intentional self-harm","X60-X84",128,4513525,2.8
+"2009","2009","Michigan","26","Assault","X85-Y09",310,4513525,6.9
+"2009","2009","Minnesota","27","Intentional self-harm","X60-X84",71,2499777,2.8
+"2009","2009","Minnesota","27","Assault","X85-Y09",27,2499777,1.1
+"2009","2009","Mississippi","28","Other external causes of accidental injury","W00-X59",10,1448866,"Unreliable"
+"2009","2009","Mississippi","28","Intentional self-harm","X60-X84",56,1448866,3.9
+"2009","2009","Mississippi","28","Assault","X85-Y09",117,1448866,8.1
+"2009","2009","Missouri","29","Intentional self-harm","X60-X84",122,2782908,4.4
+"2009","2009","Missouri","29","Assault","X85-Y09",233,2782908,8.4
+"2009","2009","Montana","30","Intentional self-harm","X60-X84",34,439791,7.7
+"2009","2009","Nebraska","31","Intentional self-harm","X60-X84",27,880419,3.1
+"2009","2009","Nebraska","31","Assault","X85-Y09",18,880419,"Unreliable"
+"2009","2009","Nevada","32","Intentional self-harm","X60-X84",67,1301175,5.1
+"2009","2009","Nevada","32","Assault","X85-Y09",53,1301175,4.1
+"2009","2009","New Hampshire","33","Intentional self-harm","X60-X84",23,557819,4.1
+"2009","2009","New Jersey","34","Intentional self-harm","X60-X84",32,3933756,0.8
+"2009","2009","New Jersey","34","Assault","X85-Y09",175,3933756,4.4
+"2009","2009","New Mexico","35","Intentional self-harm","X60-X84",60,979940,6.1
+"2009","2009","New Mexico","35","Assault","X85-Y09",57,979940,5.8
+"2009","2009","New York","36","Intentional self-harm","X60-X84",88,8946846,1
+"2009","2009","New York","36","Assault","X85-Y09",371,8946846,4.1
+"2009","2009","North Carolina","37","Intentional self-harm","X60-X84",144,4440315,3.2
+"2009","2009","North Carolina","37","Assault","X85-Y09",249,4440315,5.6
+"2009","2009","North Dakota","38","Intentional self-harm","X60-X84",23,316909,7.3
+"2009","2009","Ohio","39","Intentional self-harm","X60-X84",136,5256727,2.6
+"2009","2009","Ohio","39","Assault","X85-Y09",242,5256727,4.6
+"2009","2009","Oklahoma","40","Intentional self-harm","X60-X84",96,1800778,5.3
+"2009","2009","Oklahoma","40","Assault","X85-Y09",91,1800778,5.1
+"2009","2009","Oregon","41","Intentional self-harm","X60-X84",77,1746134,4.4
+"2009","2009","Oregon","41","Assault","X85-Y09",25,1746134,1.4
+"2009","2009","Pennsylvania","42","Other external causes of accidental injury","W00-X59",11,5556125,"Unreliable"
+"2009","2009","Pennsylvania","42","Intentional self-harm","X60-X84",171,5556125,3.1
+"2009","2009","Pennsylvania","42","Assault","X85-Y09",340,5556125,6.1
+"2009","2009","Rhode Island","44","Intentional self-harm","X60-X84",10,472915,"Unreliable"
+"2009","2009","Rhode Island","44","Assault","X85-Y09",14,472915,"Unreliable"
+"2009","2009","South Carolina","45","Other external causes of accidental injury","W00-X59",10,2138863,"Unreliable"
+"2009","2009","South Carolina","45","Intentional self-harm","X60-X84",102,2138863,4.8
+"2009","2009","South Carolina","45","Assault","X85-Y09",156,2138863,7.3
+"2009","2009","South Dakota","46","Intentional self-harm","X60-X84",24,386193,6.2
+"2009","2009","Tennessee","47","Intentional self-harm","X60-X84",138,2918100,4.7
+"2009","2009","Tennessee","47","Assault","X85-Y09",200,2918100,6.9
+"2009","2009","Texas","48","Other external causes of accidental injury","W00-X59",33,12907536,0.3
+"2009","2009","Texas","48","Intentional self-harm","X60-X84",409,12907536,3.2
+"2009","2009","Texas","48","Assault","X85-Y09",631,12907536,4.9
+"2009","2009","Utah","49","Intentional self-harm","X60-X84",77,1617873,4.8
+"2009","2009","Utah","49","Assault","X85-Y09",15,1617873,"Unreliable"
+"2009","2009","Vermont","50","Intentional self-harm","X60-X84",12,264453,"Unreliable"
+"2009","2009","Virginia","51","Intentional self-harm","X60-X84",124,3717367,3.3
+"2009","2009","Virginia","51","Assault","X85-Y09",180,3717367,4.8
+"2009","2009","Washington","53","Intentional self-harm","X60-X84",110,3149778,3.5
+"2009","2009","Washington","53","Assault","X85-Y09",73,3149778,2.3
+"2009","2009","West Virginia","54","Intentional self-harm","X60-X84",54,778195,6.9
+"2009","2009","West Virginia","54","Assault","X85-Y09",27,778195,3.5
+"2009","2009","Wisconsin","55","Intentional self-harm","X60-X84",78,2609893,3
+"2009","2009","Wisconsin","55","Assault","X85-Y09",63,2609893,2.4
+"2009","2009","Wyoming","56","Intentional self-harm","X60-X84",24,268610,8.9
+"2010","2010","Alabama","01","Other external causes of accidental injury","W00-X59",18,2220556,"Unreliable"
+"2010","2010","Alabama","01","Intentional self-harm","X60-X84",118,2220556,5.3
+"2010","2010","Alabama","01","Assault","X85-Y09",170,2220556,7.7
+"2010","2010","Alaska","02","Intentional self-harm","X60-X84",49,365384,13.4
+"2010","2010","Alaska","02","Assault","X85-Y09",17,365384,"Unreliable"
+"2010","2010","Arizona","04","Intentional self-harm","X60-X84",151,3118918,4.8
+"2010","2010","Arizona","04","Assault","X85-Y09",169,3118918,5.4
+"2010","2010","Arkansas","05","Intentional self-harm","X60-X84",69,1371472,5
+"2010","2010","Arkansas","05","Assault","X85-Y09",67,1371472,4.9
+"2010","2010","California","06","Other external causes of accidental injury","W00-X59",16,18535868,"Unreliable"
+"2010","2010","California","06","Intentional self-harm","X60-X84",294,18535868,1.6
+"2010","2010","California","06","Assault","X85-Y09",984,18535868,5.3
+"2010","2010","Colorado","08","Intentional self-harm","X60-X84",127,2439585,5.2
+"2010","2010","Colorado","08","Assault","X85-Y09",54,2439585,2.2
+"2010","2010","Connecticut","09","Intentional self-harm","X60-X84",21,1564051,1.3
+"2010","2010","Connecticut","09","Assault","X85-Y09",72,1564051,4.6
+"2010","2010","Delaware","10","Intentional self-harm","X60-X84",11,408087,"Unreliable"
+"2010","2010","Delaware","10","Assault","X85-Y09",33,408087,8.1
+"2010","2010","District of Columbia","11","Assault","X85-Y09",66,312575,21.1
+"2010","2010","Florida","12","Intentional self-harm","X60-X84",247,8031293,3.1
+"2010","2010","Florida","12","Assault","X85-Y09",470,8031293,5.9
+"2010","2010","Georgia","13","Other external causes of accidental injury","W00-X59",18,4797269,"Unreliable"
+"2010","2010","Georgia","13","Intentional self-harm","X60-X84",180,4797269,3.8
+"2010","2010","Georgia","13","Assault","X85-Y09",284,4797269,5.9
+"2010","2010","Idaho","16","Intentional self-harm","X60-X84",47,792455,5.9
+"2010","2010","Illinois","17","Other external causes of accidental injury","W00-X59",10,6151443,"Unreliable"
+"2010","2010","Illinois","17","Intentional self-harm","X60-X84",101,6151443,1.6
+"2010","2010","Illinois","17","Assault","X85-Y09",459,6151443,7.5
+"2010","2010","Indiana","18","Other external causes of accidental injury","W00-X59",12,3085953,"Unreliable"
+"2010","2010","Indiana","18","Intentional self-harm","X60-X84",104,3085953,3.4
+"2010","2010","Indiana","18","Assault","X85-Y09",144,3085953,4.7
+"2010","2010","Iowa","19","Intentional self-harm","X60-X84",45,1416443,3.2
+"2010","2010","Iowa","19","Assault","X85-Y09",17,1416443,"Unreliable"
+"2010","2010","Kansas","20","Intentional self-harm","X60-X84",62,1392818,4.5
+"2010","2010","Kansas","20","Assault","X85-Y09",43,1392818,3.1
+"2010","2010","Kentucky","21","Other external causes of accidental injury","W00-X59",11,2002388,"Unreliable"
+"2010","2010","Kentucky","21","Intentional self-harm","X60-X84",85,2002388,4.2
+"2010","2010","Kentucky","21","Assault","X85-Y09",60,2002388,3
+"2010","2010","Louisiana","22","Other external causes of accidental injury","W00-X59",18,2220979,"Unreliable"
+"2010","2010","Louisiana","22","Intentional self-harm","X60-X84",110,2220979,5
+"2010","2010","Louisiana","22","Assault","X85-Y09",296,2220979,13.3
+"2010","2010","Maine","23","Intentional self-harm","X60-X84",22,535229,4.1
+"2010","2010","Maryland","24","Intentional self-harm","X60-X84",52,2672366,1.9
+"2010","2010","Maryland","24","Assault","X85-Y09",226,2672366,8.5
+"2010","2010","Massachusetts","25","Intentional self-harm","X60-X84",34,2941952,1.2
+"2010","2010","Massachusetts","25","Assault","X85-Y09",105,2941952,3.6
+"2010","2010","Michigan","26","Other external causes of accidental injury","W00-X59",10,4482106,"Unreliable"
+"2010","2010","Michigan","26","Intentional self-harm","X60-X84",156,4482106,3.5
+"2010","2010","Michigan","26","Assault","X85-Y09",292,4482106,6.5
+"2010","2010","Minnesota","27","Intentional self-harm","X60-X84",79,2502448,3.2
+"2010","2010","Minnesota","27","Assault","X85-Y09",48,2502448,1.9
+"2010","2010","Mississippi","28","Intentional self-harm","X60-X84",61,1447642,4.2
+"2010","2010","Mississippi","28","Assault","X85-Y09",130,1447642,9
+"2010","2010","Missouri","29","Intentional self-harm","X60-X84",122,2790167,4.4
+"2010","2010","Missouri","29","Assault","X85-Y09",229,2790167,8.2
+"2010","2010","Montana","30","Intentional self-harm","X60-X84",43,441038,9.7
+"2010","2010","Nebraska","31","Intentional self-harm","X60-X84",22,886924,2.5
+"2010","2010","Nebraska","31","Assault","X85-Y09",31,886924,3.5
+"2010","2010","Nevada","32","Intentional self-harm","X60-X84",58,1301123,4.5
+"2010","2010","Nevada","32","Assault","X85-Y09",49,1301123,3.8
+"2010","2010","New Hampshire","33","Intentional self-harm","X60-X84",24,554820,4.3
+"2010","2010","New Jersey","34","Intentional self-harm","X60-X84",26,3942243,0.7
+"2010","2010","New Jersey","34","Assault","X85-Y09",207,3942243,5.3
+"2010","2010","New Mexico","35","Intentional self-harm","X60-X84",61,989456,6.2
+"2010","2010","New Mexico","35","Assault","X85-Y09",43,989456,4.3
+"2010","2010","New York","36","Intentional self-harm","X60-X84",77,8967783,0.9
+"2010","2010","New York","36","Assault","X85-Y09",405,8967783,4.5
+"2010","2010","North Carolina","37","Other external causes of accidental injury","W00-X59",17,4466846,"Unreliable"
+"2010","2010","North Carolina","37","Intentional self-harm","X60-X84",176,4466846,3.9
+"2010","2010","North Carolina","37","Assault","X85-Y09",241,4466846,5.4
+"2010","2010","North Dakota","38","Intentional self-harm","X60-X84",19,321376,"Unreliable"
+"2010","2010","Ohio","39","Intentional self-harm","X60-X84",191,5240201,3.6
+"2010","2010","Ohio","39","Assault","X85-Y09",270,5240201,5.2
+"2010","2010","Oklahoma","40","Intentional self-harm","X60-X84",109,1817607,6
+"2010","2010","Oklahoma","40","Assault","X85-Y09",92,1817607,5.1
+"2010","2010","Oregon","41","Intentional self-harm","X60-X84",69,1749375,3.9
+"2010","2010","Oregon","41","Assault","X85-Y09",30,1749375,1.7
+"2010","2010","Pennsylvania","42","Other external causes of accidental injury","W00-X59",18,5564655,"Unreliable"
+"2010","2010","Pennsylvania","42","Intentional self-harm","X60-X84",193,5564655,3.5
+"2010","2010","Pennsylvania","42","Assault","X85-Y09",345,5564655,6.2
+"2010","2010","Rhode Island","44","Assault","X85-Y09",14,470887,"Unreliable"
+"2010","2010","South Carolina","45","Other external causes of accidental injury","W00-X59",11,2148975,"Unreliable"
+"2010","2010","South Carolina","45","Intentional self-harm","X60-X84",101,2148975,4.7
+"2010","2010","South Carolina","45","Assault","X85-Y09",148,2148975,6.9
+"2010","2010","South Dakota","46","Intentional self-harm","X60-X84",21,389765,5.4
+"2010","2010","Tennessee","47","Other external causes of accidental injury","W00-X59",13,2926362,"Unreliable"
+"2010","2010","Tennessee","47","Intentional self-harm","X60-X84",149,2926362,5.1
+"2010","2010","Tennessee","47","Assault","X85-Y09",169,2926362,5.8
+"2010","2010","Texas","48","Other external causes of accidental injury","W00-X59",31,13052266,0.2
+"2010","2010","Texas","48","Intentional self-harm","X60-X84",464,13052266,3.6
+"2010","2010","Texas","48","Assault","X85-Y09",570,13052266,4.4
+"2010","2010","Utah","49","Intentional self-harm","X60-X84",113,1634743,6.9
+"2010","2010","Utah","49","Assault","X85-Y09",14,1634743,"Unreliable"
+"2010","2010","Vermont","50","Intentional self-harm","X60-X84",14,263728,"Unreliable"
+"2010","2010","Virginia","51","Intentional self-harm","X60-X84",126,3746195,3.4
+"2010","2010","Virginia","51","Assault","X85-Y09",162,3746195,4.3
+"2010","2010","Washington","53","Intentional self-harm","X60-X84",122,3165188,3.9
+"2010","2010","Washington","53","Assault","X85-Y09",77,3165188,2.4
+"2010","2010","West Virginia","54","Intentional self-harm","X60-X84",48,777115,6.2
+"2010","2010","West Virginia","54","Assault","X85-Y09",24,777115,3.1
+"2010","2010","Wisconsin","55","Intentional self-harm","X60-X84",107,2610442,4.1
+"2010","2010","Wisconsin","55","Assault","X85-Y09",77,2610442,2.9
+"2010","2010","Wyoming","56","Intentional self-harm","X60-X84",27,269480,10
+"2011","2011","Alabama","01","Other external causes of accidental injury","W00-X59",11,2226530,"Unreliable"
+"2011","2011","Alabama","01","Intentional self-harm","X60-X84",114,2226530,5.1
+"2011","2011","Alabama","01","Assault","X85-Y09",188,2226530,8.4
+"2011","2011","Alaska","02","Intentional self-harm","X60-X84",44,372056,11.8
+"2011","2011","Alaska","02","Assault","X85-Y09",10,372056,"Unreliable"
+"2011","2011","Arizona","04","Intentional self-harm","X60-X84",182,3140342,5.8
+"2011","2011","Arizona","04","Assault","X85-Y09",153,3140342,4.9
+"2011","2011","Arkansas","05","Intentional self-harm","X60-X84",75,1377896,5.4
+"2011","2011","Arkansas","05","Assault","X85-Y09",92,1377896,6.7
+"2011","2011","California","06","Other external causes of accidental injury","W00-X59",17,18659123,"Unreliable"
+"2011","2011","California","06","Intentional self-harm","X60-X84",304,18659123,1.6
+"2011","2011","California","06","Assault","X85-Y09",921,18659123,4.9
+"2011","2011","Colorado","08","Intentional self-harm","X60-X84",117,2476859,4.7
+"2011","2011","Colorado","08","Assault","X85-Y09",65,2476859,2.6
+"2011","2011","Connecticut","09","Intentional self-harm","X60-X84",20,1562279,1.3
+"2011","2011","Connecticut","09","Assault","X85-Y09",78,1562279,5
+"2011","2011","Delaware","10","Intentional self-harm","X60-X84",13,410645,"Unreliable"
+"2011","2011","Delaware","10","Assault","X85-Y09",17,410645,"Unreliable"
+"2011","2011","District of Columbia","11","Assault","X85-Y09",63,322791,19.5
+"2011","2011","Florida","12","Other external causes of accidental injury","W00-X59",18,8109724,"Unreliable"
+"2011","2011","Florida","12","Intentional self-harm","X60-X84",286,8109724,3.5
+"2011","2011","Florida","12","Assault","X85-Y09",507,8109724,6.3
+"2011","2011","Georgia","13","Other external causes of accidental injury","W00-X59",11,4843520,"Unreliable"
+"2011","2011","Georgia","13","Intentional self-harm","X60-X84",186,4843520,3.8
+"2011","2011","Georgia","13","Assault","X85-Y09",260,4843520,5.4
+"2011","2011","Hawaii","15","Intentional self-harm","X60-X84",16,629143,"Unreliable"
+"2011","2011","Idaho","16","Intentional self-harm","X60-X84",44,795495,5.5
+"2011","2011","Idaho","16","Assault","X85-Y09",13,795495,"Unreliable"
+"2011","2011","Illinois","17","Intentional self-harm","X60-X84",118,6136388,1.9
+"2011","2011","Illinois","17","Assault","X85-Y09",479,6136388,7.8
+"2011","2011","Indiana","18","Other external causes of accidental injury","W00-X59",10,3090210,"Unreliable"
+"2011","2011","Indiana","18","Intentional self-harm","X60-X84",110,3090210,3.6
+"2011","2011","Indiana","18","Assault","X85-Y09",125,3090210,4
+"2011","2011","Iowa","19","Intentional self-harm","X60-X84",57,1423258,4
+"2011","2011","Iowa","19","Assault","X85-Y09",15,1423258,"Unreliable"
+"2011","2011","Kansas","20","Intentional self-harm","X60-X84",72,1400229,5.1
+"2011","2011","Kansas","20","Assault","X85-Y09",53,1400229,3.8
+"2011","2011","Kentucky","21","Intentional self-harm","X60-X84",106,2009453,5.3
+"2011","2011","Kentucky","21","Assault","X85-Y09",69,2009453,3.4
+"2011","2011","Louisiana","22","Other external causes of accidental injury","W00-X59",20,2237268,0.9
+"2011","2011","Louisiana","22","Intentional self-harm","X60-X84",117,2237268,5.2
+"2011","2011","Louisiana","22","Assault","X85-Y09",307,2237268,13.7
+"2011","2011","Maine","23","Intentional self-harm","X60-X84",20,531619,3.8
+"2011","2011","Maryland","24","Intentional self-harm","X60-X84",57,2691461,2.1
+"2011","2011","Maryland","24","Assault","X85-Y09",212,2691461,7.9
+"2011","2011","Massachusetts","25","Intentional self-harm","X60-X84",21,2952658,0.7
+"2011","2011","Massachusetts","25","Assault","X85-Y09",92,2952658,3.1
+"2011","2011","Michigan","26","Intentional self-harm","X60-X84",158,4458673,3.5
+"2011","2011","Michigan","26","Assault","X85-Y09",324,4458673,7.3
+"2011","2011","Minnesota","27","Intentional self-harm","X60-X84",84,2511644,3.3
+"2011","2011","Minnesota","27","Assault","X85-Y09",39,2511644,1.6
+"2011","2011","Mississippi","28","Other external causes of accidental injury","W00-X59",19,1449421,"Unreliable"
+"2011","2011","Mississippi","28","Intentional self-harm","X60-X84",65,1449421,4.5
+"2011","2011","Mississippi","28","Assault","X85-Y09",138,1449421,9.5
+"2011","2011","Missouri","29","Other external causes of accidental injury","W00-X59",13,2791881,"Unreliable"
+"2011","2011","Missouri","29","Intentional self-harm","X60-X84",118,2791881,4.2
+"2011","2011","Missouri","29","Assault","X85-Y09",191,2791881,6.8
+"2011","2011","Montana","30","Intentional self-harm","X60-X84",49,444637,11
+"2011","2011","Nebraska","31","Intentional self-harm","X60-X84",30,894587,3.4
+"2011","2011","Nebraska","31","Assault","X85-Y09",27,894587,3
+"2011","2011","Nevada","32","Intentional self-harm","X60-X84",69,1303860,5.3
+"2011","2011","Nevada","32","Assault","X85-Y09",54,1303860,4.1
+"2011","2011","New Hampshire","33","Intentional self-harm","X60-X84",19,551788,"Unreliable"
+"2011","2011","New Jersey","34","Intentional self-harm","X60-X84",42,3939930,1.1
+"2011","2011","New Jersey","34","Assault","X85-Y09",215,3939930,5.5
+"2011","2011","New Mexico","35","Intentional self-harm","X60-X84",68,1000411,6.8
+"2011","2011","New Mexico","35","Assault","X85-Y09",46,1000411,4.6
+"2011","2011","New York","36","Intentional self-harm","X60-X84",120,8985892,1.3
+"2011","2011","New York","36","Assault","X85-Y09",341,8985892,3.8
+"2011","2011","North Carolina","37","Other external causes of accidental injury","W00-X59",20,4503990,0.4
+"2011","2011","North Carolina","37","Intentional self-harm","X60-X84",187,4503990,4.2
+"2011","2011","North Carolina","37","Assault","X85-Y09",236,4503990,5.2
+"2011","2011","North Dakota","38","Intentional self-harm","X60-X84",11,329442,"Unreliable"
+"2011","2011","Ohio","39","Intentional self-harm","X60-X84",192,5222038,3.7
+"2011","2011","Ohio","39","Assault","X85-Y09",302,5222038,5.8
+"2011","2011","Oklahoma","40","Intentional self-harm","X60-X84",123,1839948,6.7
+"2011","2011","Oklahoma","40","Assault","X85-Y09",93,1839948,5.1
+"2011","2011","Oregon","41","Intentional self-harm","X60-X84",86,1758815,4.9
+"2011","2011","Oregon","41","Assault","X85-Y09",34,1758815,1.9
+"2011","2011","Pennsylvania","42","Other external causes of accidental injury","W00-X59",11,5574564,"Unreliable"
+"2011","2011","Pennsylvania","42","Intentional self-harm","X60-X84",219,5574564,3.9
+"2011","2011","Pennsylvania","42","Assault","X85-Y09",368,5574564,6.6
+"2011","2011","Rhode Island","44","Assault","X85-Y09",11,469448,"Unreliable"
+"2011","2011","South Carolina","45","Other external causes of accidental injury","W00-X59",10,2162788,"Unreliable"
+"2011","2011","South Carolina","45","Intentional self-harm","X60-X84",110,2162788,5.1
+"2011","2011","South Carolina","45","Assault","X85-Y09",155,2162788,7.2
+"2011","2011","South Dakota","46","Intentional self-harm","X60-X84",13,394406,"Unreliable"
+"2011","2011","Tennessee","47","Intentional self-harm","X60-X84",133,2941419,4.5
+"2011","2011","Tennessee","47","Assault","X85-Y09",176,2941419,6
+"2011","2011","Texas","48","Other external causes of accidental injury","W00-X59",31,13285901,0.2
+"2011","2011","Texas","48","Intentional self-harm","X60-X84",456,13285901,3.4
+"2011","2011","Texas","48","Assault","X85-Y09",509,13285901,3.8
+"2011","2011","Utah","49","Intentional self-harm","X60-X84",85,1654101,5.1
+"2011","2011","Utah","49","Assault","X85-Y09",12,1654101,"Unreliable"
+"2011","2011","Vermont","50","Intentional self-harm","X60-X84",17,262734,"Unreliable"
+"2011","2011","Virginia","51","Intentional self-harm","X60-X84",151,3787205,4
+"2011","2011","Virginia","51","Assault","X85-Y09",142,3787205,3.7
+"2011","2011","Washington","53","Intentional self-harm","X60-X84",130,3209693,4.1
+"2011","2011","Washington","53","Assault","X85-Y09",50,3209693,1.6
+"2011","2011","West Virginia","54","Intentional self-harm","X60-X84",42,777114,5.4
+"2011","2011","West Virginia","54","Assault","X85-Y09",29,777114,3.7
+"2011","2011","Wisconsin","55","Intentional self-harm","X60-X84",109,2613040,4.2
+"2011","2011","Wisconsin","55","Assault","X85-Y09",60,2613040,2.3
+"2011","2011","Wyoming","56","Intentional self-harm","X60-X84",25,271162,9.2
+"2011","2011","Wyoming","56","Assault","X85-Y09",10,271162,"Unreliable"
+"2012","2012","Alabama","01","Intentional self-harm","X60-X84",109,2227104,4.9
+"2012","2012","Alabama","01","Assault","X85-Y09",185,2227104,8.3
+"2012","2012","Alaska","02","Intentional self-harm","X60-X84",43,377877,11.4
+"2012","2012","Arizona","04","Intentional self-harm","X60-X84",173,3151676,5.5
+"2012","2012","Arizona","04","Assault","X85-Y09",151,3151676,4.8
+"2012","2012","Arkansas","05","Intentional self-harm","X60-X84",87,1381806,6.3
+"2012","2012","Arkansas","05","Assault","X85-Y09",93,1381806,6.7
+"2012","2012","California","06","Other external causes of accidental injury","W00-X59",19,18744102,"Unreliable"
+"2012","2012","California","06","Intentional self-harm","X60-X84",297,18744102,1.6
+"2012","2012","California","06","Assault","X85-Y09",948,18744102,5.1
+"2012","2012","Colorado","08","Intentional self-harm","X60-X84",149,2499698,6
+"2012","2012","Colorado","08","Assault","X85-Y09",72,2499698,2.9
+"2012","2012","Connecticut","09","Intentional self-harm","X60-X84",22,1565176,1.4
+"2012","2012","Connecticut","09","Assault","X85-Y09",84,1565176,5.4
+"2012","2012","Delaware","10","Intentional self-harm","X60-X84",16,415009,"Unreliable"
+"2012","2012","Delaware","10","Assault","X85-Y09",34,415009,8.2
+"2012","2012","District of Columbia","11","Assault","X85-Y09",44,331894,13.3
+"2012","2012","Florida","12","Intentional self-harm","X60-X84",288,8194699,3.5
+"2012","2012","Florida","12","Assault","X85-Y09",491,8194699,6
+"2012","2012","Georgia","13","Other external causes of accidental injury","W00-X59",13,4873014,"Unreliable"
+"2012","2012","Georgia","13","Intentional self-harm","X60-X84",185,4873014,3.8
+"2012","2012","Georgia","13","Assault","X85-Y09",301,4873014,6.2
+"2012","2012","Idaho","16","Intentional self-harm","X60-X84",56,794027,7.1
+"2012","2012","Illinois","17","Other external causes of accidental injury","W00-X59",11,6105038,"Unreliable"
+"2012","2012","Illinois","17","Intentional self-harm","X60-X84",104,6105038,1.7
+"2012","2012","Illinois","17","Assault","X85-Y09",496,6105038,8.1
+"2012","2012","Indiana","18","Intentional self-harm","X60-X84",131,3089960,4.2
+"2012","2012","Indiana","18","Assault","X85-Y09",158,3089960,5.1
+"2012","2012","Iowa","19","Intentional self-harm","X60-X84",50,1427443,3.5
+"2012","2012","Iowa","19","Assault","X85-Y09",21,1427443,1.5
+"2012","2012","Kansas","20","Intentional self-harm","X60-X84",92,1408697,6.5
+"2012","2012","Kansas","20","Assault","X85-Y09",38,1408697,2.7
+"2012","2012","Kentucky","21","Intentional self-harm","X60-X84",133,2009787,6.6
+"2012","2012","Kentucky","21","Assault","X85-Y09",80,2009787,4
+"2012","2012","Louisiana","22","Other external causes of accidental injury","W00-X59",19,2246616,"Unreliable"
+"2012","2012","Louisiana","22","Intentional self-harm","X60-X84",96,2246616,4.3
+"2012","2012","Louisiana","22","Assault","X85-Y09",312,2246616,13.9
+"2012","2012","Maine","23","Intentional self-harm","X60-X84",23,529710,4.3
+"2012","2012","Maryland","24","Intentional self-harm","X60-X84",53,2713642,2
+"2012","2012","Maryland","24","Assault","X85-Y09",205,2713642,7.6
+"2012","2012","Massachusetts","25","Intentional self-harm","X60-X84",28,2978487,0.9
+"2012","2012","Massachusetts","25","Assault","X85-Y09",60,2978487,2
+"2012","2012","Michigan","26","Intentional self-harm","X60-X84",157,4443575,3.5
+"2012","2012","Michigan","26","Assault","X85-Y09",387,4443575,8.7
+"2012","2012","Minnesota","27","Intentional self-harm","X60-X84",71,2519619,2.8
+"2012","2012","Minnesota","27","Assault","X85-Y09",41,2519619,1.6
+"2012","2012","Mississippi","28","Intentional self-harm","X60-X84",73,1445063,5.1
+"2012","2012","Mississippi","28","Assault","X85-Y09",126,1445063,8.7
+"2012","2012","Missouri","29","Intentional self-harm","X60-X84",141,2788740,5.1
+"2012","2012","Missouri","29","Assault","X85-Y09",217,2788740,7.8
+"2012","2012","Montana","30","Intentional self-harm","X60-X84",44,446761,9.8
+"2012","2012","Nebraska","31","Intentional self-harm","X60-X84",31,901099,3.4
+"2012","2012","Nebraska","31","Assault","X85-Y09",33,901099,3.7
+"2012","2012","Nevada","32","Intentional self-harm","X60-X84",64,1310466,4.9
+"2012","2012","Nevada","32","Assault","X85-Y09",47,1310466,3.6
+"2012","2012","New Hampshire","33","Intentional self-harm","X60-X84",19,549917,"Unreliable"
+"2012","2012","New Jersey","34","Intentional self-harm","X60-X84",26,3945696,0.7
+"2012","2012","New Jersey","34","Assault","X85-Y09",200,3945696,5.1
+"2012","2012","New Mexico","35","Intentional self-harm","X60-X84",63,998937,6.3
+"2012","2012","New Mexico","35","Assault","X85-Y09",46,998937,4.6
+"2012","2012","New York","36","Intentional self-harm","X60-X84",124,9017886,1.4
+"2012","2012","New York","36","Assault","X85-Y09",330,9017886,3.7
+"2012","2012","North Carolina","37","Other external causes of accidental injury","W00-X59",14,4526124,"Unreliable"
+"2012","2012","North Carolina","37","Intentional self-harm","X60-X84",170,4526124,3.8
+"2012","2012","North Carolina","37","Assault","X85-Y09",257,4526124,5.7
+"2012","2012","North Dakota","38","Intentional self-harm","X60-X84",21,340948,6.2
+"2012","2012","Ohio","39","Intentional self-harm","X60-X84",174,5206862,3.3
+"2012","2012","Ohio","39","Assault","X85-Y09",284,5206862,5.5
+"2012","2012","Oklahoma","40","Intentional self-harm","X60-X84",123,1849763,6.6
+"2012","2012","Oklahoma","40","Assault","X85-Y09",111,1849763,6
+"2012","2012","Oregon","41","Intentional self-harm","X60-X84",94,1758709,5.3
+"2012","2012","Oregon","41","Assault","X85-Y09",33,1758709,1.9
+"2012","2012","Pennsylvania","42","Other external causes of accidental injury","W00-X59",25,5579685,0.4
+"2012","2012","Pennsylvania","42","Intentional self-harm","X60-X84",196,5579685,3.5
+"2012","2012","Pennsylvania","42","Assault","X85-Y09",377,5579685,6.8
+"2012","2012","Rhode Island","44","Assault","X85-Y09",11,468119,"Unreliable"
+"2012","2012","South Carolina","45","Other external causes of accidental injury","W00-X59",11,2171909,"Unreliable"
+"2012","2012","South Carolina","45","Intentional self-harm","X60-X84",97,2171909,4.5
+"2012","2012","South Carolina","45","Assault","X85-Y09",169,2171909,7.8
+"2012","2012","South Dakota","46","Intentional self-harm","X60-X84",19,398053,"Unreliable"
+"2012","2012","Tennessee","47","Other external causes of accidental injury","W00-X59",11,2962310,"Unreliable"
+"2012","2012","Tennessee","47","Intentional self-harm","X60-X84",132,2962310,4.5
+"2012","2012","Tennessee","47","Assault","X85-Y09",214,2962310,7.2
+"2012","2012","Texas","48","Other external causes of accidental injury","W00-X59",22,13432954,0.2
+"2012","2012","Texas","48","Intentional self-harm","X60-X84",489,13432954,3.6
+"2012","2012","Texas","48","Assault","X85-Y09",552,13432954,4.1
+"2012","2012","Utah","49","Intentional self-harm","X60-X84",94,1660007,5.7
+"2012","2012","Utah","49","Assault","X85-Y09",17,1660007,"Unreliable"
+"2012","2012","Vermont","50","Intentional self-harm","X60-X84",16,261335,"Unreliable"
+"2012","2012","Virginia","51","Intentional self-harm","X60-X84",158,3823201,4.1
+"2012","2012","Virginia","51","Assault","X85-Y09",142,3823201,3.7
+"2012","2012","Washington","53","Intentional self-harm","X60-X84",148,3228706,4.6
+"2012","2012","Washington","53","Assault","X85-Y09",74,3228706,2.3
+"2012","2012","West Virginia","54","Intentional self-harm","X60-X84",47,775400,6.1
+"2012","2012","West Virginia","54","Assault","X85-Y09",28,775400,3.6
+"2012","2012","Wisconsin","55","Intentional self-harm","X60-X84",101,2606099,3.9
+"2012","2012","Wisconsin","55","Assault","X85-Y09",83,2606099,3.2
+"2012","2012","Wyoming","56","Intentional self-harm","X60-X84",36,274733,13.1
+"2013","2013","Alabama","01","Other external causes of accidental injury","W00-X59",11,2218183,"Unreliable"
+"2013","2013","Alabama","01","Intentional self-harm","X60-X84",126,2218183,5.7
+"2013","2013","Alabama","01","Assault","X85-Y09",190,2218183,8.6
+"2013","2013","Alaska","02","Intentional self-harm","X60-X84",65,385287,16.9
+"2013","2013","Alaska","02","Assault","X85-Y09",12,385287,"Unreliable"
+"2013","2013","Arizona","04","Intentional self-harm","X60-X84",144,3164920,4.5
+"2013","2013","Arizona","04","Assault","X85-Y09",138,3164920,4.4
+"2013","2013","Arkansas","05","Intentional self-harm","X60-X84",83,1382221,6
+"2013","2013","Arkansas","05","Assault","X85-Y09",92,1382221,6.7
+"2013","2013","California","06","Other external causes of accidental injury","W00-X59",18,18775779,"Unreliable"
+"2013","2013","California","06","Intentional self-harm","X60-X84",328,18775779,1.7
+"2013","2013","California","06","Assault","X85-Y09",888,18775779,4.7
+"2013","2013","Colorado","08","Intentional self-harm","X60-X84",131,2532909,5.2
+"2013","2013","Colorado","08","Assault","X85-Y09",57,2532909,2.3
+"2013","2013","Connecticut","09","Intentional self-harm","X60-X84",20,1569050,1.3
+"2013","2013","Connecticut","09","Assault","X85-Y09",52,1569050,3.3
+"2013","2013","Delaware","10","Assault","X85-Y09",25,415712,6
+"2013","2013","District of Columbia","11","Assault","X85-Y09",51,338340,15.1
+"2013","2013","Florida","12","Intentional self-harm","X60-X84",298,8265122,3.6
+"2013","2013","Florida","12","Assault","X85-Y09",524,8265122,6.3
+"2013","2013","Georgia","13","Intentional self-harm","X60-X84",199,4872312,4.1
+"2013","2013","Georgia","13","Assault","X85-Y09",277,4872312,5.7
+"2013","2013","Idaho","16","Intentional self-harm","X60-X84",62,795754,7.8
+"2013","2013","Illinois","17","Other external causes of accidental injury","W00-X59",15,6067720,"Unreliable"
+"2013","2013","Illinois","17","Intentional self-harm","X60-X84",121,6067720,2
+"2013","2013","Illinois","17","Assault","X85-Y09",454,6067720,7.5
+"2013","2013","Indiana","18","Other external causes of accidental injury","W00-X59",10,3095023,"Unreliable"
+"2013","2013","Indiana","18","Intentional self-harm","X60-X84",141,3095023,4.6
+"2013","2013","Indiana","18","Assault","X85-Y09",210,3095023,6.8
+"2013","2013","Iowa","19","Intentional self-harm","X60-X84",65,1431941,4.5
+"2013","2013","Iowa","19","Assault","X85-Y09",12,1431941,"Unreliable"
+"2013","2013","Kansas","20","Intentional self-harm","X60-X84",61,1411764,4.3
+"2013","2013","Kansas","20","Assault","X85-Y09",50,1411764,3.5
+"2013","2013","Kentucky","21","Other external causes of accidental injury","W00-X59",10,2004973,"Unreliable"
+"2013","2013","Kentucky","21","Intentional self-harm","X60-X84",120,2004973,6
+"2013","2013","Kentucky","21","Assault","X85-Y09",81,2004973,4
+"2013","2013","Louisiana","22","Other external causes of accidental injury","W00-X59",11,2248343,"Unreliable"
+"2013","2013","Louisiana","22","Intentional self-harm","X60-X84",116,2248343,5.2
+"2013","2013","Louisiana","22","Assault","X85-Y09",309,2248343,13.7
+"2013","2013","Maine","23","Intentional self-harm","X60-X84",30,525641,5.7
+"2013","2013","Maryland","24","Intentional self-harm","X60-X84",70,2726352,2.6
+"2013","2013","Maryland","24","Assault","X85-Y09",221,2726352,8.1
+"2013","2013","Massachusetts","25","Intentional self-harm","X60-X84",27,2997614,0.9
+"2013","2013","Massachusetts","25","Assault","X85-Y09",67,2997614,2.2
+"2013","2013","Michigan","26","Intentional self-harm","X60-X84",170,4436186,3.8
+"2013","2013","Michigan","26","Assault","X85-Y09",307,4436186,6.9
+"2013","2013","Minnesota","27","Intentional self-harm","X60-X84",101,2528755,4
+"2013","2013","Minnesota","27","Assault","X85-Y09",54,2528755,2.1
+"2013","2013","Mississippi","28","Other external causes of accidental injury","W00-X59",12,1441311,"Unreliable"
+"2013","2013","Mississippi","28","Intentional self-harm","X60-X84",64,1441311,4.4
+"2013","2013","Mississippi","28","Assault","X85-Y09",132,1441311,9.2
+"2013","2013","Missouri","29","Intentional self-harm","X60-X84",131,2790179,4.7
+"2013","2013","Missouri","29","Assault","X85-Y09",193,2790179,6.9
+"2013","2013","Montana","30","Intentional self-harm","X60-X84",46,451655,10.2
+"2013","2013","Nebraska","31","Intentional self-harm","X60-X84",24,906084,2.6
+"2013","2013","Nebraska","31","Assault","X85-Y09",32,906084,3.5
+"2013","2013","Nevada","32","Intentional self-harm","X60-X84",75,1313870,5.7
+"2013","2013","Nevada","32","Assault","X85-Y09",47,1313870,3.6
+"2013","2013","New Hampshire","33","Intentional self-harm","X60-X84",18,549737,"Unreliable"
+"2013","2013","New Jersey","34","Intentional self-harm","X60-X84",44,3954329,1.1
+"2013","2013","New Jersey","34","Assault","X85-Y09",222,3954329,5.6
+"2013","2013","New Mexico","35","Intentional self-harm","X60-X84",63,996307,6.3
+"2013","2013","New Mexico","35","Assault","X85-Y09",55,996307,5.5
+"2013","2013","New York","36","Intentional self-harm","X60-X84",95,9026239,1.1
+"2013","2013","New York","36","Assault","X85-Y09",259,9026239,2.9
+"2013","2013","North Carolina","37","Intentional self-harm","X60-X84",176,4545535,3.9
+"2013","2013","North Carolina","37","Assault","X85-Y09",254,4545535,5.6
+"2013","2013","North Dakota","38","Intentional self-harm","X60-X84",34,359306,9.5
+"2013","2013","Ohio","39","Other external causes of accidental injury","W00-X59",11,5210773,"Unreliable"
+"2013","2013","Ohio","39","Intentional self-harm","X60-X84",183,5210773,3.5
+"2013","2013","Ohio","39","Assault","X85-Y09",315,5210773,6
+"2013","2013","Oklahoma","40","Intentional self-harm","X60-X84",129,1867035,6.9
+"2013","2013","Oklahoma","40","Assault","X85-Y09",98,1867035,5.2
+"2013","2013","Oregon","41","Intentional self-harm","X60-X84",95,1760813,5.4
+"2013","2013","Oregon","41","Assault","X85-Y09",27,1760813,1.5
+"2013","2013","Pennsylvania","42","Intentional self-harm","X60-X84",204,5572042,3.7
+"2013","2013","Pennsylvania","42","Assault","X85-Y09",312,5572042,5.6
+"2013","2013","Rhode Island","44","Assault","X85-Y09",12,467244,"Unreliable"
+"2013","2013","South Carolina","45","Intentional self-harm","X60-X84",123,2182070,5.6
+"2013","2013","South Carolina","45","Assault","X85-Y09",141,2182070,6.5
+"2013","2013","South Dakota","46","Intentional self-harm","X60-X84",21,404470,5.2
+"2013","2013","Tennessee","47","Intentional self-harm","X60-X84",141,2967879,4.8
+"2013","2013","Tennessee","47","Assault","X85-Y09",197,2967879,6.6
+"2013","2013","Texas","48","Other external causes of accidental injury","W00-X59",23,13587396,0.2
+"2013","2013","Texas","48","Intentional self-harm","X60-X84",511,13587396,3.8
+"2013","2013","Texas","48","Assault","X85-Y09",542,13587396,4
+"2013","2013","Utah","49","Intentional self-harm","X60-X84",94,1669637,5.6
+"2013","2013","Utah","49","Assault","X85-Y09",19,1669637,"Unreliable"
+"2013","2013","Vermont","50","Intentional self-harm","X60-X84",10,261559,"Unreliable"
+"2013","2013","Virginia","51","Intentional self-harm","X60-X84",148,3854535,3.8
+"2013","2013","Virginia","51","Assault","X85-Y09",136,3854535,3.5
+"2013","2013","Washington","53","Other external causes of accidental injury","W00-X59",10,3258147,"Unreliable"
+"2013","2013","Washington","53","Intentional self-harm","X60-X84",123,3258147,3.8
+"2013","2013","Washington","53","Assault","X85-Y09",71,3258147,2.2
+"2013","2013","West Virginia","54","Intentional self-harm","X60-X84",48,772999,6.2
+"2013","2013","West Virginia","54","Assault","X85-Y09",20,772999,2.6
+"2013","2013","Wisconsin","55","Intentional self-harm","X60-X84",119,2598973,4.6
+"2013","2013","Wisconsin","55","Assault","X85-Y09",78,2598973,3
+"2013","2013","Wyoming","56","Intentional self-harm","X60-X84",25,278072,9
+"2014","2014","Alabama","01","Other external causes of accidental injury","W00-X59",12,2213794,"Unreliable"
+"2014","2014","Alabama","01","Intentional self-harm","X60-X84",111,2213794,5
+"2014","2014","Alabama","01","Assault","X85-Y09",164,2213794,7.4
+"2014","2014","Alaska","02","Intentional self-harm","X60-X84",53,386706,13.7
+"2014","2014","Alaska","02","Assault","X85-Y09",11,386706,"Unreliable"
+"2014","2014","Arizona","04","Intentional self-harm","X60-X84",169,3191257,5.3
+"2014","2014","Arizona","04","Assault","X85-Y09",125,3191257,3.9
+"2014","2014","Arkansas","05","Intentional self-harm","X60-X84",86,1380113,6.2
+"2014","2014","Arkansas","05","Assault","X85-Y09",75,1380113,5.4
+"2014","2014","California","06","Other external causes of accidental injury","W00-X59",14,18870971,"Unreliable"
+"2014","2014","California","06","Intentional self-harm","X60-X84",290,18870971,1.5
+"2014","2014","California","06","Assault","X85-Y09",790,18870971,4.2
+"2014","2014","Colorado","08","Intentional self-harm","X60-X84",153,2568697,6
+"2014","2014","Colorado","08","Assault","X85-Y09",60,2568697,2.3
+"2014","2014","Connecticut","09","Intentional self-harm","X60-X84",22,1566794,1.4
+"2014","2014","Connecticut","09","Assault","X85-Y09",38,1566794,2.4
+"2014","2014","Delaware","10","Intentional self-harm","X60-X84",10,417642,"Unreliable"
+"2014","2014","Delaware","10","Assault","X85-Y09",24,417642,5.7
+"2014","2014","District of Columbia","11","Assault","X85-Y09",50,345789,14.5
+"2014","2014","Florida","12","Other external causes of accidental injury","W00-X59",10,8368971,"Unreliable"
+"2014","2014","Florida","12","Intentional self-harm","X60-X84",295,8368971,3.5
+"2014","2014","Florida","12","Assault","X85-Y09",537,8368971,6.4
+"2014","2014","Georgia","13","Other external causes of accidental injury","W00-X59",16,4898288,"Unreliable"
+"2014","2014","Georgia","13","Intentional self-harm","X60-X84",204,4898288,4.2
+"2014","2014","Georgia","13","Assault","X85-Y09",342,4898288,7
+"2014","2014","Idaho","16","Intentional self-harm","X60-X84",53,802491,6.6
+"2014","2014","Idaho","16","Assault","X85-Y09",13,802491,"Unreliable"
+"2014","2014","Illinois","17","Intentional self-harm","X60-X84",137,6021579,2.3
+"2014","2014","Illinois","17","Assault","X85-Y09",475,6021579,7.9
+"2014","2014","Indiana","18","Intentional self-harm","X60-X84",160,3097237,5.2
+"2014","2014","Indiana","18","Assault","X85-Y09",165,3097237,5.3
+"2014","2014","Iowa","19","Intentional self-harm","X60-X84",57,1438685,4
+"2014","2014","Iowa","19","Assault","X85-Y09",17,1438685,"Unreliable"
+"2014","2014","Kansas","20","Intentional self-harm","X60-X84",66,1412694,4.7
+"2014","2014","Kansas","20","Assault","X85-Y09",50,1412694,3.5
+"2014","2014","Kentucky","21","Intentional self-harm","X60-X84",96,2008691,4.8
+"2014","2014","Kentucky","21","Assault","X85-Y09",74,2008691,3.7
+"2014","2014","Louisiana","22","Intentional self-harm","X60-X84",124,2249714,5.5
+"2014","2014","Louisiana","22","Assault","X85-Y09",291,2249714,12.9
+"2014","2014","Maine","23","Intentional self-harm","X60-X84",27,524258,5.2
+"2014","2014","Maryland","24","Intentional self-harm","X60-X84",61,2741982,2.2
+"2014","2014","Maryland","24","Assault","X85-Y09",169,2741982,6.2
+"2014","2014","Massachusetts","25","Intentional self-harm","X60-X84",29,3019530,1
+"2014","2014","Massachusetts","25","Assault","X85-Y09",68,3019530,2.3
+"2014","2014","Michigan","26","Intentional self-harm","X60-X84",191,4428492,4.3
+"2014","2014","Michigan","26","Assault","X85-Y09",266,4428492,6
+"2014","2014","Minnesota","27","Intentional self-harm","X60-X84",86,2536756,3.4
+"2014","2014","Minnesota","27","Assault","X85-Y09",37,2536756,1.5
+"2014","2014","Mississippi","28","Intentional self-harm","X60-X84",66,1434099,4.6
+"2014","2014","Mississippi","28","Assault","X85-Y09",159,1434099,11.1
+"2014","2014","Missouri","29","Intentional self-harm","X60-X84",134,2789033,4.8
+"2014","2014","Missouri","29","Assault","X85-Y09",213,2789033,7.6
+"2014","2014","Montana","30","Intentional self-harm","X60-X84",34,455186,7.5
+"2014","2014","Nebraska","31","Intentional self-harm","X60-X84",46,911293,5
+"2014","2014","Nebraska","31","Assault","X85-Y09",27,911293,3
+"2014","2014","Nevada","32","Intentional self-harm","X60-X84",78,1325103,5.9
+"2014","2014","Nevada","32","Assault","X85-Y09",59,1325103,4.5
+"2014","2014","New Hampshire","33","Intentional self-harm","X60-X84",42,549629,7.6
+"2014","2014","New Jersey","34","Intentional self-harm","X60-X84",36,3957669,0.9
+"2014","2014","New Jersey","34","Assault","X85-Y09",193,3957669,4.9
+"2014","2014","New Mexico","35","Intentional self-harm","X60-X84",70,990081,7.1
+"2014","2014","New Mexico","35","Assault","X85-Y09",51,990081,5.2
+"2014","2014","New York","36","Intentional self-harm","X60-X84",97,9051661,1.1
+"2014","2014","New York","36","Assault","X85-Y09",268,9051661,3
+"2014","2014","North Carolina","37","Other external causes of accidental injury","W00-X59",19,4567687,"Unreliable"
+"2014","2014","North Carolina","37","Intentional self-harm","X60-X84",178,4567687,3.9
+"2014","2014","North Carolina","37","Assault","X85-Y09",246,4567687,5.4
+"2014","2014","North Dakota","38","Intentional self-harm","X60-X84",31,370447,8.4
+"2014","2014","Ohio","39","Other external causes of accidental injury","W00-X59",10,5208706,"Unreliable"
+"2014","2014","Ohio","39","Intentional self-harm","X60-X84",181,5208706,3.5
+"2014","2014","Ohio","39","Assault","X85-Y09",289,5208706,5.5
+"2014","2014","Oklahoma","40","Other external causes of accidental injury","W00-X59",12,1878112,"Unreliable"
+"2014","2014","Oklahoma","40","Intentional self-harm","X60-X84",120,1878112,6.4
+"2014","2014","Oklahoma","40","Assault","X85-Y09",90,1878112,4.8
+"2014","2014","Oregon","41","Intentional self-harm","X60-X84",101,1766938,5.7
+"2014","2014","Oregon","41","Assault","X85-Y09",21,1766938,1.2
+"2014","2014","Pennsylvania","42","Intentional self-harm","X60-X84",175,5567460,3.1
+"2014","2014","Pennsylvania","42","Assault","X85-Y09",307,5567460,5.5
+"2014","2014","Rhode Island","44","Assault","X85-Y09",10,468753,"Unreliable"
+"2014","2014","South Carolina","45","Intentional self-harm","X60-X84",125,2194795,5.7
+"2014","2014","South Carolina","45","Assault","X85-Y09",178,2194795,8.1
+"2014","2014","South Dakota","46","Intentional self-harm","X60-X84",28,408019,6.9
+"2014","2014","Tennessee","47","Intentional self-harm","X60-X84",146,2984507,4.9
+"2014","2014","Tennessee","47","Assault","X85-Y09",201,2984507,6.7
+"2014","2014","Texas","48","Other external causes of accidental injury","W00-X59",18,13788953,"Unreliable"
+"2014","2014","Texas","48","Intentional self-harm","X60-X84",495,13788953,3.6
+"2014","2014","Texas","48","Assault","X85-Y09",574,13788953,4.2
+"2014","2014","Utah","49","Intentional self-harm","X60-X84",101,1678125,6
+"2014","2014","Utah","49","Assault","X85-Y09",19,1678125,"Unreliable"
+"2014","2014","Vermont","50","Intentional self-harm","X60-X84",16,260917,"Unreliable"
+"2014","2014","Virginia","51","Intentional self-harm","X60-X84",166,3873758,4.3
+"2014","2014","Virginia","51","Assault","X85-Y09",148,3873758,3.8
+"2014","2014","Washington","53","Intentional self-harm","X60-X84",158,3292600,4.8
+"2014","2014","Washington","53","Assault","X85-Y09",78,3292600,2.4
+"2014","2014","West Virginia","54","Intentional self-harm","X60-X84",51,769525,6.6
+"2014","2014","West Virginia","54","Assault","X85-Y09",24,769525,3.1
+"2014","2014","Wisconsin","55","Intentional self-harm","X60-X84",91,2593935,3.5
+"2014","2014","Wisconsin","55","Assault","X85-Y09",89,2593935,3.4
+"2014","2014","Wyoming","56","Intentional self-harm","X60-X84",28,278391,10.1
+"2015","2015","Alabama","01","Other external causes of accidental injury","W00-X59",11,2204882,"Unreliable"
+"2015","2015","Alabama","01","Intentional self-harm","X60-X84",132,2204882,6
+"2015","2015","Alabama","01","Assault","X85-Y09",228,2204882,10.3
+"2015","2015","Alaska","02","Intentional self-harm","X60-X84",59,387375,15.2
+"2015","2015","Alaska","02","Assault","X85-Y09",29,387375,7.5
+"2015","2015","Arizona","04","Intentional self-harm","X60-X84",184,3208929,5.7
+"2015","2015","Arizona","04","Assault","X85-Y09",146,3208929,4.5
+"2015","2015","Arkansas","05","Intentional self-harm","X60-X84",87,1378399,6.3
+"2015","2015","Arkansas","05","Assault","X85-Y09",100,1378399,7.3
+"2015","2015","California","06","Other external causes of accidental injury","W00-X59",16,18891712,"Unreliable"
+"2015","2015","California","06","Intentional self-harm","X60-X84",350,18891712,1.9
+"2015","2015","California","06","Assault","X85-Y09",918,18891712,4.9
+"2015","2015","Colorado","08","Intentional self-harm","X60-X84",176,2611479,6.7
+"2015","2015","Colorado","08","Assault","X85-Y09",81,2611479,3.1
+"2015","2015","Connecticut","09","Intentional self-harm","X60-X84",21,1557824,1.3
+"2015","2015","Connecticut","09","Assault","X85-Y09",48,1557824,3.1
+"2015","2015","Delaware","10","Intentional self-harm","X60-X84",18,418227,"Unreliable"
+"2015","2015","Delaware","10","Assault","X85-Y09",40,418227,9.6
+"2015","2015","District of Columbia","11","Assault","X85-Y09",84,352093,23.9
+"2015","2015","Florida","12","Other external causes of accidental injury","W00-X59",13,8478167,"Unreliable"
+"2015","2015","Florida","12","Intentional self-harm","X60-X84",345,8478167,4.1
+"2015","2015","Florida","12","Assault","X85-Y09",559,8478167,6.6
+"2015","2015","Georgia","13","Other external causes of accidental injury","W00-X59",14,4923336,"Unreliable"
+"2015","2015","Georgia","13","Intentional self-harm","X60-X84",226,4923336,4.6
+"2015","2015","Georgia","13","Assault","X85-Y09",391,4923336,7.9
+"2015","2015","Hawaii","15","Intentional self-harm","X60-X84",11,662922,"Unreliable"
+"2015","2015","Idaho","16","Intentional self-harm","X60-X84",69,806452,8.6
+"2015","2015","Illinois","17","Intentional self-harm","X60-X84",121,5968862,2
+"2015","2015","Illinois","17","Assault","X85-Y09",530,5968862,8.9
+"2015","2015","Indiana","18","Intentional self-harm","X60-X84",154,3095759,5
+"2015","2015","Indiana","18","Assault","X85-Y09",208,3095759,6.7
+"2015","2015","Iowa","19","Intentional self-harm","X60-X84",62,1442484,4.3
+"2015","2015","Iowa","19","Assault","X85-Y09",31,1442484,2.1
+"2015","2015","Kansas","20","Intentional self-harm","X60-X84",63,1411023,4.5
+"2015","2015","Kansas","20","Assault","X85-Y09",59,1411023,4.2
+"2015","2015","Kentucky","21","Intentional self-harm","X60-X84",130,2003834,6.5
+"2015","2015","Kentucky","21","Assault","X85-Y09",98,2003834,4.9
+"2015","2015","Louisiana","22","Other external causes of accidental injury","W00-X59",10,2246686,"Unreliable"
+"2015","2015","Louisiana","22","Intentional self-harm","X60-X84",129,2246686,5.7
+"2015","2015","Louisiana","22","Assault","X85-Y09",292,2246686,13
+"2015","2015","Maine","23","Intentional self-harm","X60-X84",21,521681,4
+"2015","2015","Maryland","24","Intentional self-harm","X60-X84",49,2738965,1.8
+"2015","2015","Maryland","24","Assault","X85-Y09",319,2738965,11.6
+"2015","2015","Massachusetts","25","Intentional self-harm","X60-X84",19,3031960,"Unreliable"
+"2015","2015","Massachusetts","25","Assault","X85-Y09",71,3031960,2.3
+"2015","2015","Michigan","26","Intentional self-harm","X60-X84",181,4418130,4.1
+"2015","2015","Michigan","26","Assault","X85-Y09",259,4418130,5.9
+"2015","2015","Minnesota","27","Intentional self-harm","X60-X84",95,2537828,3.7
+"2015","2015","Minnesota","27","Assault","X85-Y09",58,2537828,2.3
+"2015","2015","Mississippi","28","Other external causes of accidental injury","W00-X59",11,1423328,"Unreliable"
+"2015","2015","Mississippi","28","Intentional self-harm","X60-X84",73,1423328,5.1
+"2015","2015","Mississippi","28","Assault","X85-Y09",126,1423328,8.9
+"2015","2015","Missouri","29","Other external causes of accidental injury","W00-X59",10,2785642,"Unreliable"
+"2015","2015","Missouri","29","Intentional self-harm","X60-X84",151,2785642,5.4
+"2015","2015","Missouri","29","Assault","X85-Y09",293,2785642,10.5
+"2015","2015","Montana","30","Intentional self-harm","X60-X84",52,458262,11.3
+"2015","2015","Nebraska","31","Intentional self-harm","X60-X84",43,915644,4.7
+"2015","2015","Nebraska","31","Assault","X85-Y09",36,915644,3.9
+"2015","2015","Nevada","32","Intentional self-harm","X60-X84",73,1339794,5.4
+"2015","2015","Nevada","32","Assault","X85-Y09",66,1339794,4.9
+"2015","2015","New Hampshire","33","Intentional self-harm","X60-X84",23,549253,4.2
+"2015","2015","New Jersey","34","Intentional self-harm","X60-X84",41,3946815,1
+"2015","2015","New Jersey","34","Assault","X85-Y09",184,3946815,4.7
+"2015","2015","New Mexico","35","Intentional self-harm","X60-X84",82,981878,8.4
+"2015","2015","New Mexico","35","Assault","X85-Y09",54,981878,5.5
+"2015","2015","New York","36","Intentional self-harm","X60-X84",92,9032848,1
+"2015","2015","New York","36","Assault","X85-Y09",289,9032848,3.2
+"2015","2015","North Carolina","37","Other external causes of accidental injury","W00-X59",23,4587252,0.5
+"2015","2015","North Carolina","37","Intentional self-harm","X60-X84",182,4587252,4
+"2015","2015","North Carolina","37","Assault","X85-Y09",276,4587252,6
+"2015","2015","North Dakota","38","Intentional self-harm","X60-X84",26,382325,6.8
+"2015","2015","Ohio","39","Intentional self-harm","X60-X84",248,5200779,4.8
+"2015","2015","Ohio","39","Assault","X85-Y09",327,5200779,6.3
+"2015","2015","Oklahoma","40","Intentional self-harm","X60-X84",126,1891297,6.7
+"2015","2015","Oklahoma","40","Assault","X85-Y09",129,1891297,6.8
+"2015","2015","Oregon","41","Intentional self-harm","X60-X84",88,1783614,4.9
+"2015","2015","Oregon","41","Assault","X85-Y09",49,1783614,2.7
+"2015","2015","Pennsylvania","42","Intentional self-harm","X60-X84",213,5557874,3.8
+"2015","2015","Pennsylvania","42","Assault","X85-Y09",361,5557874,6.5
+"2015","2015","South Carolina","45","Intentional self-harm","X60-X84",139,2210177,6.3
+"2015","2015","South Carolina","45","Assault","X85-Y09",222,2210177,10
+"2015","2015","South Dakota","46","Intentional self-harm","X60-X84",28,408090,6.9
+"2015","2015","South Dakota","46","Assault","X85-Y09",10,408090,"Unreliable"
+"2015","2015","Tennessee","47","Other external causes of accidental injury","W00-X59",10,2996412,"Unreliable"
+"2015","2015","Tennessee","47","Intentional self-harm","X60-X84",140,2996412,4.7
+"2015","2015","Tennessee","47","Assault","X85-Y09",220,2996412,7.3
+"2015","2015","Texas","48","Other external causes of accidental injury","W00-X59",18,13995583,"Unreliable"
+"2015","2015","Texas","48","Intentional self-harm","X60-X84",546,13995583,3.9
+"2015","2015","Texas","48","Assault","X85-Y09",677,13995583,4.8
+"2015","2015","Utah","49","Intentional self-harm","X60-X84",124,1694336,7.3
+"2015","2015","Utah","49","Assault","X85-Y09",30,1694336,1.8
+"2015","2015","Vermont","50","Intentional self-harm","X60-X84",16,259519,"Unreliable"
+"2015","2015","Virginia","51","Intentional self-harm","X60-X84",157,3877075,4
+"2015","2015","Virginia","51","Assault","X85-Y09",194,3877075,5
+"2015","2015","Washington","53","Intentional self-harm","X60-X84",146,3331119,4.4
+"2015","2015","Washington","53","Assault","X85-Y09",95,3331119,2.9
+"2015","2015","West Virginia","54","Intentional self-harm","X60-X84",37,763741,4.8
+"2015","2015","West Virginia","54","Assault","X85-Y09",26,763741,3.4
+"2015","2015","Wisconsin","55","Intentional self-harm","X60-X84",124,2584750,4.8
+"2015","2015","Wisconsin","55","Assault","X85-Y09",118,2584750,4.6
+"2015","2015","Wyoming","56","Intentional self-harm","X60-X84",34,278251,12.2
+"2016","2016","Alabama","01","Other external causes of accidental injury","W00-X59",12,2193926,"Unreliable"
+"2016","2016","Alabama","01","Intentional self-harm","X60-X84",140,2193926,6.4
+"2016","2016","Alabama","01","Assault","X85-Y09",277,2193926,12.6
+"2016","2016","Alaska","02","Intentional self-harm","X60-X84",62,383054,16.2
+"2016","2016","Alaska","02","Assault","X85-Y09",31,383054,8.1
+"2016","2016","Arizona","04","Intentional self-harm","X60-X84",178,3236888,5.5
+"2016","2016","Arizona","04","Assault","X85-Y09",183,3236888,5.7
+"2016","2016","Arkansas","05","Intentional self-harm","X60-X84",83,1379546,6
+"2016","2016","Arkansas","05","Assault","X85-Y09",97,1379546,7
+"2016","2016","California","06","Other external causes of accidental injury","W00-X59",27,18859435,0.1
+"2016","2016","California","06","Intentional self-harm","X60-X84",363,18859435,1.9
+"2016","2016","California","06","Assault","X85-Y09",973,18859435,5.2
+"2016","2016","Colorado","08","Intentional self-harm","X60-X84",189,2637912,7.2
+"2016","2016","Colorado","08","Assault","X85-Y09",95,2637912,3.6
+"2016","2016","Connecticut","09","Intentional self-harm","X60-X84",18,1547339,"Unreliable"
+"2016","2016","Connecticut","09","Assault","X85-Y09",42,1547339,2.7
+"2016","2016","Delaware","10","Intentional self-harm","X60-X84",12,417359,"Unreliable"
+"2016","2016","Delaware","10","Assault","X85-Y09",37,417359,8.9
+"2016","2016","District of Columbia","11","Assault","X85-Y09",71,356025,19.9
+"2016","2016","Florida","12","Intentional self-harm","X60-X84",330,8569760,3.9
+"2016","2016","Florida","12","Assault","X85-Y09",633,8569760,7.4
+"2016","2016","Georgia","13","Other external causes of accidental injury","W00-X59",12,4939230,"Unreliable"
+"2016","2016","Georgia","13","Intentional self-harm","X60-X84",259,4939230,5.2
+"2016","2016","Georgia","13","Assault","X85-Y09",441,4939230,8.9
+"2016","2016","Hawaii","15","Intentional self-harm","X60-X84",14,644690,"Unreliable"
+"2016","2016","Idaho","16","Intentional self-harm","X60-X84",57,815297,7
+"2016","2016","Illinois","17","Intentional self-harm","X60-X84",117,5914652,2
+"2016","2016","Illinois","17","Assault","X85-Y09",714,5914652,12.1
+"2016","2016","Indiana","18","Other external causes of accidental injury","W00-X59",13,3096378,"Unreliable"
+"2016","2016","Indiana","18","Intentional self-harm","X60-X84",161,3096378,5.2
+"2016","2016","Indiana","18","Assault","X85-Y09",237,3096378,7.7
+"2016","2016","Iowa","19","Intentional self-harm","X60-X84",68,1447201,4.7
+"2016","2016","Iowa","19","Assault","X85-Y09",29,1447201,2
+"2016","2016","Kansas","20","Intentional self-harm","X60-X84",90,1396690,6.4
+"2016","2016","Kansas","20","Assault","X85-Y09",65,1396690,4.7
+"2016","2016","Kentucky","21","Other external causes of accidental injury","W00-X59",14,2005905,"Unreliable"
+"2016","2016","Kentucky","21","Intentional self-harm","X60-X84",123,2005905,6.1
+"2016","2016","Kentucky","21","Assault","X85-Y09",123,2005905,6.1
+"2016","2016","Louisiana","22","Intentional self-harm","X60-X84",128,2238140,5.7
+"2016","2016","Louisiana","22","Assault","X85-Y09",338,2238140,15.1
+"2016","2016","Maine","23","Intentional self-harm","X60-X84",32,521991,6.1
+"2016","2016","Maryland","24","Intentional self-harm","X60-X84",55,2730039,2
+"2016","2016","Maryland","24","Assault","X85-Y09",313,2730039,11.5
+"2016","2016","Massachusetts","25","Intentional self-harm","X60-X84",30,3034682,1
+"2016","2016","Massachusetts","25","Assault","X85-Y09",69,3034682,2.3
+"2016","2016","Michigan","26","Intentional self-harm","X60-X84",187,4418411,4.2
+"2016","2016","Michigan","26","Assault","X85-Y09",313,4418411,7.1
+"2016","2016","Minnesota","27","Intentional self-harm","X60-X84",97,2544287,3.8
+"2016","2016","Minnesota","27","Assault","X85-Y09",49,2544287,1.9
+"2016","2016","Mississippi","28","Intentional self-harm","X60-X84",85,1411458,6
+"2016","2016","Mississippi","28","Assault","X85-Y09",178,1411458,12.6
+"2016","2016","Missouri","29","Intentional self-harm","X60-X84",209,2778422,7.5
+"2016","2016","Missouri","29","Assault","X85-Y09",287,2778422,10.3
+"2016","2016","Montana","30","Intentional self-harm","X60-X84",55,459887,12
+"2016","2016","Nebraska","31","Intentional self-harm","X60-X84",49,918989,5.3
+"2016","2016","Nebraska","31","Assault","X85-Y09",21,918989,2.3
+"2016","2016","Nevada","32","Intentional self-harm","X60-X84",81,1355779,6
+"2016","2016","Nevada","32","Assault","X85-Y09",91,1355779,6.7
+"2016","2016","New Hampshire","33","Intentional self-harm","X60-X84",32,548708,5.8
+"2016","2016","New Jersey","34","Intentional self-harm","X60-X84",28,3933559,0.7
+"2016","2016","New Jersey","34","Assault","X85-Y09",214,3933559,5.4
+"2016","2016","New Mexico","35","Intentional self-harm","X60-X84",68,970925,7
+"2016","2016","New Mexico","35","Assault","X85-Y09",72,970925,7.4
+"2016","2016","New York","36","Intentional self-harm","X60-X84",100,8976383,1.1
+"2016","2016","New York","36","Assault","X85-Y09",271,8976383,3
+"2016","2016","North Carolina","37","Other external causes of accidental injury","W00-X59",11,4600408,"Unreliable"
+"2016","2016","North Carolina","37","Intentional self-harm","X60-X84",200,4600408,4.3
+"2016","2016","North Carolina","37","Assault","X85-Y09",338,4600408,7.3
+"2016","2016","North Dakota","38","Intentional self-harm","X60-X84",24,380976,6.3
+"2016","2016","Ohio","39","Intentional self-harm","X60-X84",259,5194567,5
+"2016","2016","Ohio","39","Assault","X85-Y09",355,5194567,6.8
+"2016","2016","Oklahoma","40","Intentional self-harm","X60-X84",160,1890169,8.5
+"2016","2016","Oklahoma","40","Assault","X85-Y09",125,1890169,6.6
+"2016","2016","Oregon","41","Intentional self-harm","X60-X84",88,1809147,4.9
+"2016","2016","Oregon","41","Assault","X85-Y09",41,1809147,2.3
+"2016","2016","Pennsylvania","42","Other external causes of accidental injury","W00-X59",11,5540114,"Unreliable"
+"2016","2016","Pennsylvania","42","Intentional self-harm","X60-X84",245,5540114,4.4
+"2016","2016","Pennsylvania","42","Assault","X85-Y09",394,5540114,7.1
+"2016","2016","South Carolina","45","Other external causes of accidental injury","W00-X59",16,2221188,"Unreliable"
+"2016","2016","South Carolina","45","Intentional self-harm","X60-X84",132,2221188,5.9
+"2016","2016","South Carolina","45","Assault","X85-Y09",203,2221188,9.1
+"2016","2016","South Dakota","46","Intentional self-harm","X60-X84",23,410158,5.6
+"2016","2016","South Dakota","46","Assault","X85-Y09",10,410158,"Unreliable"
+"2016","2016","Tennessee","47","Intentional self-harm","X60-X84",172,3011716,5.7
+"2016","2016","Tennessee","47","Assault","X85-Y09",278,3011716,9.2
+"2016","2016","Texas","48","Other external causes of accidental injury","W00-X59",27,14148037,0.2
+"2016","2016","Texas","48","Intentional self-harm","X60-X84",643,14148037,4.5
+"2016","2016","Texas","48","Assault","X85-Y09",754,14148037,5.3
+"2016","2016","Utah","49","Intentional self-harm","X60-X84",107,1713901,6.2
+"2016","2016","Utah","49","Assault","X85-Y09",33,1713901,1.9
+"2016","2016","Vermont","50","Intentional self-harm","X60-X84",18,258980,"Unreliable"
+"2016","2016","Virginia","51","Intentional self-harm","X60-X84",191,3854390,5
+"2016","2016","Virginia","51","Assault","X85-Y09",216,3854390,5.6
+"2016","2016","Washington","53","Intentional self-harm","X60-X84",148,3371764,4.4
+"2016","2016","Washington","53","Assault","X85-Y09",86,3371764,2.6
+"2016","2016","West Virginia","54","Intentional self-harm","X60-X84",52,755703,6.9
+"2016","2016","West Virginia","54","Assault","X85-Y09",41,755703,5.4
+"2016","2016","Wisconsin","55","Intentional self-harm","X60-X84",149,2577273,5.8
+"2016","2016","Wisconsin","55","Assault","X85-Y09",118,2577273,4.6
+"2016","2016","Wyoming","56","Intentional self-harm","X60-X84",22,276037,8
