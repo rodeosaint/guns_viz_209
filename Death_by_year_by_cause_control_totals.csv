@@ -1,0 +1,55 @@
+"Year","Year Code","ICD Sub-Chapter","ICD Sub-Chapter Code","Deaths","Population","Crude Rate"
+"1999","1999","Other external causes of accidental injury","W00-X59",824,279040168,0.3
+"1999","1999","Intentional self-harm","X60-X84",16599,279040168,5.9
+"1999","1999","Assault","X85-Y09",10828,279040168,3.9
+"2000","2000","Other external causes of accidental injury","W00-X59",776,281421906,0.3
+"2000","2000","Intentional self-harm","X60-X84",16586,281421906,5.9
+"2000","2000","Assault","X85-Y09",10801,281421906,3.8
+"2001","2001","Other external causes of accidental injury","W00-X59",802,284968955,0.3
+"2001","2001","Intentional self-harm","X60-X84",16869,284968955,5.9
+"2001","2001","Assault","X85-Y09",11348,284968955,4
+"2002","2002","Other external causes of accidental injury","W00-X59",762,287625193,0.3
+"2002","2002","Intentional self-harm","X60-X84",17108,287625193,5.9
+"2002","2002","Assault","X85-Y09",11829,287625193,4.1
+"2003","2003","Other external causes of accidental injury","W00-X59",730,290107933,0.3
+"2003","2003","Intentional self-harm","X60-X84",16907,290107933,5.8
+"2003","2003","Assault","X85-Y09",11920,290107933,4.1
+"2004","2004","Other external causes of accidental injury","W00-X59",649,292805298,0.2
+"2004","2004","Intentional self-harm","X60-X84",16750,292805298,5.7
+"2004","2004","Assault","X85-Y09",11624,292805298,4
+"2005","2005","Other external causes of accidental injury","W00-X59",789,295516599,0.3
+"2005","2005","Intentional self-harm","X60-X84",17002,295516599,5.8
+"2005","2005","Assault","X85-Y09",12352,295516599,4.2
+"2006","2006","Other external causes of accidental injury","W00-X59",642,298379912,0.2
+"2006","2006","Intentional self-harm","X60-X84",16883,298379912,5.7
+"2006","2006","Assault","X85-Y09",12791,298379912,4.3
+"2007","2007","Other external causes of accidental injury","W00-X59",613,301231207,0.2
+"2007","2007","Intentional self-harm","X60-X84",17352,301231207,5.8
+"2007","2007","Assault","X85-Y09",12632,301231207,4.2
+"2008","2008","Other external causes of accidental injury","W00-X59",592,304093966,0.2
+"2008","2008","Intentional self-harm","X60-X84",18223,304093966,6
+"2008","2008","Assault","X85-Y09",12179,304093966,4
+"2009","2009","Other external causes of accidental injury","W00-X59",554,306771529,0.2
+"2009","2009","Intentional self-harm","X60-X84",18735,306771529,6.1
+"2009","2009","Assault","X85-Y09",11493,306771529,3.7
+"2010","2010","Other external causes of accidental injury","W00-X59",606,308745538,0.2
+"2010","2010","Intentional self-harm","X60-X84",19392,308745538,6.3
+"2010","2010","Assault","X85-Y09",11078,308745538,3.6
+"2011","2011","Other external causes of accidental injury","W00-X59",591,311591917,0.2
+"2011","2011","Intentional self-harm","X60-X84",19990,311591917,6.4
+"2011","2011","Assault","X85-Y09",11068,311591917,3.6
+"2012","2012","Other external causes of accidental injury","W00-X59",548,313914040,0.2
+"2012","2012","Intentional self-harm","X60-X84",20666,313914040,6.6
+"2012","2012","Assault","X85-Y09",11622,313914040,3.7
+"2013","2013","Other external causes of accidental injury","W00-X59",505,316128839,0.2
+"2013","2013","Intentional self-harm","X60-X84",21175,316128839,6.7
+"2013","2013","Assault","X85-Y09",11207,316128839,3.5
+"2014","2014","Other external causes of accidental injury","W00-X59",461,318857056,0.1
+"2014","2014","Intentional self-harm","X60-X84",21386,318857056,6.7
+"2014","2014","Assault","X85-Y09",11008,318857056,3.5
+"2015","2015","Other external causes of accidental injury","W00-X59",489,321418820,0.2
+"2015","2015","Intentional self-harm","X60-X84",22018,321418820,6.9
+"2015","2015","Assault","X85-Y09",12974,321418820,4
+"2016","2016","Other external causes of accidental injury","W00-X59",495,323127513,0.2
+"2016","2016","Intentional self-harm","X60-X84",22938,323127513,7.1
+"2016","2016","Assault","X85-Y09",14415,323127513,4.5
